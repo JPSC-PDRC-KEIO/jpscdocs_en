@@ -52,8 +52,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'jpscdocs_en'
-copyright = '2016, SAKAGUCHI Naofumi'
-author = 'SAKAGUCHI Naofumi'
+copyright = '2020, JPSC-PDRC-KEIO'
+author = 'JPSC'
 
 
 rst_prolog = """
