@@ -1,2 +1,2 @@
-JPSC Questionaire English Version
-===================================
+JPSC Questionnaire English Version
+======================================
