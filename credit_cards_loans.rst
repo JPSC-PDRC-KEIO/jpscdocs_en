@@ -50,7 +50,7 @@ Are you and your husband repaying any loan(s) (car loan, consumer loan, cashing,
 1. Yes
 2. No ----> (Go to :numref:`Q{number} <a-loan-application-rejected>`.)
 
-What is the total balance due on the loan(s) and the amount of loan(s) you have repaid during the past year (October 2015 - - September 2016)?
+What is the total balance due on the loan(s) and the amount of loan(s) you have repaid during the past year (October  |syear prev|  - - September |syear|)?
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Total balance due on the loan(s)	\______ ten thousand yen
@@ -59,7 +59,7 @@ What is the total balance due on the loan(s) and the amount of loan(s) you have 
 O. We did not repay in the past year
 
 
-Have you newly borrowed money during the past year (October 2015 - - September 2016)?
+Have you newly borrowed money during the past year (October  |syear prev|  - - September |syear|)?
 --------------------------------------------------------------------------------------------------------
 
 1. Yes   New balance due on the loan(s)	\______ ten thousand yen
@@ -173,7 +173,7 @@ How do you and your husband feel about the burden of your repayments?
 
 .. _a-loan-application-rejected :
 
-Have you and your husband ever had a loan application rejected during the past year (October 2015 to September 2016)?
+Have you and your husband ever had a loan application rejected during the past year (October  |syear prev|  to September |syear|)?
 ========================================================================================================================
 
 (Circle as many as apply to you.)
@@ -182,7 +182,7 @@ Have you and your husband ever had a loan application rejected during the past y
 2. No, but we had the loan amount decreased
 3. No
 
-Have you and your husband ever given up asking for a loan during the past year (October 2015 to September 2016) because you thought it would be rejected?
+Have you and your husband ever given up asking for a loan during the past year (October  |syear prev|  to September |syear|) because you thought it would be rejected?
 ===========================================================================================================================================================
 
 1. Yes

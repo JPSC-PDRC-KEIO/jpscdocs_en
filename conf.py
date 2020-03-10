@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # jpscdoc documentation build configuration file, created by
-# sphinx-quickstart on Tue Dec 27 17:26:09 2016.
+# sphinx-quickstart on Tue Dec 27 17:26:09 |syear prev|.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -125,14 +125,18 @@ todo_include_todos = True
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-# 
-html_theme = 'bizstyle'
+#
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-html_theme_options =  {'maincolor' : "#966868"}
+html_theme_options =  {
+ 'titles_only': True,
+ 'navigation_depth': 2,
+ 'sticky_navigation': False
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
 # html_theme_path = []

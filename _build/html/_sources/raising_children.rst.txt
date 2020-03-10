@@ -5,7 +5,7 @@
 
 [If you have a child/ children, please answer Questions 8.1–6. If you do not have a child/children, please go  to Section 9.]
 
-Approximately how much have you spent on your child’s/children’s education in the past 12 months (October 2015–September 2016)? Please fill in the table below. If no costs has been incurred, please enter “0 yen.” (If school grade does not apply, please leave it blank).
+Approximately how much have you spent on your child’s/children’s education in the past 12 months (October  |syear prev| –September |syear|)? Please fill in the table below. If no costs has been incurred, please enter “0 yen.” (If school grade does not apply, please leave it blank).
 ============================================================================================================================================================================================================================================================================================================================================================================================
 
 .. csv-table::

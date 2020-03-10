@@ -2,7 +2,7 @@
  Relationship with your parents and your husband’s parents
 ============================================================
 
-How much was the total annual income (before tax) of your parent(s) in the past year (January 2015 to December 2015)?
+How much was the total annual income (before tax) of your parent(s) in the past year (January  |syear prev|  to December  |syear prev| )?
 =====================================================================================================================
 
 1.	Not more than 2.49 million yen
@@ -14,7 +14,7 @@ How much was the total annual income (before tax) of your parent(s) in the past 
 7.	15.00 million yen or more
 8.	(I had already lost my parents.)
 
-How much was the total annual income (before tax) of your husband’s parent(s) in the past year (January 2015 to December 2015)?
+How much was the total annual income (before tax) of your husband’s parent(s) in the past year (January  |syear prev|  to December  |syear prev| )?
 ================================================================================================================================
 
 1.	Not more than 2.49 million yen
@@ -26,7 +26,7 @@ How much was the total annual income (before tax) of your husband’s parent(s) 
 7.	15.00 million yen or over
 8.	(He had already lost his parents.)
 
-Have you and your husband received financial and real assets from your parent(s) during the past year (January 2015 to December 2015)?
+Have you and your husband received financial and real assets from your parent(s) during the past year (January  |syear prev|  to December  |syear prev| )?
 =======================================================================================================================================
 
 .. list-table::
@@ -69,7 +69,7 @@ Do you and your husband expect to receive financial and real assets from your pa
 
 
 
-Have you and your husband received financial and real assets from your husband’s parent(s) during the past year (January 2015 to December 2015)?
+Have you and your husband received financial and real assets from your husband’s parent(s) during the past year (January  |syear prev|  to December  |syear prev| )?
 ===================================================================================================================================================
 
 .. list-table::

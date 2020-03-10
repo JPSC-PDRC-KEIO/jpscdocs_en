@@ -125,7 +125,7 @@ Please write down your household expenditure in September this year.
 
 
 
-What was the total annual income of your household (excluding income from your children) in the past calendar year (January 2015 to December 2015), including income from assets, social insurance benefits, and money from your parent(s) and your husband's parents?
+What was the total annual income of your household (excluding income from your children) in the past calendar year (January  |syear prev|  to December  |syear prev| ), including income from assets, social insurance benefits, and money from your parent(s) and your husband's parents?
 ===================================================================================================================================================================================================================================================================
 
 (Please enter the amount broken down into the 5 categories below. If there was no income for any of the items, circle the answer “0 None”.)
@@ -166,7 +166,7 @@ Who is/are the member(s) of your household?
    他の付問は番号付き
 
 
-What was the total amount of tax (income, resident, and other taxes) and social insurance payments (health, public pension, employment, and other insurance premiums) that you, your husband, and other household member(s) paid in the past year (January 2015 to December 2015)?
+What was the total amount of tax (income, resident, and other taxes) and social insurance payments (health, public pension, employment, and other insurance premiums) that you, your husband, and other household member(s) paid in the past year (January  |syear prev|  to December  |syear prev| )?
 =================================================================================================================================================================================================================================================================================
 
 (If any of these taxes or charges were not paid, circle "0 Not paid".)

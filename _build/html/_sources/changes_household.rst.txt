@@ -32,7 +32,7 @@ Which changes occurred in your household in the past year (October |syear prev| 
 
 .. jump::
 
-   If you gave birth in the past year (October |syear prev| to September |syear|), please answer :numref:`Q{number} <if-you-gave-birth>`. If not, move to :numref:`Q{number} <how-as-preparation-for-your-child-respondent>`. 
+   If you gave birth in the past year (October |syear prev| to September |syear|), please answer :numref:`Q{number} <if-you-gave-birth>`. If not, move to :numref:`Q{number} <how-as-preparation-for-your-child-respondent>`.
 
 
 .. _if-you-gave-birth:
@@ -43,7 +43,7 @@ If you gave birth in the past year (October |syear prev| to September |syear|),
 Your new baby is your:
 ---------------------------------------------------
 
-1. First child 
+1. First child
 2. Second child
 3. Third or later child
 
@@ -55,7 +55,7 @@ How much did you pay for childbirth?
    :header-rows: 0
    :widths: 3, 3
 
-   * - Total payment to a hospital (including periodical diagnoses) 
+   * - Total payment to a hospital (including periodical diagnoses)
      - About \_\_\_ ten thousand yen
    * - Total expenses for childcare goods
      - About \_\_\_ ten thousand yen
@@ -121,7 +121,7 @@ Did your husband use the childcare leave system or childcare time?
 2. No
 3. here was (or is) no such system
 
-[Q2.3 is for parents whose children started primary school or later schooling in the past 1 year (October 2015 to September 2016). If this does not apply to you, please go to :numref:`Q{number} <Who-died>`.]
+[Q2.3 is for parents whose children started primary school or later schooling in the past 1 year (October  |syear prev|  to September |syear|). If this does not apply to you, please go to :numref:`Q{number} <Who-died>`.]
 
 .. _how-as-preparation-for-your-child-respondent:
 
@@ -141,7 +141,7 @@ How was preparation for your child’s school entry (e.g., purchasing a desk and
 7. No need to prepare funds
 8. Other (Please specfy : _______________ )
 
-[Please answer Q2.4 if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October 2015 to September 2016). If not, go to :numref:`Q{number} <which-of-the-following-events>`.]
+[Please answer Q2.4 if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October  |syear prev|  to September |syear|). If not, go to :numref:`Q{number} <which-of-the-following-events>`.]
 
 .. _Who-died:
 
@@ -160,7 +160,7 @@ Who died?
 8.  My child(ren)
 9.  Other (Please specfy : _______________ )
 
-[Please answer the following question if two or more of your or your husband's parents died in the past year (October 2015 to September 2016). If not, go to  :numref:`Q{number} <need-care-for>`.]
+[Please answer the following question if two or more of your or your husband's parents died in the past year (October  |syear prev|  to September |syear|). If not, go to  :numref:`Q{number} <need-care-for>`.]
 
 Choose one of them for whom all problems of inheritance were solved.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -251,7 +251,7 @@ Which applies to the child (or his/her spouse) who inherited all or most of the 
 
 .. _which-of-the-following-events:
 
-Which of the following events happened to you in the past year (October 2015 to September 2016)?
+Which of the following events happened to you in the past year (October  |syear prev|  to September |syear|)?
 ====================================================================================================
 
 (Circle all answers that apply to you.)
@@ -284,7 +284,7 @@ Did you move house in the past year? (Including because of getting married.)
 1. Yes
 2. No
 
-What event(s) did other members of your household have in the past year (October 2015 to September 2016)?
+What event(s) did other members of your household have in the past year (October  |syear prev|  to September |syear|)?
 ============================================================================================================
 
 (Circle as many as apply to you.)

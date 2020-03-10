@@ -2,7 +2,7 @@
 Self-development
 ==================
 
-Have you taken any classes at schools categorized as "miscellaneous" below, such as vocational schools or colleges or any correspondence courses during the past year (October 2015 - - September 2016)? Please do not count the courses your company sent you to take.
+Have you taken any classes at schools categorized as "miscellaneous" below, such as vocational schools or colleges or any correspondence courses during the past year (October  |syear prev|  - - September |syear|)? Please do not count the courses your company sent you to take.
 ===========================================================================================================================================================================================================================================================================
 
 1. Yes, I have
@@ -70,7 +70,7 @@ Who paid most of the cost?
 6.	Other public agency, as a grant-in-aid
 7.	Others (Specify: _____________ )
 
-What was the total cost of the course that you or your family paid for tuition and course materials (excluding your company or public financial support) in the past year (October 2015 - - September 2016)? (Exclude transportation costs.)
+What was the total cost of the course that you or your family paid for tuition and course materials (excluding your company or public financial support) in the past year (October  |syear prev|  - - September |syear|)? (Exclude transportation costs.)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 \______ ten thousand yen  \　　	0. Zero

@@ -3,7 +3,7 @@ Changes that occurred in your household in the past year
 ==========================================================
 
 
-Which changes occurred in your household in the past year (October 2015 to September 2016)?
+Which changes occurred in your household in the past year (October  |syear prev|  to September |syear|)?
 =================================================================================================
 
 (Circle all answers that apply to you.)
@@ -30,9 +30,9 @@ My household size got bigger or smaller because:
 12.	I (or my household) moved into my (or my husband's) parents’ house to live together.
 13.	There was no change in my household. ----> (Go to \*2.3*) [[Make this change throughout]]
 
- [If you gave birth in the past year (October 2015 to September 2016), please answer \*2.2*. If not, move to \*2.3*]
+ [If you gave birth in the past year (October  |syear prev|  to September |syear|), please answer \*2.2*. If not, move to \*2.3*]
 
-If you gave birth in the past year (October 2015 to September 2016),
+If you gave birth in the past year (October  |syear prev|  to September |syear|),
 ====================================================================
 
 Is new baby your first/second/third (child)?
@@ -101,11 +101,11 @@ Did your husband use the childcare leave system or childcare time?
 2. No
 3. here was (or is) no such system
 
-(Q2.3 is for parents whose children started primary school or later schooling in the past 12 months (between October 2015 and September 2016). If this does not apply to you, please go to Q4.)
+(Q2.3 is for parents whose children started primary school or later schooling in the past 12 months (between October  |syear prev|  and September |syear|). If this does not apply to you, please go to Q4.)
 
 .. _preoaration-for-school :
 
-How was preparation for your child’s school entry (e.g., purchasing a desk and study equipment; costs for the entrance exam, preparing to enter the school, and the admission fee; preparation for an independent life) paid for? If you have two or more children who started school in the stated period[[we would use “in the past 1 year” or “between October 2015 and September 2016”]], please answer in relation to the older child. (Please choose all answers that apply.)
+How was preparation for your child’s school entry (e.g., purchasing a desk and study equipment; costs for the entrance exam, preparing to enter the school, and the admission fee; preparation for an independent life) paid for? If you have two or more children who started school in the stated period[[we would use “in the past 1 year” or “between October  |syear prev|  and September |syear|”]], please answer in relation to the older child. (Please choose all answers that apply.)
 ============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 1. Usual income
@@ -117,7 +117,7 @@ How was preparation for your child’s school entry (e.g., purchasing a desk and
 7. No need to funds
 8. Other (Please specify: ____________)
 
-[Please answer Q2.4 if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October 2015 to September 2016). If not, go to :numref:`Q{number} <happened to you>`.]
+[Please answer Q2.4 if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October  |syear prev|  to September |syear|). If not, go to :numref:`Q{number} <happened to you>`.]
 
 If any relatives, regardless of whether they lived together with you or separately, has died in the past year who died?
 ==========================================================================================================================
@@ -136,7 +136,7 @@ If any relatives, regardless of whether they lived together with you or separate
 
 [If you answered 6-9 in Q2.4, please go to :numref:`Q{number} <happened-to-you>`.]
 
-If two or more of your or your husband's parents died in the past year (October 2015 to September 2016), choose one of them for whom all problems of inheritance were solved. Answer the following questions about that specific parent.
+If two or more of your or your husband's parents died in the past year (October  |syear prev|  to September |syear|), choose one of them for whom all problems of inheritance were solved. Answer the following questions about that specific parent.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (Circle only one.)
@@ -224,7 +224,7 @@ Which applies to the child (or his/her spouse) who inherited all or most of the 
 
 .. _happened to you :
 
-Which of the following events happened to you in the past year (October 2015 to September 2016)?
+Which of the following events happened to you in the past year (October  |syear prev|  to September |syear|)?
 -----------------------------------------------------------------------------------------------------
 (Circle as many as apply to you.)
 
@@ -253,7 +253,7 @@ Did you move house in the past year? (Including because of getting married.)
 1. Yes
 2. No
 
-What event(s) did other members of your household have in the past year (October 2015 - September 2016)?  (Circle as many as apply to you.)
+What event(s) did other members of your household have in the past year (October  |syear prev|  - September |syear|)?  (Circle as many as apply to you.)
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Got a job

@@ -1,16 +1,12 @@
 .. |space| unicode:: U+0020 .. space
 .. |nbspc| unicode:: U+00A0 .. non-breaking space
-.. |dots| unicode:: U+2026 	.. horizontal ellipsis 	
+.. |dots| unicode:: U+2026 	.. horizontal ellipsis
 .. |vdots| unicode:: U+22EE .. vertical ellipsis
 
 
 .. JPSC specific
-.. |syear| replace:: 2018
+.. |syear prev| replace:: 2018
 .. |syear prev| replace:: 2017
 .. |mchoice| replace:: Pleas select all that apply.
 .. Circle only one answer
 .. |schoice| replace:: |space|
-
-
-
-

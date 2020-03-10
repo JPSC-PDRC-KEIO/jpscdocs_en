@@ -57,12 +57,12 @@ How much savings & deposits and securities does your household have?  Please ans
    * - 4. How much deposits & savings do you have?
      - \_____ ten thousand yen
      - \_____ ten thousand yen
-   * - 5. Did you purchase any securities in the past year (October 2015 to September 2016)?  (Securities bought and then sold are included.)
+   * - 5. Did you purchase any securities in the past year (October  |syear prev|  to September |syear|)?  (Securities bought and then sold are included.)
      - | a. Yes, my family's (my husband’s, mine, and my child(ren)’s)
        | b. No
      - | a. Yes, my own
        | b. No
-   * - 6. Did you sell any securities in the past year (October 2015 - September 2016)? (Securities sold and then purchased again are included.)
+   * - 6. Did you sell any securities in the past year (October  |syear prev|  - September |syear|)? (Securities sold and then purchased again are included.)
      - | a. Yes, my family's (my husband’s, mine, and my child(ren)’s)
        | b. No
      - | a. Yes, my own
@@ -156,7 +156,7 @@ How much have you and your husband paid on the insurance premiums shown in the t
    | | (Mark the type of insurance with a circle and enter the amount of premium.)                            | | (Mark the chosen item number with a circle, and enter the amount of premium.)                        |
    +=========================================+==================================+=============================+========================================+=================================+=============================+
    | | Type of insurance                     | | Premium paid in the past year  | | Total of premiums paid    | | Type of insurance                    | | Premium paid in the past year | | Total of premiums paid    |
-   | |                                       | | (January - December 2015)      | |                           | |                                      | | (January - December 2015)     | |                           |                    　
+   | |                                       | | (January - December  |syear prev| )      | |                           | |                                      | | (January - December  |syear prev| )     | |                           |                    　
    +-----------------------------------------+----------------------------------+-----------------------------+----------------------------------------+---------------------------------+-----------------------------+
    | | 1 Single premium type insurance       | | _______ten thousand yen        | |                           | | 1 Single premium type insurance      | | _______ten thousand yen       |                             |
    | |                                       | |                                | |                           | |                                      |                                 |                             |

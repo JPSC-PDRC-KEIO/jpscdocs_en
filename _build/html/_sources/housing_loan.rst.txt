@@ -10,14 +10,14 @@ Are you and your husband currently repaying any housing loans?
 2. No → (Go to :numref:`Section{number} <credit-cards-loans>`.)
 
 
-How much is the total balance due on the housing loan(s) and the amount of loan(s) repaid during the past year (October 2015 - - September 2016)? (Renewed loans included.)
+How much is the total balance due on the housing loan(s) and the amount of loan(s) repaid during the past year (October  |syear prev|  - - September |syear|)? (Renewed loans included.)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Total balance due on the loan(s)	______0 ten thousand yen
 2. Amount of loan(s) repaid in the past year	______0 ten thousand yen
 3. 0	We did not repay in the past year
 
-Have you newly borrowed money during the past year (October 2015 - - September 2016)? (Included renewing a loan.)
+Have you newly borrowed money during the past year (October  |syear prev|  - - September |syear|)? (Included renewing a loan.)
 ------------------------------------------------------------------------------------------------------------------------
 
 1. Yes   New balance due on the loan(s)  ______0 ten thousand yen

@@ -119,7 +119,7 @@ What day is your and your husband's day off in the week?
      -  \　　7
 
 
-Did you take any trips overnight or for longer in the past year (October 2015 - - September 2016)?
+Did you take any trips overnight or for longer in the past year (October  |syear prev|  - - September |syear|)?
 ===================================================================================================
 
 (Exclude any overnight train or bus where you returned the next day.)
