@@ -6,7 +6,7 @@
 
 .. _husbands-work:
 
-Is your husband currently(as of September |syear|) working ?
+Is your husband currently(as of September |syear|  ) working ?
 ===============================================================
 
 [Include all jobs such as full-time and part-time jobs, part-time engagements, self-employment and family business employment, but exclude student part-time jobs. ]
@@ -190,7 +190,7 @@ How many hours of unpaid overtime, so-called “service overtime” does he put 
 7. 21 hours or more
 8. We have no overtime work
 
-How many days did your husband actually work in the past year(October  |syear prev|  to September |syear|)?
+How many days did your husband actually work in the past year(October  |syear prev|  to September |syear|  )?
 ===============================================================================================
 
 1. Under 50 days
@@ -281,7 +281,7 @@ Was he working as a temporary employee of a temporary employment agency one year
 2. No ---> (Go to :numref:`Q{number} <work-in-the-same-company-husband>`.)
 
 
-Over the past 12 months (from October  |syear prev|  to September |syear|), has there been any change in A. the temporary employment agency your husband is registered with or B. the workplace he is dispatched to (where he actually works)?
+Over the past 12 months (from October  |syear prev|  to September |syear|  ), has there been any change in A. the temporary employment agency your husband is registered with or B. the workplace he is dispatched to (where he actually works)?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *A.Temporary employment agency you are registered with*
@@ -316,7 +316,7 @@ Are there more employees now than there were one year ago in the company or orga
 5. Fewer, by at least 30%
 6. Public agency
 
-Was he transferred to another position or office in the past year(October  |syear prev|  to September |syear|)?
+Was he transferred to another position or office in the past year(October  |syear prev|  to September |syear|  )?
 --------------------------------------------------------------------------------------------------------------
 
 1. Yes, to another office and, as a result, He moved location
@@ -325,7 +325,7 @@ Was he transferred to another position or office in the past year(October  |syea
 4. No
 
 
-Was there any change in his work over the past year(October  |syear prev|  to September |syear|)?
+Was there any change in his work over the past year(October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------
 
 1.  No
@@ -423,7 +423,7 @@ Why did he choose the company or organization where he works now?
 11.	Other (Please specfy : _______________ )
 
 
-How many months has he worked in the past year(October  |syear prev|  to September |syear|)?
+How many months has he worked in the past year(October  |syear prev|  to September |syear|  )?
 ----------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where he worked one year ago and at his present workplace.]
@@ -431,7 +431,7 @@ How many months has he worked in the past year(October  |syear prev|  to Septemb
  For ____ months
 
 
-How many months was he job-hunting in the past year(October  |syear prev|  to September |syear|)?
+How many months was he job-hunting in the past year(October  |syear prev|  to September |syear|  )?
 ------------------------------------------------------------------------------------------------
 
 [If didn’t look for a job in the past year, please write 0.]
@@ -450,7 +450,7 @@ Did he receive unemployment benefit (from employment insurance) when he quit his
 5. No, he was not registered for employment insurance
 
 
-How many companies and organizations has he worked for in the past year(October  |syear prev|  to September |syear|)?
+How many companies and organizations has he worked for in the past year(October  |syear prev|  to September |syear|  )?
 -------------------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where he worked one year ago and at his present workplace)]
@@ -469,7 +469,7 @@ When did he start at the company or organization where he work now?
 
 .. _working-one-year-ago-husband:
 
-Was he working one year ago(at the end of September |syear|.)?
+Was he working one year ago(at the end of September |syear|  .)?
 ----------------------------------------------------------------
 
 | 1.  Yes ---->
@@ -538,14 +538,14 @@ How do you feel now about your husband quitting or changing his job?
 
 .. _how-many-months-work-husband:
 
-How many months did he work in the past year(October  |syear prev|  to September |syear|)?
+How many months did he work in the past year(October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------
 
  For ____ months
 
 0. He didn’t work at all ----> (Go to :numref:`Q{number} <plan-to-work-husband>`)
 
-How many companies and organizations has he worked for in the past year(October  |syear prev|  to September |syear|)?
+How many companies and organizations has he worked for in the past year(October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where he worked one year ago and at his present workplace.]
@@ -577,7 +577,7 @@ What is he doing now to prepare for working in the future?
 5. Nothing specific ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-husband>`)
 
 
-How many months has he looked for a job in the past year (October  |syear prev|  to September |syear|)?
+How many months has he looked for a job in the past year (October  |syear prev|  to September |syear|  )?
 ---------------------------------------------------------------------------------------------------
 
  For ____ months

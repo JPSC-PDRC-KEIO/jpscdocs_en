@@ -5,7 +5,7 @@
 
 
 .. JPSC specific
-.. |syear prev| replace:: 2018
+.. |syear| replace:: 2018
 .. |syear prev| replace:: 2017
 .. |mchoice| replace:: Pleas select all that apply.
 .. Circle only one answer

@@ -6,7 +6,7 @@
 
 .. _are-you-currentry-working:
 
-Are you currently (as of September |syear|) working?
+Are you currently (as of September |syear|  ) working?
 ========================================================
 
 [Include all jobs such as full-time and part-time jobs, part-time engagements, self-employment and family business employment, but exclude student part-time jobs.
@@ -192,7 +192,7 @@ How many hours of unpaid overtime, so-called “service overtime” do you do pe
 7. 21 hours or more
 8. We have no overtime work
 
-How many days did you actually work in the past year(October  |syear prev|  to September |syear|)?
+How many days did you actually work in the past year(October  |syear prev|  to September |syear|  )?
 ==========================================================================================
 
 1. Under 50 days
@@ -313,7 +313,7 @@ What was the seminar or course?
 6. Studying abroad
 7. Other (Please specfy : _______________ )
 
-How many total days did you participate in seminars and courses in the past year(October  |syear prev|  to September |syear|)?
+How many total days did you participate in seminars and courses in the past year(October  |syear prev|  to September |syear|  )?
 ----------------------------------------------------------------------------------------------------------------------
 
 1. Within 1 day
@@ -501,7 +501,7 @@ Were you working as a temporary employee of a temporary employment agency one ye
 2. No ---> (Go to :numref:`Q{number} <work-in-the-same-company-respondent>`.)
 
 
-Over the past 12 months (from October  |syear prev|  to September |syear|), has there been any change in A. the temporary employment agency you are registered with or B. the workplace you are dispatched to (where you actually work)?
+Over the past 12 months (from October  |syear prev|  to September |syear|  ), has there been any change in A. the temporary employment agency you are registered with or B. the workplace you are dispatched to (where you actually work)?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *A.Temporary employment agency you are registered with*
@@ -536,7 +536,7 @@ Are there more employees now than there were one year ago in the company or orga
 5. Fewer, by at least 30%
 6. Public agency
 
-Were you transferred to another position or office in the past year(October  |syear prev|  to September |syear|)?
+Were you transferred to another position or office in the past year(October  |syear prev|  to September |syear|  )?
 --------------------------------------------------------------------------------------------------------------
 
 1. Yes, to another office and, as a result, I moved location
@@ -545,7 +545,7 @@ Were you transferred to another position or office in the past year(October  |sy
 4. No
 
 
-Was there any change in your work over the past year(October  |syear prev|  to September |syear|)?
+Was there any change in your work over the past year(October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------
 
 1.  No
@@ -642,14 +642,14 @@ Why did you choose the company or organization where you work now?
 .. todo::
    10.[[Unclear. This could mean many things, given the wording of number 9.]]
 
-How many months have you worked in the past year(October  |syear prev|  to September |syear|)?
+How many months have you worked in the past year(October  |syear prev|  to September |syear|  )?
 ------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where you worked one year ago and at your present workplace.]
 
  For ____ months
 
-How many months were you job-hunting in the past yearr(October  |syear prev|  to September |syear|)?
+How many months were you job-hunting in the past yearr(October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------
 
 [If you didn’t look for a job in the past year, please write 0.]
@@ -669,7 +669,7 @@ Did you receive unemployment benefit (from employment insurance) when you quit y
 5. No, I was not registered for employment insurance
 
 
-How many companies and organizations have you worked for in the past year(October  |syear prev|  to September |syear|)?
+How many companies and organizations have you worked for in the past year(October  |syear prev|  to September |syear|  )?
 ------------------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where you worked one year ago and at your present workplace)]
@@ -688,7 +688,7 @@ When did you start at the company or organization where you work now?
 
 .. _working-one-year-ago-respondent:
 
-Were you working one year ago(at the end of September |syear|.)?
+Were you working one year ago(at the end of September |syear|  .)?
 ----------------------------------------------------------------
 
 | 1.  Yes ---->
@@ -755,14 +755,14 @@ How do you feel now about quitting or changing your job?
 
 .. _how-many-months-work-respondent:
 
-How many months did you work in the past year(October  |syear prev|  to September |syear|)?
+How many months did you work in the past year(October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------
 
  For ____ months
 
 0. I didn’t work at all ----> (Go to :numref:`Q{number} <plan-to-work-respondent>`)
 
-How many companies and organizations have you worked for in the past year(October  |syear prev|  to September |syear|)?
+How many companies and organizations have you worked for in the past year(October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where you worked one year ago and at your present workplace.]
@@ -794,7 +794,7 @@ What are you doing now to prepare for working in the future?
 5. Nothing specific  ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent>`)
 
 
-How many months have you been job-hunting in the past year(October  |syear prev|  to September |syear|) ?
+How many months have you been job-hunting in the past year(October  |syear prev|  to September |syear|  ) ?
 ---------------------------------------------------------------------------------------------------
 
  For ____ months

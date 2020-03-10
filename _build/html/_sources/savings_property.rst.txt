@@ -57,12 +57,12 @@ How much savings & deposits and securities does your household have?  Please ans
    * - 4. How much deposits & savings do you have?
      - \_____ ten thousand yen
      - \_____ ten thousand yen
-   * - 5. Did you purchase any securities in the past year (October  |syear prev|  to September |syear|)?  (Securities bought and then sold are included.)
+   * - 5. Did you purchase any securities in the past year (October  |syear prev|  to September |syear|  )?  (Securities bought and then sold are included.)
      - | a. Yes, my family's (my husband’s, mine, and my child(ren)’s)
        | b. No
      - | a. Yes, my own
        | b. No
-   * - 6. Did you sell any securities in the past year (October  |syear prev|  - September |syear|)? (Securities sold and then purchased again are included.)
+   * - 6. Did you sell any securities in the past year (October  |syear prev|  - September |syear|  )? (Securities sold and then purchased again are included.)
      - | a. Yes, my family's (my husband’s, mine, and my child(ren)’s)
        | b. No
      - | a. Yes, my own

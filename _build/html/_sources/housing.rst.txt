@@ -264,7 +264,7 @@ Do you plan to live with your husband’s parent(s) from now? Or do you want to 
 
 .. _purchased-a-lot:
 
-Did you and your husband purchase a lot or house during the past year (October  |syear prev|  to September |syear|) to live there yourself or use it as a second house (including a newly built house or a lot/house purchased under joint ownership with your parent(s) or your husband's parent(s))?
+Did you and your husband purchase a lot or house during the past year (October  |syear prev|  to September |syear|  ) to live there yourself or use it as a second house (including a newly built house or a lot/house purchased under joint ownership with your parent(s) or your husband's parent(s))?
 ==========================================================================================================================================================================================================================================================================================
 
 1. We purchased a lot only
@@ -292,7 +292,7 @@ How much was the purchase price? (Enter the price for the house or apartment in 
 
 .. _sold-a-lot :
 
-Did you and your husband sell the lot/house that you lived in or/and your second house during the past year (October  |syear prev|  to September |syear|)? (Include a house owned under joint ownership with your parent(s).)
+Did you and your husband sell the lot/house that you lived in or/and your second house during the past year (October  |syear prev|  to September |syear|  )? (Include a house owned under joint ownership with your parent(s).)
 =================================================================================================================================================================================================================
 
 1. We sold only the lot.
@@ -320,7 +320,7 @@ How much was the sale price? (Enter the price for the house or apartment in the 
 
 .. _extend-or-rebuild:
 
-Did you and your husband extend or rebuild the house you lived in and/or your second house during the past year (October  |syear prev|  - - September |syear|)? (Include a house owned under joint ownership with your parent(s)or your husband's parent(s).)
+Did you and your husband extend or rebuild the house you lived in and/or your second house during the past year (October  |syear prev|  - - September |syear|  )? (Include a house owned under joint ownership with your parent(s)or your husband's parent(s).)
 ================================================================================================================================================================================================================================================
 
 1. We extended the house
