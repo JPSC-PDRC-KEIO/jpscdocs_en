@@ -3339,17 +3339,19 @@ a .fa, a .wy-menu-vertical li span.toctree-expand, .wy-menu-vertical li a span.t
 .wy-alert, .rst-content .note, .rst-content .attention, .rst-content .caution, .rst-content .danger, .rst-content .error, .rst-content .hint, .rst-content .important, .rst-content .tip, .rst-content .warning, .rst-content .seealso, .rst-content .admonition-todo, .rst-content .admonition {
   padding: 12px;
   font-size: 95%;
+  border: solid 1px #093350;
   line-height: 24px;
-  margin-top: 34px;
-  margin-bottom: 14px;
-  background: #e7f2fa
+  margin-top: px;
+  margin-bottom: 34px;
+  background: #fcfcfc
 }
+
 
 .wy-alert-title, .rst-content .admonition-title {
   color: #fff;
   font-size: 80%;
   font-weight: bold;
-  display: block;
+  display: none;
   color: #fff;
   background: #6ab0de;
   margin: -12px;

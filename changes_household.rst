@@ -8,22 +8,14 @@ Which changes occurred in your household in the past year (October |syear prev| 
 
 |mchoice|
 
-.. My household got bigger, because:
-
 1. There was a birth.
 2. My parent(s) or my husband's parent(s) moved in with us.
 3. A member of my household came home from a long-term posting elsewhere for work.
 4. My household increased in size for other reasons.
-
-.. My household got smaller, because:
-
 5. A member of my household moved out because he or she was transferred for work.
 6. A member of my household moved out.
 7. A member of my household died.
 8. My household size became smaller for other reasons.
-
-.. My household size got bigger or smaller because:
-
 9. I got married and formed a different household.
 10.	I got divorced or separated and formed a different household.
 11.	I (or my household) moved out of my (or my husband's) parents’ house to form a different household.
