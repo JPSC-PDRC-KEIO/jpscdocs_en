@@ -51,7 +51,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'jpscdocs_en'
+project = 'JPSC Questionnaire'
 copyright = '2020, JPSC-PDRC-KEIO'
 author = 'JPSC'
 
@@ -351,3 +351,7 @@ texinfo_documents = [
 
 numfig = True
 numfig_format = {'figure': 'Figure %s', 'table': 'Table %s', 'code-block': 'Listing %s', 'section': 'Section %s'}
+
+# cssの追加
+def setup(app):
+    app.add_stylesheet('my.css')

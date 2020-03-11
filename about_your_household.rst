@@ -6,13 +6,13 @@
 
 
 
-===================
+======================
 Household members
-===================
+======================
 
 
 How many members are there in your household?
-=============================================
+==================================================
 
 (Enter the number of members in your household who are presently living together under the same roof or on the same lot.)
 
@@ -28,11 +28,11 @@ For each member of your family, enter their personal relationship to you, their 
    :header-rows: 1
    :widths: 1, 10, 15, 10, 10, 15, 10, 10
 
-   * - 
-     - Personal relationship to you 
-     - Personal relationship to you 
+   * -
+     - Personal relationship to you
+     - Personal relationship to you
      - Sex
-     - Age 
+     - Age
      - Student or worker status
      - Living together or separately
      - Marital status
@@ -42,7 +42,7 @@ For each member of your family, enter their personal relationship to you, their 
      - | 1. male
        | 2. female
      - |age|
-     - |stdnt wrkr codes|  
+     - |stdnt wrkr codes|
      - | 1. Together
        | 2. Separately
      - | 1. Single
@@ -53,12 +53,12 @@ For each member of your family, enter their personal relationship to you, their 
      - | 1. male
        | 2. female
      - |age|
-     - |stdnt wrkr codes|  
+     - |stdnt wrkr codes|
      - | 1. Together
        | 2. Separately
      - | 1. Single
        | 2. Married
-   * - 
+   * -
      - |vdots|
      - |vdots|
      - |vdots|
@@ -72,20 +72,82 @@ For each member of your family, enter their personal relationship to you, their 
      - | 1. male
        | 2. female
      - \_\_ years old
-     - |stdnt wrkr codes|  
+     - |stdnt wrkr codes|
      - | 1. Together
        | 2. Separately
      - | 1. Single
        | 2. Married
 
 
+.. list-table:: **Personal Relationship Codes**
+   :widths: 2, 8, 2, 8
+   :header-rows: 1
 
-**<Personal Relationship Codes>**
+   * -
+     - 有配偶
+     -
+     - 無配偶
+   * - | 00
+       | 01
+       | 02
+       | 03
+       | 04
+       | 05
+       | 06
+       | 07
+       | 08
+       | 09
+       | 10
+       | 11
+       | 12
+       | 13
+       | 14
+       | 15
+       | 16
+     - | Me
+       | My husband
+       | My first child
+       | My second child
+       | My third child
+       | My forth child
+       | Fifth or later child subsequent
+       | My parent
+       | My husband's parent
+       | My grandparent
+       | My husband’s grandparent
+       | My brother or sister
+       | My husband's brother or sister
+       | My child’s spouse
+       | My grand child
+       | Other relative
+       | Other
+     - | 00
+       | 01
+       | 02
+       | 03
+       | 04
+       | 05
+       | 06
+       | 07
+       | 08
+       | 09
+       | 10
+       | 11
+       | 12
+     - | Me
+       | My first child
+       | My second child
+       | My third child
+       | My forth child
+       | Fifth or later child subsequent
+       | My parent
+       | My grandparent
+       | My brother or sister
+       | My child’s spouse
+       | My grand child
+       | Other relative
+       | Other
 
-.. hlist::
-
-   * a
-   * b
 
 
 **<Student or worker status Codes>**
@@ -104,5 +166,3 @@ For each member of your family, enter their personal relationship to you, their 
        | 8.	Worker
        | 9.	Unemployed
        | 10. Other
-
-

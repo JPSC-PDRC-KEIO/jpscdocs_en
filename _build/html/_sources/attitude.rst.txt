@@ -2,10 +2,6 @@
  Attitude and opinions
 ===========================
 
-.. note::
-
-  ↑　タイトルはこれで良い？
-
 
 We would like to ask you about your physical or mental state during the past week. How often did you experience each of the following feelings or matters? Circle your answer to each question.
 =======================================================================================================================================================================================================
@@ -82,6 +78,9 @@ We would like to ask you about your physical or mental state during the past wee
      -  \　　3
      -  \　　4
 
+.. note::
+
+CES-D(The Center for Epidemiologic Studies Depression Scale)   
 
 Do you smoke?
 =====================
