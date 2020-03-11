@@ -11,7 +11,7 @@ What would you like to pursue further in your life?
    :header-rows: 1
    :widths: 2, 2, 2
 
-   * - No.!
+   * - No.1
      - No.2
      - No.3
    * -

@@ -5051,7 +5051,7 @@ wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
 
 
 .wy-side-nav-search input[type=text] {
-  display: none;
+  display: block;
   width: 95%;
   font-size: 15px;
   border-radius: 20px;
@@ -5172,7 +5172,7 @@ wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
   overflow-x: hidden;
   overflow-y: scroll;
   height: 100%;
-  background-color: #fcfcfc;
+  background-color: #ece8e8;
 }
 
 .wy-nav-top {

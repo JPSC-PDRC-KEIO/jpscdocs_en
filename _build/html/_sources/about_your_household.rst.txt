@@ -84,9 +84,9 @@ For each member of your family, enter their personal relationship to you, their 
    :header-rows: 1
 
    * -
-     - 有配偶
+     - Married
      -
-     - 無配偶
+     - Single
    * - | 00
        | 01
        | 02
