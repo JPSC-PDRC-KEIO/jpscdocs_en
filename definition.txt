@@ -2,6 +2,8 @@
 .. |nbspc| unicode:: U+00A0 .. non-breaking space
 .. |dots| unicode:: U+2026 	.. horizontal ellipsis
 .. |vdots| unicode:: U+22EE .. vertical ellipsis
+.. |lline| unicode:: U+005F .. LOW LINE
+
 
 
 .. JPSC specific

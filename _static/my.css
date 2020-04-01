@@ -5157,17 +5157,19 @@ wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
   bottom: 0;
   left: 0;
   padding-bottom: 2em;
-  width: 279px;
+  width: 300px;
+  /* width: 300px; */
   overflow-x: hidden;
   overflow-y: hidden;
   min-height: 100%;
   color: #FFF;
-  background-repeat:repeat
+  background-image: url(../_static/_images/0117-43.png);
+  background-repeat:repeat;
   z-index: 200
 }
 
 .wy-side-scroll {
-  width: 300px;
+  width: 300px + 20px;
   position: static;
   overflow-x: hidden;
   overflow-y: scroll;
