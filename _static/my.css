@@ -4841,16 +4841,16 @@ html {
 }
 
 .wy-menu-vertical header, .wy-menu-vertical p.caption {
-  color: #fff;
+  color: #a2a2a7;
   height: 32px;
   display: inline-block;
-  line-height: 32px;
+  line-height: 8px;
   padding: 0 0.6em;
   margin: 0px 0 0 0;
   display: block;
   font-weight: bold;
   text-transform: uppercase;
-  font-size: 110%;
+  font-size: 100%;
   white-space: nowrap
 }
 
@@ -5011,7 +5011,7 @@ wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
   padding: .4045em 1.328em;
   display: block;
   position: relative;
-  font-size: 90%;
+  font-size: 100%;
   color: #4c4c4c;
 }
 
@@ -5045,7 +5045,7 @@ wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
   padding-top: .05em;
   margin-bottom: .809em;
   z-index: 500;
-  background-color: #eaf0f5;
+  background-color: #fafbf8;
   border-bottom: 1px solid #8d8f90;
 }
 
@@ -5220,7 +5220,7 @@ wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
 }
 
 .wy-nav-content-wrap {
-  margin-left: 300px;
+  margin-left: 315px;
   background: #fcfcfc;
   min-height: 100%;
 }

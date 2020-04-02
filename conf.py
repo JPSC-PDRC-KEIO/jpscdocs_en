@@ -357,6 +357,11 @@ numfig_format = {
     "section": "Section %s",
 }
 
+# 先頭に文字
+rst_prolog = u"""
+.. include:: /definition.txt
+"""
+
 # cssの追加
 def setup(app):
     app.add_stylesheet("my.css")
