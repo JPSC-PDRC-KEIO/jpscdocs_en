@@ -34,10 +34,10 @@ If you or your husband do two or more activities on weekdays or days off, choose
    * - 4. For housekeeping and child care
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
-   * - 5. For hobby, leisure, social interaction, etc
+   * - 5. For hobby, leisure, social interaction, etc.
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
-   * - 6. For  other  activities  such  as  sleeping, meals, taking a bath, etc.
+   * - 6. For other activities such as sleeping, meals, taking a bath, etc.
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
 
@@ -64,10 +64,10 @@ If you or your husband do two or more activities on weekdays or days off, choose
    * - 4. For housekeeping and child care
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
-   * - 5. For hobby, leisure, social interaction, etc
+   * - 5. For hobby, leisure, social interaction, etc.
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
-   * - 6. For  other  activities  such  as  sleeping, meals, taking a bath, etc.
+   * - 6. For other activities such as sleeping, meals, taking a bath, etc.
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
 
@@ -78,7 +78,7 @@ How many days off do you or your husband have a week?
  (Count a day off every 2 weeks as a half day and enter it as 0.5.)
 
 1. My days off ___.___ days	\　　  0. Unemployed
-2. My husband's days off ___.___ dayss	\　　  0. Unemployed
+2. My husband's days off ___.___ days	\　　  0. Unemployed
 
 .. todo::
 

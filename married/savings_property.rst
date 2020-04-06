@@ -71,20 +71,20 @@ How much savings & deposits and securities does your household have?  Please ans
 
 .. _how-much-do-you-plan-to-save:
 
-Do you have any plan about savings in your household.
+Do you have any plan about savings in your household?
 =======================================================================
 
 How much do you and your husband plan to save?
 ----------------------------------------------------------
 
-  \_____  ten thousand yen
+  \_____ ten thousand yen
 
 For what purposes do you and your husband save money?
 --------------------------------------------------------
 
 [If you save money for any of the purposes shown in the table below, please circle “Yes” for the item. Otherwise, please circle “No”.]
 
-Also, for each item you answered “Yes,”  what amount of money are you going to save?
+Also, for each item you answered “Yes,” what amount of money are you going to save?
 ----------------------------------------------------------------------------------------------
 
 .. list-table::
@@ -93,53 +93,49 @@ Also, for each item you answered “Yes,”  what amount of money are you going 
 
     * -
       - Purpose of savings
-      - As Yours only
-    * - (a) To provide for living comfortably in our old age.
-      - | Yes  ---->
+      - Amount you plan to save
+    * - (a) To provide for living comfortably in our old age
+      - | Yes ---->
         | No
       - \_____ ten thousand yen
-    * - (a) To provide for living comfortably in our old age.
-      -  | Yes  ---->
+    * - (b) To provide for unexpected expenses due to illness, disaster, accident, etc.
+      -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (b) To provide for the unexpected expenses for due to illnesssickness, disaster, accident, etc and others.
-      -  | Yes  ---->
+    * - (c) To pay the educational expenses for our child(ren)
+      -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (c) To pay the educational expenses for our child(ren).
-      -  | Yes  ---->
+    * - (d) To make save for our child(ren)’s wedding(s)
+      -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (d) To  make  save for oura  marriage  fund  for  our child(ren)’s wedding(s).
-      -  | Yes  ---->
+    * - (e) To purchase (or renovate or replace) our house (with lot)
+      -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (e) To purchase (or renovatebuild or replace) our house (with lot).
-      -  | Yes  ---->
+    * - (f) To save for purchasing durable consumer goods
+      -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (f) To  make  savea  fund  for  purchasinge  of durable consumer goods.
-      -  | Yes  ---->
+    * - (g) To make save to spend on leisure fund
+      -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (g) To make save to spend ona leisure fund.
-      -  | Yes  ---->
+    * - (h) To save for starting an independent business
+      -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (h) To  make  a  fundsave  for  starting  and independent business.
-      -  | Yes  ---->
+    * - (i) For no special purpose, but to feel free from anxiety with savings
+      -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (i) For no special purpose, but we feelto feel free from anxiety with savings.
-      -  | Yes  ---->
+    * - (j) To leave our savings for our child(ren) to inherit
+      -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (j) To leave our savings for our child(ren) toas inheritance to our child(ren).
-      -  | Yes  ---->
-         | No
-      - \_____ ten thousand yen
-    * - (k) For other purposes (Please sSpecify:    ).
-      -  | Yes  ---->
+    * - (k) For other purposes (Please specify:    )
+      -  | Yes ---->
          | No
       - \_____ ten thousand yen
 

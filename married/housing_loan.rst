@@ -23,14 +23,14 @@ Have you newly borrowed money during the past year (October  |syear prev|  - - S
 1. Yes   New balance due on the loan(s)  ______0 ten thousand yen
 2. No
 
-In the table below, please enter information about the housing loan(s) that you and your husband have. Choose  code numbers from the code list below and enter them in the columns.
+In the table below, please enter information about the housing loan(s) that you and your husband have. Choose code numbers from the code list below and enter them in the columns.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 .. list-table::
    :header-rows: 1
    :widths: 5, 5, 5, 5
 
-   * - 1. Purpose of borrowing (enter any of  the  code numbers  from 01 to 06)
+   * - 1. Purpose of borrowing (enter any of the code numbers  from 01 to 06)
      - 2. Borrowed from (enter   any of the code numbers from 11 to 16)
      - 3. Total balance due on the loan(s)
      - 4. Amount of loan(s) repaid in the past year
@@ -95,7 +95,7 @@ Code list
 How do you and your husband feel the burden of your repayments?
 ==================================================================
 
-(Circle only one answersss.)
+(Circle only one answer.)
 
 1. Burden is light.
 2. Burden is slightly heavy

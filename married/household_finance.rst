@@ -13,7 +13,7 @@ What was your total expenditure including savings (life insurance premiums, etc.
     :header-rows: 1
     :widths: 8, 8, 8
 
-    "Living and other expenses", "Savings",  "Loan repayment(s)"
+    "Living and other expenses", "Savings", "Loan repayment(s)"
     "____ thousand yen (Excluding savings and loan repayments)", "___ thousand yen (Including life insurance premiums, etc.)", "____ thousand yen"
 
 
@@ -134,7 +134,7 @@ What was the total annual income of your household (excluding income from your c
    :header-rows: 1
    :widths: 6, 8, 8, 8, 8
 
-   "", "My husband's annual income", "My annual income",  "Total of my husband's and my annual incomes","Annual income earned by other household member(s) excluding our child(ren)"
+   "", "My husband's annual income", "My annual income",  "Total of my husband's and my annual incomes", "Annual income earned by other household member(s) excluding our child(ren)"
    "Earnings from employment", "____ ten thousand yen", "____ ten thousand yen", "*", "____ ten thousand yen"
    "Business income", "____ ten thousand yen", "____ ten thousand yen", "*", "____ ten thousand yen"
    "Income from assets", "____ ten thousand yen", "____ ten thousand yen", "____ ten thousand yen", "____ ten thousand yen"
@@ -161,9 +161,6 @@ Who is/are the member(s) of your household?
 8. My brother(s) and/or sister(s)
 9. Other (Specify:	)
 
- .. todo ::
-
-   他の付問は番号付き
 
 
 What was the total amount of tax (income, resident, and other taxes) and social insurance payments (health, public pension, employment, and other insurance premiums) that you, your husband, and other household member(s) paid in the past year (January  |syear prev|  to December  |syear prev| )?
@@ -175,7 +172,7 @@ What was the total amount of tax (income, resident, and other taxes) and social 
    :header-rows: 1
    :widths: 8, 8, 8
 
-   "Taxes and social insurance payment made by my husband", "Taxes and social insurance payment made by me",  "Taxes and social insurance payment made by other household member(s)"
+   "Taxes and social insurance payment made by my husband", "Taxes and social insurance payment made by me", "Taxes and social insurance payment made by other household member(s)"
    "Total last year ____ ten thousand yen", "Total last year ____ ten thousand yen", "Total last year ____ ten thousand yen"
    "0 Not paid", "0 Not paid", "0 Not paid"
 

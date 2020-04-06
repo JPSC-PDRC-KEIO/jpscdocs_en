@@ -23,7 +23,7 @@ What kind of courses have you taken? (Include correspondence courses)
 8.	University or college (department of telecommunications or a broadcasting college)
 9.	Graduate school
 10.	correspondence courses in miscellaneous category
-11.	community center or ulture center
+11.	community center or culture center
 12.	Other (Specify: _____________ )
 
 .. note::
@@ -44,7 +44,7 @@ Why did you take the course?
  (Circle up to two answers.)
 
 1. To acquire knowledge and qualifications that seem useful to developing my current job skills and abilities
-2. To acquire knowledge and qualifications that seem useful to developing  future job skills and abilities
+2. To acquire knowledge and qualifications that seem useful to developing future job skills and abilities
 3. To prepare to go back to school
 4. To acquire some culture
 5. To take some advanced courses

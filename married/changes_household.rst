@@ -131,7 +131,7 @@ How was preparation for your child’s school entry (e.g., purchasing a desk and
 5. Loan from a financial or public institution
 6. My child paid for it himself/herself
 7. No need to prepare funds
-8. Other (Please specfy : _______________ )
+8. Other (Please specify : _______________ )
 
 [Please answer Q2.4 if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October  |syear prev|  to September |syear|  ). If not, go to :numref:`Q{number} <which-of-the-following-events>`.]
 
@@ -150,7 +150,7 @@ Who died?
 6.  My grandparent(s)
 7.  My husband's grandparent(s)
 8.  My child(ren)
-9.  Other (Please specfy : _______________ )
+9.  Other (Please specify : _______________ )
 
 [Please answer the following question if two or more of your or your husband's parents died in the past year (October  |syear prev|  to September |syear|  ). If not, go to  :numref:`Q{number} <need-care-for>`.]
 
@@ -199,7 +199,7 @@ Who cared for that parent?
 8. Home helpers (covered by the Long-Term Care Insurance System)
 9. Staff at a nursing home for the elderly
 10. Paid housekeepers not covered by the Long-Term Care Insurance System
-11. Other (Please specfy : _______________ )
+11. Other (Please specify : _______________ )
 
 Where was that parent cared for?
 -----------------------------------
@@ -210,7 +210,7 @@ Where was that parent cared for?
 2. Another facility
 3. My house
 4. His or her own house
-5. Other (Please specfy : _______________ )
+5. Other (Please specify : _______________ )
 
 .. _How-was-the-property-left:
 
@@ -222,7 +222,7 @@ How was the property left by the deceased parent distributed among his or her ch
 3. Most of it was inherited by the eldest child
 4. The entire amount was inherited by a child that is not the eldest
 5. Most of it was inherited by a child that is not the eldest
-6. Other (Please specfy : _______________ )
+6. Other (Please specify : _______________ )
 7. The entire amount was inherited by a single child
 8. None of the children inherited it ----> (Go to :numref:`Q{number} <which-of-the-following-events>`.)
 
@@ -236,7 +236,7 @@ Which applies to the child (or his/her spouse) who inherited all or most of the 
 3. He/she did the housework
 4. He/she supported the deceased parent financially
 5. He/she took over the family business
-6. Other (Please specfy : _______________ )
+6. Other (Please specify : _______________ )
 
 |
 [For all respondents to answer]
@@ -259,14 +259,12 @@ Which of the following events happened to you in the past year (October  |syear 
 9. Took on a responsible role in the PTA, cooperative, or other circle or group
 10.	Serious sickness needing surgery or long-term medical treatment
 11.	Mental health problems such as depression
-12.	Consumers' trouble including loan and credit[[“Financial difficulties making loan or credit repayments”?]]
+12.	Consumers' trouble including loan and credit
 13.	Accident(s) or disaster
-14.	Other special event(s) (Please specfy : _______________ )
+14.	Other special event(s) (Please specify : _______________ )
 15.	No special event
 
-.. todo::
 
-  英語編集と Qのno.が違う
 
 [For all respondents to answer]
 
@@ -294,5 +292,5 @@ What event(s) did other members of your household have in the past year (October
 11.	Entrance examination or started school or matriculation at university or college
 12.	Child(ren) got married
 13.	Become a grandmother
-14.	Other special event(s) (Please specfy : _______________ )
+14.	Other special event(s) (Please specify : _______________ )
 15. No special event → (Go to :numref:`Q{number} <are-you-currentry-working>`.)

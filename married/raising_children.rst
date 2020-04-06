@@ -3,7 +3,7 @@
 ======================
 
 
-[If you have a child/ children, please answer Questions 8.1–6. If you do not have a child/children, please go  to Section 9.]
+[If you have a child/ children, please answer Questions 8.1–6. If you do not have a child/children, please go to Section 9.]
 
 Approximately how much have you spent on your child’s/children’s education in the past 12 months (October  |syear prev| –September |syear|  )? Please fill in the table below. If no costs has been incurred, please enter “0 yen.” (If school grade does not apply, please leave it blank).
 =======================================================================================================================================================================================================================================================================================================================
@@ -13,10 +13,10 @@ Approximately how much have you spent on your child’s/children’s education i
     :widths: 2, 2, 3, 3, 3, 3, 3, 3, 3
 
     "", "Sex", "Educational stage (see codes below)", "School grade", "Type of School", "School-related expenses \*1", "Learning outside school \*2", "Extracurricular lessons \*3",	"Allowance \*4"
-    "First child", "1.male \   2.female", "", "\_____ year", "1.national \    2.public \    3.private", "\_____ ten thousand yenr", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen"
-    "2nd", "1.male \   2.female", "", "\_____ year", "1.national \    2.public \    3.private", "\_____ ten thousand yenr", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen"
-    "3rd", "1.male \   2.female", "", "\_____ year", "1.national \    2.public \    3.private", "\_____ ten thousand yenr", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen"
-    "4th", "1.male \   2.female", "", "\_____ year", "1.national \    2.public \    3.private", "\_____ ten thousand yenr", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen"
+    "First child", "1.male \   2.female", "", "\_____ year", "1.national \    2.public \    3.private", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen"
+    "2nd", "1.male \   2.female", "", "\_____ year", "1.national \    2.public \    3.private", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen"
+    "3rd", "1.male \   2.female", "", "\_____ year", "1.national \    2.public \    3.private", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen"
+    "4th", "1.male \   2.female", "", "\_____ year", "1.national \    2.public \    3.private", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen"
 
 \
  | \*1 tuition, entrance	fee, cost for school events	and teaching materials, club activities, travel, uniform, bags, etc.
@@ -32,7 +32,7 @@ Approximately how much have you spent on your child’s/children’s education i
 
     "1 Preschool (staying at home)", "6	High school", "11 University (6-year program)"
 	  "2 Preschool (nursery)", "7	Higher vocational school", "12 Graduate school"
-	  "3 Preschool (kindergarten)", "8 Further education (college)", "13  Other school/s (including cram school)"
+	  "3 Preschool (kindergarten)", "8 Further education (college)", "13 Other school/s (including cram school)"
 	  "4 Primary school", "9 Junior college", "14   Not in school or working"
     "5 Junior high school", "10  University (4-year program)", ""
 
@@ -42,7 +42,7 @@ Which childcare duties does your husband do or help with?
 
 (Circle as many as apply to you.)
 
-1.	Changes diapers and clothes, and prepares[[do you mean “lays out” for them to wear or “launders”?]] the clothes
+1.	Changes diapers and clothes, and prepares the clothes
 2.	Gives a bath or takes a bath together with our child(ren)
 3.	Spoon-feeds and puts our child(ren)to bed.
 4.	Keeps our child(ren) amused

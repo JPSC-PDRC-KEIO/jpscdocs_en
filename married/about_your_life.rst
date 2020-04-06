@@ -52,7 +52,7 @@ Which class do you think your standard of living fall into?
 5. Bottom
 
 
-How many times in the past one month did you feel, “I am not understood by my family” ?
+How many times in the past one month did you feel, “I am not understood by my family”?
 =========================================================================================
 
 1. Many times
@@ -99,7 +99,7 @@ Are you satisfied with what your family is spending on?
 Do you keep your household accounts?
 =================================================
 
-(Circle onlu one.)
+(Circle only one.)
 
 1. On a regular basis (every day or every week)
 2. Sometimes

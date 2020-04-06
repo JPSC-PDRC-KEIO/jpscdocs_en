@@ -1,4 +1,4 @@
-.. _your-ocupation:
+.. _your-occupation:
 
 =====================
  Your occupation
@@ -26,7 +26,7 @@ Why are you not working at the moment?
 1. Taking childcare leave
 2. Taking care leave
 3. Taking sick leave
-4. Other (Please specfy : _______________ )
+4. Other (Please specify : _______________ )
 
 Go to :numref:`Q{number} <more-than-one-job-respondent>`.
 
@@ -42,7 +42,7 @@ Do you have more than one job?
 What is your main job at present?
 =================================================
 
-[Please take a moment to explain exactly what you do, ; for example, “I make □□□□,” “I sell □□□□,” “I work as a cashier at the a supermarket,” “I drive a truck,” ”I am a self-employed,” “I work for the family businessworker,” “I work freelance,” and “I am a company employee”.
+[Please take a moment to explain exactly what you do, ; for example, “I make □□□□,” “I sell □□□□,” “I work as a cashier at the a supermarket,” “I drive a truck,” ”I am a self-employed,” “I work for the family business,” “I work freelance,” and “I am a company employee”.
 
  Please explain: _________________________________
 
@@ -65,7 +65,7 @@ What is your main job at present?
 10.	Clerical employee
 11.	Skilled employee
 12.	Sales & service employee
-13.	Paying job at home (home worker)  ---->(Go to :numref:`Section{number} <husbands-occupation>`)
+13.	Paying job at home (home worker)  ----> (Go to :numref:`Section{number} <husbands-occupation>`)
 
 |
 [Questions Q3.4 to Q3.20 ask about the main job you circled in Q3.3.]
@@ -73,7 +73,7 @@ What is your main job at present?
 How many employees does the company or organization you work for have?
 ===========================================================================
 
-[Do not include temporary and part-time workers. If you are an official, circlethe “Public agency”.]
+[Do not include temporary and part-time workers. If you are an official, circle the “Public agency”.]
 
 1. 1 to 4
 2. 5 to 9
@@ -87,7 +87,7 @@ How many employees does the company or organization you work for have?
 Which industry category does your company or organization belong to?
 ===================================================================================
 
-[For temporary employees, consider answer with the industry of your temporary jobemployer.]
+[For temporary employees, consider answer with the industry of your temporary job employer.]
 
 1. Agriculture, forestry
 2. Fishing, fisheries
@@ -104,7 +104,7 @@ Which industry category does your company or organization belong to?
 13. Medical, social services
 14. Other industry
 15. Public affairs
-16. Other (Please specfy : _______________ )
+16. Other (Please specify : _______________ )
 
 What category of employee are you?
 ======================================
@@ -112,18 +112,18 @@ What category of employee are you?
 1. Full-time and permanent employee
 2. Temporary employee
 3. Fixed-term employee
-4. Part-time employeed
-5. Self-employed or working for the family business (Please specfy : _______________ )
+4. Part-time employee
+5. Self-employed or working for the family business (Please specify : _______________ )
 
 
 Are you paid monthly, weekly, daily, or hourly?
 ===================================================
 
 1. Monthly (Go to :numref:`Q{number} <monthly-or-weekly-pay-respondent>`)
-2. Weekly  (Go to :numref:`Q{number} <monthly-or-weekly-pay-respondent>`)
-3. Daily  (Go to :numref:`Q{number} <daily-pay-respondent>`)
-4. Hourly  (Go to :numref:`Q{number} <hourly-wage-respondent>`)
-5. Other   (Go to :numref:`Q{number} <how-many-hours-work-respondent>`)
+2. Weekly (Go to :numref:`Q{number} <monthly-or-weekly-pay-respondent>`)
+3. Daily (Go to :numref:`Q{number} <daily-pay-respondent>`)
+4. Hourly (Go to :numref:`Q{number} <hourly-wage-respondent>`)
+5. Other (Go to :numref:`Q{number} <how-many-hours-work-respondent>`)
 
 
 .. _monthly-or-weekly-pay-respondent:
@@ -192,7 +192,7 @@ How many hours of unpaid overtime, so-called “service overtime” do you do pe
 7. 21 hours or more
 8. We have no overtime work
 
-How many days did you actually work in the past year(October  |syear prev|  to September |syear|  )?
+How many days did you actually work in the past year (October  |syear prev|  to September |syear|  )?
 ==================================================================================================================
 
 1. Under 50 days
@@ -311,9 +311,9 @@ What was the seminar or course?
 4. Seminar(s) or course(s) organized by the municipality or prefecture
 5. Seminar(s) or course(s) organized by a university, college, or vocational school
 6. Studying abroad
-7. Other (Please specfy : _______________ )
+7. Other (Please specify : _______________ )
 
-How many total days did you participate in seminars and courses in the past year(October  |syear prev|  to September |syear|  )?
+How many total days did you participate in seminars and courses in the past year (October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Within 1 day
@@ -516,7 +516,7 @@ Over the past 12 months (from October  |syear prev|  to September |syear|  ), ha
 
 .. _work-in-the-same-company-respondent:
 
-Did you work one year ago (at the end of Septmber last year) in the same company or organization where you work now?
+Did you work one year ago (at the end of september last year) in the same company or organization where you work now?
 ===========================================================================================================================
 
 1. Yes
@@ -536,7 +536,7 @@ Are there more employees now than there were one year ago in the company or orga
 5. Fewer, by at least 30%
 6. Public agency
 
-Were you transferred to another position or office in the past year(October  |syear prev|  to September |syear|  )?
+Were you transferred to another position or office in the past year (October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------------------
 
 1. Yes, to another office and, as a result, I moved location
@@ -545,7 +545,7 @@ Were you transferred to another position or office in the past year(October  |sy
 4. No
 
 
-Was there any change in your work over the past year(October  |syear prev|  to September |syear|  )?
+Was there any change in your work over the past year (October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------
 
 1.  No
@@ -557,7 +557,7 @@ Was there any change in your work over the past year(October  |syear prev|  to S
 
 .. _why-work-different-company-respondent:
 
-Why do you now work at a different company or organization from the one where you worked one year ago (at the end of September last year) ?
+Why do you now work at a different company or organization from the one where you worked one year ago (at the end of September last year)?
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Because I changed my job
@@ -593,7 +593,7 @@ Why did you leave the company or organization where you worked one year ago (at 
 13.	Because I was dismissed
 14.	Because I wanted to study at university, college, or vocational school or prepare to study overseas
 15.	Because I reached the mandatory retirement age or my employment contract finished
-16.	Other (Please specfy : _______________ )
+16.	Other (Please specify : _______________ )
 
 How did you make a living without an income after having quit your job temporarily or permanently?
 ------------------------------------------------------------------------------------------------------------
@@ -605,7 +605,7 @@ How did you make a living without an income after having quit your job temporari
 3. I could get by with a retirement allowance or/and insurance benefits for a while
 4. I used my savings
 5. I made purchases with my credit card or borrowed money
-6. Other (Please specfy : _______________ )
+6. Other (Please specify : _______________ )
 
 
 How do you feel now about quitting or changing your job?
@@ -616,7 +616,7 @@ How do you feel now about quitting or changing your job?
 1. I think it was good for me
 2. I think it was inevitable
 3. I regret it now
-4. Other (Please specfy : _______________ )
+4. Other (Please specify : _______________ )
 
 
 .. _why-did-you-choose-the-company-respondent:
@@ -637,19 +637,19 @@ Why did you choose the company or organization where you work now?
 9. Because I could learn a skill there
 10.	Because I could take advantage of acquired skills
 11.	Because I was interested in the work tasks
-12.	Other (Please specfy : _______________ )
+12.	Other (Please specify : _______________ )
 
 .. todo::
    10.[[Unclear. This could mean many things, given the wording of number 9.]]
 
-How many months have you worked in the past year(October  |syear prev|  to September |syear|  )?
+How many months have you worked in the past year (October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where you worked one year ago and at your present workplace.]
 
  For ____ months
 
-How many months were you job-hunting in the past yearr(October  |syear prev|  to September |syear|  )?
+How many months were you job-hunting in the past year (October  |syear prev|  to September |syear|  )?
 ----------------------------------------------------------------------------------------------------------
 
 [If you didn’t look for a job in the past year, please write 0.]
@@ -669,7 +669,7 @@ Did you receive unemployment benefit (from employment insurance) when you quit y
 5. No, I was not registered for employment insurance
 
 
-How many companies and organizations have you worked for in the past year(October  |syear prev|  to September |syear|  )?
+How many companies and organizations have you worked for in the past year (October  |syear prev|  to September |syear|  )?
 --------------------------------------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where you worked one year ago and at your present workplace)]
@@ -688,7 +688,7 @@ When did you start at the company or organization where you work now?
 
 .. _working-one-year-ago-respondent:
 
-Were you working one year ago(at the end of September |syear|  .)?
+Were you working one year ago (at the end of September |syear|  .)?
 ------------------------------------------------------------------------------
 
 | 1.  Yes ---->
@@ -698,13 +698,13 @@ Were you working one year ago(at the end of September |syear|  .)?
 \
 2.  No ---->  (Go to :numref:`Q{number} <how-many-months-work-respondent>`)
 
-When did you leave the company or organization where you worked one year ago(at the end of September last year)?
+When did you leave the company or organization where you worked one year ago (at the end of September last year)?
 ---------------------------------------------------------------------------------------------------------------------------
 
  In the month: __________
 
 
-Why did you leave the company or organization where you worked one year ago(at the end of September last year)?
+Why did you leave the company or organization where you worked one year ago (at the end of September last year)?
 --------------------------------------------------------------------------------------------------------------------
 
 (Circle as many as apply to you.)
@@ -715,7 +715,7 @@ Why did you leave the company or organization where you worked one year ago(at t
 4. Because I was dissatisfied with the content of the work.
 5. Because a member of my household found a job, changed his or her job, or was transferred to another office, or because the office in which he or she was working was transferred to another place.
 6. Because I got married.
-7. Because I was pregnant, had a baby .
+7. Because I was pregnant, had a baby.
 8. Because I had to care for child.
 9. Because I became sick.
 10.	Because I had to care for a member of my household.
@@ -724,7 +724,7 @@ Why did you leave the company or organization where you worked one year ago(at t
 13.	Because I was dismissed.
 14.	Because I wanted to learn in a university, college or professional school, or to prepare for studying abroad.
 15.	Because I reached the mandatory retirement age, or the term of the employment contract expired.
-16.	Other (Please specfy : _______________ )
+16.	Other (Please specify : _______________ )
 
 
 
@@ -737,7 +737,7 @@ How did you make a living without an income after having quit your job temporari
 2. I could get by with a retirement allowance or/and insurance benefits for a while
 3. I used my savings
 4. I made purchases with my credit card or borrowed money
-5. Other (Please specfy : _______________ )
+5. Other (Please specify : _______________ )
 
 
 
@@ -749,20 +749,20 @@ How do you feel now about quitting or changing your job?
 1. I think it was good for me
 2. I think it was inevitable
 3. I regret it now
-4. Other (Please specfy : _______________ )
+4. Other (Please specify : _______________ )
 
 
 
 .. _how-many-months-work-respondent:
 
-How many months did you work in the past year(October  |syear prev|  to September |syear|  )?
+How many months did you work in the past year (October  |syear prev|  to September |syear|  )?
 --------------------------------------------------------------------------------------------------
 
  For ____ months
 
 0. I didn’t work at all ----> (Go to :numref:`Q{number} <plan-to-work-respondent>`)
 
-How many companies and organizations have you worked for in the past year(October  |syear prev|  to September |syear|  )?
+How many companies and organizations have you worked for in the past year (October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where you worked one year ago and at your present workplace.]
@@ -775,7 +775,7 @@ Do you plan to work in the future?
 ---------------------------------------
 
 1. I want to start working immediately
-2. I plan to start working in 2 or 3 years’ time
+2. I plan to start working in 2 or 3 years’
 3. I want to start working sometime in the future
 4. I have no idea ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent>`)
 
@@ -794,7 +794,7 @@ What are you doing now to prepare for working in the future?
 5. Nothing specific  ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent>`)
 
 
-How many months have you been job-hunting in the past year(October  |syear prev|  to September |syear|  ) ?
+How many months have you been job-hunting in the past year (October  |syear prev|  to September |syear|  ) ?
 ---------------------------------------------------------------------------------------------------------------------
 
  For ____ months

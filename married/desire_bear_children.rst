@@ -11,8 +11,8 @@ Do you want to have a child or another child?
 ================================================
 
 1. Yes, at any cost ----> (Go to :numref:`Q{number} <How-many-children>`.)
-2. Yes, with a condition(s)  ----> (Go to :numref:`Q{number} <What-are-the-conditions>`.)
-3. No  ----> (Go to :numref:`Q{number} <Why-do-not-want>`.)
+2. Yes, with a condition(s) ----> (Go to :numref:`Q{number} <What-are-the-conditions>`.)
+3. No ----> (Go to :numref:`Q{number} <Why-do-not-want>`.)
 
 .. _What-are-the-conditions :
 
@@ -21,7 +21,7 @@ What is (are) the condition(s)?
 
 (Circle as many as apply to you.)
 
-1. To be able to pay our living expenses with a child or  another child
+1. To be able to pay our living expenses with a child or another child
 2. To have a larger house
 3. To be able to continue working after giving birth
 4. For my husband and other members of my household to help me with housekeeping and childcare
@@ -59,7 +59,7 @@ How many more children do you want to have?
 
  \____ child(ren)
 
-Which do you want to have, a boy or a girl? [[What if they say they want 1 of each? Can they select both answers?]]
+Which do you want to have, a boy or a girl?
 ---------------------------------------------------------------------------------------------------------------------------
 
 1. Boy
@@ -71,7 +71,7 @@ Which of the following best describes your thoughts about childcare and work dur
 (Circle only one.)
 
 1. Continuing to work while the child is small (Including when requesting childcare leave.)
-2. Not working while the child is small, and resuming  full-time work when the child starts school.
+2. Not working while the child is small, and resuming full-time work when the child starts school.
 3. Not working while the child is small, and resuming part-time work when the child starts school.
 4. Not working while the child is small or resuming work afterwards
 5. Other (Please specify:	)
@@ -84,7 +84,7 @@ Which of the following best describes your thoughts about childcare and work dur
 What level of education do you want your child(ren) to receive at minimum in the future?
 =============================================================================================
 
-(Choose  code numbers froms in the code list below, and enter them in the columns.)
+(Choose code numbers from in the code list below, and enter them in the columns.)
 
 .. list-table::
    :header-rows: 1
@@ -114,7 +114,7 @@ What level of education do you want your child(ren) to receive at minimum in the
    :header-rows: 0
    :widths: 5
 
-   * - | 1.	Education in an established[[a well-recognized?]] university
+   * - | 1.	Education in an established university
        | 2.	Education in any university, whatever the level
        | 3.	Education in a junior college
        | 4.	Education in a vocational school

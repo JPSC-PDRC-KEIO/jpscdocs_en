@@ -30,7 +30,7 @@ What would you like to pursue further in your life?
 9. More time
 10. Interests/hobbies
 11. Family
-12. Involvemnet in the local community
+12. Involvement in the local community
 13. Friends
 14. Other (please specify: _____________ )
 
@@ -83,7 +83,3 @@ Do you think about retiring or your life after retiring?
 2. I think about it sometimes.
 3. I don’t think about it much.
 4. I don’t think about it at all.
-
-.. todo::
-
-  You have completed this questionnaire. Thank you very much for your patience and cooperation.　を入れるか入れないか

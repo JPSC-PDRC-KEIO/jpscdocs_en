@@ -11,7 +11,7 @@ What kind of a house does your family live in now?
 4. Wooden apartment house
 5. Other (Specify: ______________)
 
-What type of ownership is most appropriate to[[“best describes”?]] your residence? (If ownership is in your family’s name, please regard it as your ownership.)
+What type of ownership is most appropriate to your residence? (If ownership is in your family’s name, please regard it as your ownership.)
 ==================================================================================================================================================================
 
 1. Owner-occupied house (with ownership of lot) ----> (Please answer a)
@@ -30,7 +30,7 @@ a)	Please answer additional questions about "[A] lot","[B] house" and "[C] rent"
    :widths: 5, 5
 
     "[A] lot", "[B] House"
-    "1. What do you estimate the current market price(selling price) of the  current market price (selling price) of the lot is?", "2. What do you  estimate  the  current  market price (selling price) for the house is?"
+    "1. What do you estimate the current market price (selling price) of the  current market price (selling price) of the lot is?", "2. What do you estimate the current market price (selling price) for the house is?"
     "\_____ ten thousand yen", "\_____ ten thousand yen"
 
 
@@ -64,7 +64,7 @@ Please answer the following if after October 1,  |syear prev|  you purchased the
    :header-rows: 0
    :widths: 3, 5
 
-   * - A1. How large is the the lot?
+   * - A1. How large is the lot?
      - \_____㎡
    * - A2. Who has ownership of the lot? In the case that the lot is in the name of two or more persons, please indicate all of the owners."
      - | 1	Me
@@ -112,7 +112,7 @@ Please answer the following if after October 1,  |syear prev|  you purchased the
      - | 1	I purchased it with all of my money. (including a loan)
        | 2	I purchased it with the financial support from my or/and my husband's parent(s)
        | 3	I purchased it under wife's or husband's and her or his parent's(s’) joint names
-       | 4	I  received  it  as  a  donation  from  my  or  my husband's parent(s)
+       | 4	I received it as a  onation from my or my husband's parent(s)
        | 5	I inherited it from my or my husband's parent(s)
        | 6	Other (Specify	)"
    * - | [If you answered 2-5 in B5]
@@ -140,7 +140,7 @@ Does your family live together with, or separately from, your parents or your hu
 4. My parent(s) or my husband's parent(s) live in the same town as my family or within 1 km of our house (in a neighboring district)
 5. My parent(s) or my husband's parent(s) live in the same ward as my family in one of the 13 largest cities with wards in Japan [[would they know what these cities are? Do you give them a list?]]
 6. My parent(s) or my husband's parent(s) live in the same municipality as my family, where we live outside the 13 largest cities with wards in Japan
-7. My parent(s) or my husband's parent(s) live in Tokyo or in same prefecture[[“In the prefectural capital or elsewhere in the same prefecture”?]] as my family
+7. My parent(s) or my husband's parent(s) live in Tokyo or in same prefecture as my family
 8. My parent(s) or my husband's parent(s) live in a place other than those mentioned in items 1 to 7 above
 9. My parent(s) and my husband's parents have all passed away ----> (Go to :numref:`Q{number} <purchased-a-lot>`.)
 
@@ -356,7 +356,7 @@ What is the total current market price (estimated selling price) of all of the r
 
 .. _your-future-plan :
 
-We would now like to ask you about your future plans and ideas for your accommodation.Are you, as a couple, planning to move out of your current accommodation, build a new house, or buy a house? (Please choose one.)
+We would now like to ask you about your future plans and ideas for your accommodation. Are you, as a couple, planning to move out of your current accommodation, build a new house, or buy a house? (Please choose one.)
 ===================================================================================================================================================================================================================================
 
 1. Yes, we have a concrete plan
@@ -379,12 +379,12 @@ What kind of accommodation are you thinking of buying?
 1. House with mortgage (own land)
 2. Flat with mortgage (leasehold)
 3. House or flat with mortgage (rented land)
-4. Privately rented accommodatio
+4. Privately rented accommodation
 5. Publicly rented accommodation
-6. Company accommodation/dormitory(including the one owned by the company)
+6. Company accommodation/dormitory (including the one owned by the company)
 
 |
-[If you answered 2-4 in Q10.8 or 1-2 in Q10.10, please answe the question below.]
+[If you answered 2-4 in Q10.8 or 1-2 in Q10.10, please answer the question below.]
 
 .. _when-build-buy-renovate :
 
