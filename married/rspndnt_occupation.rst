@@ -504,12 +504,12 @@ Were you working as a temporary employee of a temporary employment agency one ye
 Over the past 12 months (from October  |syear prev|  to September |syear|  ), has there been any change in A. the temporary employment agency you are registered with or B. the workplace you are dispatched to (where you actually work)?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*A.Temporary employment agency you are registered with*
+*A. Temporary employment agency you are registered with*
 
 1. Yes, there has been change
 2. No, there has been no change
 
-*B.The workplace where are dispatched to (where you actually work)*
+*B. The workplace where are dispatched to (where you actually work)*
 
 1. Yes, there has been change ----> (Go ｔo :numref:`Q{number} <When-did-you-leave-the-company-respondent>`.)
 2. No, there has been no change ----> (Go to :numref:`Q{number} <are-there-more-employees-respondent>`.)
@@ -640,7 +640,7 @@ Why did you choose the company or organization where you work now?
 12.	Other (Please specify : _______________ )
 
 .. todo::
-   10.[[Unclear. This could mean many things, given the wording of number 9.]]
+   [[Unclear. This could mean many things, given the wording of number 9.]]
 
 How many months have you worked in the past year (October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------
@@ -718,13 +718,13 @@ Why did you leave the company or organization where you worked one year ago (at 
 7. Because I was pregnant, had a baby.
 8. Because I had to care for child.
 9. Because I became sick.
-10.	Because I had to care for a member of my household.
-11.	Because I found a new job with good conditions, or started my own company.
-12.	Because I had some interpersonal problems there.
-13.	Because I was dismissed.
-14.	Because I wanted to learn in a university, college or professional school, or to prepare for studying abroad.
-15.	Because I reached the mandatory retirement age, or the term of the employment contract expired.
-16.	Other (Please specify : _______________ )
+10. Because I had to care for a member of my household.
+11. Because I found a new job with good conditions, or started my own company.
+12. Because I had some interpersonal problems there.
+13. Because I was dismissed.
+14. Because I wanted to learn in a university, college or professional school, or to prepare for studying abroad.
+15. Because I reached the mandatory retirement age, or the term of the employment contract expired.
+16. Other (Please specify : _______________ )
 
 
 

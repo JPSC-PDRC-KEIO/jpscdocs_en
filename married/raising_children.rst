@@ -42,17 +42,17 @@ Which childcare duties does your husband do or help with?
 
 (Circle as many as apply to you.)
 
-1.	Changes diapers and clothes, and prepares the clothes
-2.	Gives a bath or takes a bath together with our child(ren)
-3.	Spoon-feeds and puts our child(ren)to bed.
-4.	Keeps our child(ren) amused
-5.	Plays with our child(ren) (hobby, sports, games, etc.)
-6.	Passes on knowledge or teaches skills (studying, cooking, etc.)
-7.	Takes our child(ren) to and from school, cram school, or lessons
-8.	Helps out or participates in school meetings, lessons, and community events
-9.	Discusses our child(ren)’s schooling or future
-10.	Has almost no contact with our child(ren)
-11.	Other (Specify: _______________ )
+1. Changes diapers and clothes, and prepares the clothes
+2. Gives a bath or takes a bath together with our child(ren)
+3. Spoon-feeds and puts our child(ren)to bed
+4. Keeps our child(ren) amused
+5. Plays with our child(ren) (hobby, sports, games, etc.)
+6. Passes on knowledge or teaches skills (studying, cooking, etc.)
+7. Takes our child(ren) to and from school, cram school, or lessons
+8. Helps out or participates in school meetings, lessons, and community events
+9. Discusses our child(ren)’s schooling or future
+10. Has almost no contact with our child(ren)
+11. Other (Specify: _______________ )
 
 
 Do you have anyone who can take care of your child(ren) except you?
@@ -60,17 +60,17 @@ Do you have anyone who can take care of your child(ren) except you?
 
 (Circle as many as apply to you.)
 
-1.	My husband
-2.	My parent(s)
-3.	My sibling(s)
-4.	My husband’s parent(s)
-5.	My friend(s)
-6.	My neighbor(s)
-7.	Nursery school, kindergarten, after-school day-care center
-8.	Babysitter, housekeeper, etc.
-9.	Others (Specify: _______________ )
-10.	I have no-one who can take care of my child(ren)
-11.	I don’t need to ask for any help taking care of my child(ren)
+1. My husband
+2. My parent(s)
+3. My sibling(s)
+4. My husband’s parent(s)
+5. My friend(s)
+6. My neighbor(s)
+7. Nursery school, kindergarten, after-school day-care center
+8. Babysitter, housekeeper, etc.
+9. Others (Specify: _______________ )
+10. I have no-one who can take care of my child(ren)
+11. I don’t need to ask for any help taking care of my child(ren)
 
 
 Do you have anyone to ask about child-rearing?
@@ -78,16 +78,16 @@ Do you have anyone to ask about child-rearing?
 
 (Circle as many as apply to you.)
 
-1.	My husband
-2.	My parent(s)
-3.	My sibling(s)
-4.	My husband’s parent(s)
-5.	My friend(s)
-6.	My neighbor(s)
-7.	Specialist (doctor, midwife, nursery school teacher, health nurse, etc.)
-8.	Others (Please specify: _______________ )
-9.	I have no-one to ask about child care[[-rearing or help with childcare?]]
-10.	I don’t need to ask about child care [[“child-rearing” or “help with childcare”?]]
+1. My husband
+2. My parent(s)
+3. My sibling(s)
+4. My husband’s parent(s)
+5. My friend(s)
+6. My neighbor(s)
+7. Specialist (doctor, midwife, nursery school teacher, health nurse, etc.)
+8. Others (Please specify: _______________ )
+9. I have no-one to ask about child care
+10. I don’t need to ask about child care
 
 [Please answer the following questions about raising children.]
 

@@ -50,3 +50,6 @@ From 1. to 16. above, please choose the one that, in your view, best describes y
 --------------------------------------------------------------------------------------------------
 
  \_______
+
+
+Regardless of the image of the real husband, what do you consider the ｍost important attributes of your partner is?

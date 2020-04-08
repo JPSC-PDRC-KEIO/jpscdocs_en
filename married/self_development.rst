@@ -13,18 +13,18 @@ What kind of courses have you taken? (Include correspondence courses)
 
 (Circle as many as apply to you.)
 
-1.	"Miscellaneous" school
-2.	Occupational training school
-3.	High school
-4.	Vocational and Special vocational school
-5.	Junior college or technical college
-6.	University or college (graduate)
-7.	University or college (completed some courses, or as auditor[[??]] or research student)
-8.	University or college (department of telecommunications or a broadcasting college)
-9.	Graduate school
-10.	correspondence courses in miscellaneous category
-11.	community center or culture center
-12.	Other (Specify: _____________ )
+1. "Miscellaneous" school
+2. Occupational training school
+3. High school
+4. Vocational and Special vocational school
+5. Junior college or technical college
+6. University or college (graduate)
+7. University or college (completed some courses, or as auditor[[??]] or research student)
+8. University or college (department of telecommunications or a broadcasting college)
+9. Graduate school
+10. correspondence courses in miscellaneous category
+11. community center or culture center
+12. Other (Specify: _____________ )
 
 .. note::
 
@@ -35,8 +35,8 @@ What kind of courses have you taken? (Include correspondence courses)
 Did you graduate from school in the past year?
 ------------------------------------------------
 
-1.	Yes, I graduated from school or completed a course
-2.	No, I did not graduate from school or complete a course
+1. Yes, I graduated from school or completed a course
+2. No, I did not graduate from school or complete a course
 
 Why did you take the course?
 ------------------------------
@@ -52,23 +52,23 @@ Why did you take the course?
 7. To improve my abilities in art, entertainment, or hobby
 8. To maintain health and develop physical strength
 9. To enrich my life
-10.	To devote myself to something
-11.	To acquire knowledge and skills relating to my household and daily life
-12.	To acquire knowledge and skills relating to social action (volunteer activities, etc.)
-13.	Other (Specify: _____________	)
+10. To devote myself to something
+11. To acquire knowledge and skills relating to my household and daily life
+12. To acquire knowledge and skills relating to social action (volunteer activities, etc.)
+13. Other (Specify: _____________	)
 
 Who paid most of the cost?
 --------------------------------
 
  (Circle as many as apply to you.)
 
-1.	Me
-2.	My company
-3.	My husband
-4.	My parent(s)
-5.	Training and Education Allowance
-6.	Other public agency, as a grant-in-aid
-7.	Others (Specify: _____________ )
+1. Me
+2. My company
+3. My husband
+4. My parent(s)
+5. Training and Education Allowance
+6. Other public agency, as a grant-in-aid
+7. Others (Specify: _____________ )
 
 What was the total cost of the course that you or your family paid for tuition and course materials (excluding your company or public financial support) in the past year (October  |syear prev|  - - September |syear|  )? (Exclude transportation costs.)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

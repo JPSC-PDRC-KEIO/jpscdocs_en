@@ -17,10 +17,10 @@ Which changes occurred in your household in the past year (October |syear prev| 
 7. A member of my household died.
 8. My household size became smaller for other reasons.
 9. I got married and formed a different household.
-10.	I got divorced or separated and formed a different household.
-11.	I (or my household) moved out of my (or my husband's) parents’ house to form a different household.
-12.	I (or my household) moved into my (or my husband's) parents’ house to live together.
-13.	There was no change in my household.
+10. I got divorced or separated and formed a different household.
+11. I (or my household) moved out of my (or my husband's) parents’ house to form a different household.
+12. I (or my household) moved into my (or my husband's) parents’ house to live together.
+13. There was no change in my household.
 
 .. jump::
 
@@ -257,12 +257,12 @@ Which of the following events happened to you in the past year (October  |syear 
 7. Entered a university (or postgraduate school) or college, or a vocational school
 8. Started to take lessons
 9. Took on a responsible role in the PTA, cooperative, or other circle or group
-10.	Serious sickness needing surgery or long-term medical treatment
-11.	Mental health problems such as depression
-12.	Consumers' trouble including loan and credit
-13.	Accident(s) or disaster
-14.	Other special event(s) (Please specify : _______________ )
-15.	No special event
+10. Serious sickness needing surgery or long-term medical treatment
+11. Mental health problems such as depression
+12. Consumers' trouble including loan and credit
+13. Accident(s) or disaster
+14. Other special event(s) (Please specify : _______________ )
+15. No special event
 
 
 
@@ -288,9 +288,9 @@ What event(s) did other members of your household have in the past year (October
 7. Serious sickness requiring an operation or a long-term medical treatment
 8. Mental trouble such as depression
 9. Consumers' trouble including loan and credit
-10.	Accident(s) or disaster
-11.	Entrance examination or started school or matriculation at university or college
-12.	Child(ren) got married
-13.	Become a grandmother
-14.	Other special event(s) (Please specify : _______________ )
+10. Accident(s) or disaster
+11. Entrance examination or started school or matriculation at university or college
+12. Child(ren) got married
+13. Become a grandmother
+14. Other special event(s) (Please specify : _______________ )
 15. No special event → (Go to :numref:`Q{number} <are-you-currentry-working>`.)

@@ -112,8 +112,8 @@ Choose code numbers from the code list below and enter them in the columns “(1
    :header-rows: 1
    :widths: 8, 8
 
-   * - 1.	Purpose of borrowing
-     - 2.	Borrowed from
+   * - 1. Purpose of borrowing
+     - 2. Borrowed from
    * - | 1. Business funds (Includes loans for business such as purchase of automobile for business and repayment of business debts.)
        | 2. To buy an automobile
        | 3. To buy durable consumer goods such as furniture and consumer electronics
@@ -140,7 +140,7 @@ Choose code numbers from the code list below and enter them in the columns “(1
    :header-rows: 1
    :widths: 20
 
-   * - 3.	Reason for borrowing money from the source
+   * - 3. Reason for borrowing money from the source
    * - | 31	We could borrow money only from that source
        | 32	The process was simple there
        | 33	We could borrow money the fastest from that source

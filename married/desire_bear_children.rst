@@ -114,14 +114,14 @@ What level of education do you want your child(ren) to receive at minimum in the
    :header-rows: 0
    :widths: 5
 
-   * - | 1.	Education in an established university
-       | 2.	Education in any university, whatever the level
-       | 3.	Education in a junior college
-       | 4.	Education in a vocational school
-       | 5.	Education in a senior-high school
-       | 6.	Education wanted by my child(ren)
-       | 7.	Completed school education and working
-       | 8.	Other
+   * - | 1. Education in an established university
+       | 2. Education in any university, whatever the level
+       | 3. Education in a junior college
+       | 4. Education in a vocational school
+       | 5. Education in a senior-high school
+       | 6. Education wanted by my child(ren)
+       | 7. Completed school education and working
+       | 8. Other
 
 
 Which of the following best describes who you think should be responsible for the cost of childcare and your child/(ren)’s education up to the time when of leaving high school? (Please choose one.)

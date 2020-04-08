@@ -127,26 +127,26 @@ Did you take any trips overnight or for longer in the past year (October  |syear
 *Domestic*
 
 1. Pleasure trip (trips for recreation, sports, etc.)
- 1.	No
+ 1. No
  2. Yes
 
 2. Trip or some kind of visit to your hometown
- 1.	No
+ 1. No
  2. Yes
 
 3. Business trip, training, etc.
- 1.	No
+ 1. No
  2. Yes
  3. I have not worked in the past year
 
 *Overseas*
 
 4. Pleasure trip (trips for recreation, sports, etc.)
- 1.	No
+ 1. No
  2. Yes
 
 5. Trip or some kind of visit to your hometown
- 1.	No
+ 1. No
  2. Yes
 
 6. Business trip, training, etc.

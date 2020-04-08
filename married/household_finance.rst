@@ -60,10 +60,10 @@ Do you try to save a fixed amount from your household income?
 
  (Please choose one.)
 
-1.	Try to save on a regular basis
-2.	Not planned, but save what is left
-3.	Not much left to save
-4.	Not interested in saving
+1. Try to save on a regular basis
+2. Not planned, but save what is left
+3. Not much left to save
+4. Not interested in saving
 
 
 
@@ -199,15 +199,15 @@ What kind of health insurance do you have?
 What is your insurance status?
 -------------------------------------
 
-1.	Primary insured
-2.	Secondary insured
-3.	Tertiary insured
-4.	Not insured
+1. Primary insured
+2. Secondary insured
+3. Tertiary insured
+4. Not insured
 
-If you are or your husband is a company employee or self-employed, how much was your take-home pay and his take-home pay (Go total pay after taxes and social insurance ductions) in September of this year?
+If you are or your husband is a company employee or self-employed, how much was your take-home pay and his take-home pay (Go total pay after taxes and social insurance deductions) in September of this year?
 ============================================================================================================================================================================================================================
 
-(Exclude bonus and temporary allowances are excluded.)
+(Exclude bonus and temporary allowances.)
 
 1. My husband’s take-home pay in September  \　 ______ ten thousand yen \　	0.    None
 2. My take-home pay in September  \　  ______ ten thousand yen \　	0.    None

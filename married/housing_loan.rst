@@ -79,18 +79,18 @@ Code list
 
    "(1)	Purpose of borrowing", "(2)	Borrowed from"
    "
-   | 1.	To renew a loan
-   | 2.	To purchase a lot
-   | 3.	To purchase a house (with lot)
-   | 4.	To build a house
-   | 5.	To extend or rebuild a house
-   | 6.	To purchase a second house", "
-   | 11	Financial institution such as a bank
-   | 12	Housing loan corporation or other public loan (pension loan, asset-formation loan, public corporation loan, municipal corporation loan, etc.)
-   | 13	Employee loan
-   | 14	My parent(s)
-   | 15	My husband's parent(s)
-   | 16	Other"
+   | 1. To renew a loan
+   | 2. To purchase a lot
+   | 3. To purchase a house (with lot)
+   | 4. To build a house
+   | 5. To extend or rebuild a house
+   | 6. To purchase a second house", "
+   | 11. Financial institution such as a bank
+   | 12. Housing loan corporation or other public loan (pension loan, asset-formation loan, public corporation loan, municipal corporation loan, etc.)
+   | 13. Employee loan
+   | 14. My parent(s)
+   | 15. My husband's parent(s)
+   | 16. Other
 
 How do you and your husband feel the burden of your repayments?
 ==================================================================
@@ -100,4 +100,4 @@ How do you and your husband feel the burden of your repayments?
 1. Burden is light.
 2. Burden is slightly heavy
 3. Burden is considerably heavy
-4.	Burden is extremely heavy
+4. Burden is extremely heavy
