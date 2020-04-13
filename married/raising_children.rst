@@ -3,7 +3,7 @@
 ======================
 
 
-[If you have a child/ children, please answer Questions 8.1–6. If you do not have a child/children, please go to Section 9.]
+[If you have a child/ children, please answer Questions 1–6. If you do not have a child/children, please go to Section 9.]
 
 Approximately how much have you spent on your child’s/children’s education in the past 12 months (October  |syear prev| –September |syear|  )? Please fill in the table below. If no costs has been incurred, please enter “0 yen.” (If school grade does not apply, please leave it blank).
 =======================================================================================================================================================================================================================================================================================================================
@@ -24,17 +24,26 @@ Approximately how much have you spent on your child’s/children’s education i
  | \*3 piano, swimming, abacus, etc.
  | \*4 money sent to those living outside the home, housing expenses, etc.
 
- .. csv-table::
-    :header-rows: 0
-    :widths: 5, 5, 5
 
-    "Educational stage codes", "", ""　
 
-    "1 Preschool (staying at home)", "6	High school", "11 University (6-year program)"
-	  "2 Preschool (nursery)", "7	Higher vocational school", "12 Graduate school"
-	  "3 Preschool (kindergarten)", "8 Further education (college)", "13 Other school/s (including cram school)"
-	  "4 Primary school", "9 Junior college", "14   Not in school or working"
-    "5 Junior high school", "10  University (4-year program)", ""
+.. list-table:: **Educational stage codes**
+   :header-rows: 0
+   :widths: 5, 5
+
+   * - | 1 Preschool (staying at home)
+       | 2 Preschool (nursery)
+       | 3 Preschool (kindergarten)
+       | 4 Primary school", "9 Junior college
+       | 5 Junior high school
+       | 6 High school
+       | 7 Specialized training college
+     - | 8 Vocational school
+       | 9 Junior college
+       | 10 University (4-year program)
+       | 11 University (6-year program)
+       | 12 Graduate school
+       | 13 Other school/s (including cram school)
+       | 14 Not in school or working
 
 
 Which childcare duties does your husband do or help with?
@@ -89,12 +98,12 @@ Do you have anyone to ask about child-rearing?
 9. I have no-one to ask about child care
 10. I don’t need to ask about child care
 
-[Please answer the following questions about raising children.]
+[If you have preschool children, please answer the following questions.]
 
 Do you use any child-care services for your child(ren) provided by an authorized nursery school, unauthorized nursery school, kindergarten, babysitter, housekeeper, your relatives, your friends, etc.?
 ==============================================================================================================================================================================================================
 
-1. Yes　　2. No → (Go to :numref:`Q{number} <are-you-receiving>`.)
+1. Yes    2. No → (Go to :numref:`Q{number} <are-you-receiving>`.)
 
 
 Please write down the number of child(ren) who use(s) each service shown below. If you send your child(ren) to a nursery school or kindergarten, etc., how much did you pay for the fees in September of this year? If you have more than two pre-school-age children, please write the total amount spent for all of them.

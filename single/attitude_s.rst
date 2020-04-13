@@ -18,65 +18,65 @@ We would like to ask you about your physical or mental state during the past wee
      - Three or four days a week
      - Almost every day
    * - I was bothered by things which usually don’t bother me.
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
    * - I felt that I could not shake off the blues, even if my family or friends cheered me up.
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
    * - I felt depressed.
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
    * - I had trouble keeping my mind on what I was doing.
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
    * - My appetite decreased.
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
    * - I felt that everything I did was an effort.
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
    * - I felt fearful.
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
    * - I had trouble sleeping.
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
    * - I talked less than usual.
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
    * - I felt lonely without company.
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
    * - I felt that my days were fun.
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
    * - I felt sad.
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
 
 .. note::
 
@@ -104,7 +104,7 @@ ___ / a day
 How many hours of sleep do you normally get?
 ================================================
 
-1. Daily average on a weekday　\____ hours \___ 0 minutes
+1. Daily average on a weekday  \____ hours \___ 0 minutes
 2. Daily average on a day off  \____ hours \___ 0 minutes
 
 How often do you do the following activities?
@@ -124,16 +124,16 @@ How often do you do the following activities?
      - Five to six times a week
      - Every day
    * - Drinking alcohol
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
-     -  \　　5
-     -  \　　6
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+     -  \    6
    * - Exercise
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
-     -  \　　5
-     -  \　　6
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+     -  \    6

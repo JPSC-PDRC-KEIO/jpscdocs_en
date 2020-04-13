@@ -12,7 +12,6 @@ Contents:
    about_your_household_s
    changes_household_s
    rspndnt_occupation_s
-   income_management_s
    household_finance_s
    parents_s
    raising_children_s

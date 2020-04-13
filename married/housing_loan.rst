@@ -71,9 +71,8 @@ In the table below, please enter information about the housing loan(s) that you 
      - | \_____ 0 ten thousand yen
        | 0. We did not repay in the past year.
 
-Code list
 
-.. csv-table::
+.. csv-table:: Code list
    :header-rows: 0
    :widths: 3, 3
 

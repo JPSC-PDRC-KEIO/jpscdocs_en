@@ -363,83 +363,83 @@ Please rate the extent to which the following statements apply to your current c
       - Almost never
       - Don't know
     * - 1. The pay/salary is good
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 2. The working hours are long
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 3. It’s easy to take days off
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 4. The commute is short
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 5. There are few or no transfers to other work locations
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 6. It is stable; I’m not worried about losing my job
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 7. There is the potential for growth
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 8. It’s easy to continue working after getting or having children
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 9. I can acquire skills
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 10. I can make use of my skills and abilities
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 11. I am interested in what I do at work
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 12. Workplace relationships are good
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 13. There are opportunities for promotion or advancement
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
 
 
 To what extent do the following statements apply to how you want to work 3 years from now?
@@ -458,35 +458,35 @@ To what extent do the following statements apply to how you want to work 3 years
      - Mostly disagree
      - Not sure
    * - 1. I want to have more authority and responsibility
-     - \　　1.
-     - \　　2.
-     - \　　3.
-     - \　　4.
-     - \　　5.
+     - \    1.
+     - \    2.
+     - \    3.
+     - \    4.
+     - \    5.
    * - 2. I want to care for my family more, such as doing housework, childcare, and elderly care
-     - \　　1.
-     - \　　2.
-     - \　　3.
-     - \　　4.
-     - \　　5.
+     - \    1.
+     - \    2.
+     - \    3.
+     - \    4.
+     - \    5.
    * - 3. I want to utilize my talents and skills further
-     - \　　1.
-     - \　　2.
-     - \　　3.
-     - \　　4.
-     - \　　5.
+     - \    1.
+     - \    2.
+     - \    3.
+     - \    4.
+     - \    5.
    * - 4. I want a higher salary
-     - \　　1.
-     - \　　2.
-     - \　　3.
-     - \　　4.
-     - \　　5.
+     - \    1.
+     - \    2.
+     - \    3.
+     - \    4.
+     - \    5.
    * - 5. I want to work in the same workplace/company
-     - \　　1.
-     - \　　2.
-     - \　　3.
-     - \　　4.
-     - \　　5.
+     - \    1.
+     - \    2.
+     - \    3.
+     - \    4.
+     - \    5.
 
 Did you work one year ago (At the end of September last year)?
 ==================================================================
@@ -709,7 +709,7 @@ Why did you leave the company or organization where you worked one year ago (at 
 
 (Circle as many as apply to you.)
 
-1. Because of personnel reduction, or company dissolution or bankruptcy.
+1. Because of downsizing, or company dissolution or bankruptcy.
 2. Because my work was temporary and unstable there.
 3. Because working conditions (income, working hours and so on) were bad there.
 4. Because I was dissatisfied with the content of the work.

@@ -1,10 +1,12 @@
+.. _changes-household_s :
+
 ==============================================================
 Changes that occurred in your household in the past year
 ==============================================================
 
 
 Which changes occurred in your household in the past year (October |syear prev| to September |syear|  )?
-============================================================================================================
+==========================================================================================================
 
 |mchoice|
 
@@ -17,17 +19,17 @@ Which changes occurred in your household in the past year (October |syear prev| 
 7. A member of my household died.
 8. My household size became smaller for other reasons.
 9. I got married and formed a different household.
-10.	I got divorced or separated and formed a different household.
-11.	I (or my household) moved out of my (or my husband's) parents’ house to form a different household.
-12.	I (or my household) moved into my (or my husband's) parents’ house to live together.
-13.	There was no change in my household.
+10. I got divorced or separated and formed a different household.
+11. I (or my household) moved out of my (or my husband's) parents’ house to form a different household.
+12. I (or my household) moved into my (or my husband's) parents’ house to live together.
+13. There was no change in my household.
 
 .. jump::
 
-   If you gave birth in the past year (October |syear prev| to September |syear|  ), please answer :numref:`Q{number} <if-you-gave-birth>`. If not, move to :numref:`Q{number} <how-as-preparation-for-your-child-respondent_s>`.
+   If you gave birth in the past year (October |syear prev| to September |syear|  ), please answer :numref:`Q{number} <if-you-gave-birth>`. If not, move to :numref:`Q{number} <how-as-preparation-for-your-child-respondent>`.
 
 
-.. _if-you-gave-birth:
+.. _if-you-gave-birth_s :
 
 If you gave birth in the past year (October |syear prev| to September |syear|  ),
 ================================================================================
@@ -84,14 +86,14 @@ Did you work before and after giving birth?
 
 
 Did you take maternity leave?
--------------------------------
+---------------------------------
 
 1. Yes
 2. No
 3. There was (or is) no such system
 
 If you took maternity leave, how many weeks did you take?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * \_\_weeks before giving birth
 * \_\_weeks after giving birth
 
@@ -100,25 +102,25 @@ If you took maternity leave, how many weeks did you take?
    go to :numref:`Q{number} <how-as-preparation-for-your-child-respondent_s>`.
 
 Did you use the childcare leave system or childcare time?
----------------------------------------------------------
+------------------------------------------------------------
 
-1. Yes ----> (Form) 1 Childcare leave  ____ months \　　 2 Childcare time	____ hours a day
+1. Yes ----> (Form) 1 Childcare leave  ____ months \     2 Childcare time	____ hours a day
 2. No
 3. There was (or is) no such system
 
 Did your husband use the childcare leave system or childcare time?
-------------------------------------------------------------------
+---------------------------------------------------------------------
 
-1. Yes ----> (Form) 1 Childcare leave  ____ months \　　 2 Childcare time	____ hours a day
+1. Yes ----> (Form) 1 Childcare leave  ____ months \     2 Childcare time	____ hours a day
 2. No
 3. here was (or is) no such system
 
-[Q2.3 is for parents whose children started primary school or later schooling in the past 1 year (October  |syear prev|  to September |syear|  ). If this does not apply to you, please go to :numref:`Q{number} <Who-died>`.]
+[Q2.3 is for parents whose children started primary school or later schooling in the past 1 year (October  |syear prev|  to September |syear|  ). If this does not apply to you, please go to :numref:`Q{number} <Who-died_s>`.]
 
-.. _how-as-preparation-for-your-child-respondent_s:
+.. _how-as-preparation-for-your-child-respondent_s :
 
 How was preparation for your child’s school entry (e.g., purchasing a desk and study equipment; costs for the entrance exam, preparing to enter the school, and the admission fee; preparation for an independent life) paid for?
-===========================================================================================================================================================================================================================================================================================================================================================
+===================================================================================================================================================================================================================================================
 
 [If you have two or more children who started school in the past 1 year, please answer in relation to the older child.]
 
@@ -131,11 +133,11 @@ How was preparation for your child’s school entry (e.g., purchasing a desk and
 5. Loan from a financial or public institution
 6. My child paid for it himself/herself
 7. No need to prepare funds
-8. Other (Please specfy : _______________ )
+8. Other (Please specify : _______________ )
 
-[Please answer Q2.4 if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October  |syear prev|  to September |syear|  ). If not, go to :numref:`Q{number} <which-of-the-following-events>`.]
+[Please answer Q2.4 if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October  |syear prev|  to September |syear|  ). If not, go to :numref:`Q{number} <which-of-the-following-events_s>`.]
 
-.. _Who-died:
+.. _Who-died_s :
 
 Who died?
 ===============
@@ -150,9 +152,9 @@ Who died?
 6.  My grandparent(s)
 7.  My husband's grandparent(s)
 8.  My child(ren)
-9.  Other (Please specfy : _______________ )
+9.  Other (Please specify : _______________ )
 
-[Please answer the following question if two or more of your or your husband's parents died in the past year (October  |syear prev|  to September |syear|  ). If not, go to  :numref:`Q{number} <need-care-for>`.]
+[Please answer the following question if two or more of your or your husband's parents died in the past year (October  |syear prev|  to September |syear|  ). If not, go to  :numref:`Q{number} <need-care-for_s>`.]
 
 Choose one of them for whom all problems of inheritance were solved.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -165,13 +167,13 @@ Choose one of them for whom all problems of inheritance were solved.
 4. My husband's mother
 5. My or my husband's foster parent(s)
 
-.. _need-care-for:
+.. _need-care-for_s :
 
 Did that parent need to be cared for until he or she died?
 ----------------------------------------------------------
 
 1. Yes
-2. No ----> (Go to :numref:`Q{number} <How-was-the-property-left>`)
+2. No ----> (Go to :numref:`Q{number} <How-was-the-property-left_s>`)
 
 How long was that parent cared for?
 -----------------------------------
@@ -199,7 +201,7 @@ Who cared for that parent?
 8. Home helpers (covered by the Long-Term Care Insurance System)
 9. Staff at a nursing home for the elderly
 10. Paid housekeepers not covered by the Long-Term Care Insurance System
-11. Other (Please specfy : _______________ )
+11. Other (Please specify : _______________ )
 
 Where was that parent cared for?
 -----------------------------------
@@ -210,21 +212,21 @@ Where was that parent cared for?
 2. Another facility
 3. My house
 4. His or her own house
-5. Other (Please specfy : _______________ )
+5. Other (Please specify : _______________ )
 
-.. _How-was-the-property-left:
+.. _How-was-the-property-left_s :
 
 How was the property left by the deceased parent distributed among his or her children?
 ---------------------------------------------------------------------------------------
 
-1. It was equally distributed ----> (Go to :numref:`Q{number} <which-of-the-following-events>`.)
+1. It was equally distributed ----> (Go to :numref:`Q{number} <which-of-the-following-events_s>`.)
 2. The entire amount was inherited by the eldest child
 3. Most of it was inherited by the eldest child
 4. The entire amount was inherited by a child that is not the eldest
 5. Most of it was inherited by a child that is not the eldest
-6. Other (Please specfy : _______________ )
+6. Other (Please specify : _______________ )
 7. The entire amount was inherited by a single child
-8. None of the children inherited it ----> (Go to :numref:`Q{number} <which-of-the-following-events>`.)
+8. None of the children inherited it ----> (Go to :numref:`Q{number} <which-of-the-following-events_s>`.)
 
 [If you chose an answer between 2 and 7, please answer the following question.]
 
@@ -236,12 +238,12 @@ Which applies to the child (or his/her spouse) who inherited all or most of the 
 3. He/she did the housework
 4. He/she supported the deceased parent financially
 5. He/she took over the family business
-6. Other (Please specfy : _______________ )
+6. Other (Please specify : _______________ )
 
 |
 [For all respondents to answer]
 
-.. _which-of-the-following-events:
+.. _which-of-the-following-events_s :
 
 Which of the following events happened to you in the past year (October  |syear prev|  to September |syear|  )?
 ====================================================================================================
@@ -257,16 +259,14 @@ Which of the following events happened to you in the past year (October  |syear 
 7. Entered a university (or postgraduate school) or college, or a vocational school
 8. Started to take lessons
 9. Took on a responsible role in the PTA, cooperative, or other circle or group
-10.	Serious sickness needing surgery or long-term medical treatment
-11.	Mental health problems such as depression
-12.	Consumers' trouble including loan and credit[[“Financial difficulties making loan or credit repayments”?]]
-13.	Accident(s) or disaster
-14.	Other special event(s) (Please specfy : _______________ )
-15.	No special event
+10. Serious sickness needing surgery or long-term medical treatment
+11. Mental health problems such as depression
+12. Consumers' trouble including loan and credit
+13. Accident(s) or disaster
+14. Other special event(s) (Please specify : _______________ )
+15. No special event
 
-.. todo::
 
-  英語編集と Qのno.が違う
 
 [For all respondents to answer]
 
@@ -290,9 +290,9 @@ What event(s) did other members of your household have in the past year (October
 7. Serious sickness requiring an operation or a long-term medical treatment
 8. Mental trouble such as depression
 9. Consumers' trouble including loan and credit
-10.	Accident(s) or disaster
-11.	Entrance examination or started school or matriculation at university or college
-12.	Child(ren) got married
-13.	Become a grandmother
-14.	Other special event(s) (Please specfy : _______________ )
-15. No special event → (Go to :numref:`Q{number} <are-you-currentry-working>`.)
+10. Accident(s) or disaster
+11. Entrance examination or started school or matriculation at university or college
+12. Child(ren) got married
+13. Become a grandmother
+14. Other special event(s) (Please specify : _______________ )
+15. No special event → (Go to :numref:`Q{number} <are-you-currentry-working_s>`.)

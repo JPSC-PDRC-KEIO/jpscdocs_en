@@ -77,12 +77,12 @@ How many days off do you or your husband have a week?
 
  (Count a day off every 2 weeks as a half day and enter it as 0.5.)
 
-1. My days off ___.___ days	\　　  0. Unemployed
-2. My husband's days off ___.___ days	\　　  0. Unemployed
+1. My days off ___.___ days	\      0. Unemployed
+2. My husband's days off ___.___ days	\      0. Unemployed
 
 .. todo::
 
-  ↑　0.は日本語版では
+  ↑  0.は日本語版では
 
 What day is your and your husband's day off in the week?
 ================================================================
@@ -102,21 +102,21 @@ What day is your and your husband's day off in the week?
      - Friday
      - Saturday
    * - Mine
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
-     -  \　　5
-     -  \　　6
-     -  \　　7
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+     -  \    6
+     -  \    7
    * - My husband’s
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
-     -  \　　5
-     -  \　　6
-     -  \　　7
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+     -  \    6
+     -  \    7
 
 
 Did you take any trips overnight or for longer in the past year (October  |syear prev|  - - September |syear|  )?

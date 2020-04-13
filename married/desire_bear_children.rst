@@ -98,19 +98,17 @@ What level of education do you want your child(ren) to receive at minimum in the
      -
    * - Second child
      -
-     - \　     \---------
+     - \       \---------
    * - Third child
      -
-     - \　     \---------
+     - \       \---------
    * - Fourth (or later) child
      -
-     - \　     \---------
+     - \       \---------
 
 
 
-*code list*
-
-.. list-table::
+.. list-table:: Code list
    :header-rows: 0
    :widths: 5
 

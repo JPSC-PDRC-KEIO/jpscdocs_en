@@ -13,7 +13,7 @@ What kind of courses have you taken? (Include correspondence courses)
 
 (Circle as many as apply to you.)
 
-1. "Miscellaneous" school
+1. Miscellaneous school
 2. Occupational training school
 3. High school
 4. Vocational and Special vocational school
@@ -28,8 +28,8 @@ What kind of courses have you taken? (Include correspondence courses)
 
 .. note::
 
-  10	★追加　民間の通信教育
-  11	★追加　公民館・カルチャーセンター
+  10	★追加  民間の通信教育
+  11	★追加  公民館・カルチャーセンター
 
 
 Did you graduate from school in the past year?
@@ -57,6 +57,8 @@ Why did you take the course?
 12. To acquire knowledge and skills relating to social action (volunteer activities, etc.)
 13. Other (Specify: _____________	)
 
+.. todo:: ↓無配偶用
+
 Who paid most of the cost?
 --------------------------------
 
@@ -64,13 +66,12 @@ Who paid most of the cost?
 
 1. Me
 2. My company
-3. My husband
-4. My parent(s)
+3. My parent(s)
 5. Training and Education Allowance
 6. Other public agency, as a grant-in-aid
-7. Others (Specify: _____________ )
+6. Others (Specify: _____________ )
 
 What was the total cost of the course that you or your family paid for tuition and course materials (excluding your company or public financial support) in the past year (October  |syear prev|  - - September |syear|  )? (Exclude transportation costs.)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-\______ ten thousand yen  \　　	0. Zero
+\______ ten thousand yen  \    	0. Zero

@@ -1,10 +1,10 @@
-.. _your-ocupation:
+.. _your-occupation_s:
 
 =====================
  Your occupation
 =====================
 
-.. _are-you-currentry-working:
+.. _are-you-currentry-working_s:
 
 Are you currently (as of September |syear|  ) working?
 ====================================================================
@@ -12,13 +12,13 @@ Are you currently (as of September |syear|  ) working?
 [Include all jobs such as full-time and part-time jobs, part-time engagements, self-employment and family business employment, but exclude student part-time jobs.
 ]
 
-1. Yes ----> (Go to :numref:`Q{number} <more-than-one-job-respondent>`.)
-2. No, temporarily (but I am able to return to my previous workplace). (Go to :numref:`Q{number} <why-are-you-not-working>`.)
-3. Student ----> (Go to :numref:`Q{number} <working-one-year-ago-respondent>`. )
-4. Housewife and not working from home ----> (Go to :numref:`Q{number} <working-one-year-ago-respondent>`.)
-5. Unemployed	----> (Go to :numref:`Q{number} <working-one-year-ago-respondent>`. )
+1. Yes ----> (Go to :numref:`Q{number} <more-than-one-job-respondent_s>`.)
+2. No, temporarily (but I am able to return to my previous workplace). (Go to :numref:`Q{number} <why-are-you-not-working_s>`.)
+3. Student ----> (Go to :numref:`Q{number} <working-one-year-ago-respondent_s>`. )
+4. Housewife and not working from home ----> (Go to :numref:`Q{number} <working-one-year-ago-respondent_s>`.)
+5. Unemployed	----> (Go to :numref:`Q{number} <working-one-year-ago-respondent_s>`. )
 
-.. _why-are-you-not-working:
+.. _why-are-you-not-working_s:
 
 Why are you not working at the moment?
 ---------------------------------------------------------
@@ -26,11 +26,11 @@ Why are you not working at the moment?
 1. Taking childcare leave
 2. Taking care leave
 3. Taking sick leave
-4. Other (Please specfy : _______________ )
+4. Other (Please specify : _______________ )
 
-Go to :numref:`Q{number} <more-than-one-job-respondent>`.
+Go to :numref:`Q{number} <more-than-one-job-respondent_s>`.
 
-.. _more-than-one-job-respondent:
+.. _more-than-one-job-respondent_s:
 
 Do you have more than one job?
 ==============================================
@@ -38,11 +38,12 @@ Do you have more than one job?
 1.  Yes
 2.  No
 
+.. todo:: ↓無配偶用のリンク
 
 What is your main job at present?
 =================================================
 
-[Please take a moment to explain exactly what you do, ; for example, “I make □□□□,” “I sell □□□□,” “I work as a cashier at the a supermarket,” “I drive a truck,” ”I am a self-employed,” “I work for the family businessworker,” “I work freelance,” and “I am a company employee”.
+[Please take a moment to explain exactly what you do, ; for example, “I make □□□□,” “I sell □□□□,” “I work as a cashier at the a supermarket,” “I drive a truck,” ”I am a self-employed,” “I work for the family business,” “I work freelance,” and “I am a company employee”.
 
  Please explain: _________________________________
 
@@ -65,7 +66,7 @@ What is your main job at present?
 10.	Clerical employee
 11.	Skilled employee
 12.	Sales & service employee
-13.	Paying job at home (home worker)  ---->(Go to :numref:`Section{number} <household-finance_s>`)
+13.	Paying job at home (home worker)  ----> (Go to :numref:`Section{number} <Household-finances_s>`)
 
 |
 [Questions Q3.4 to Q3.20 ask about the main job you circled in Q3.3.]
@@ -73,7 +74,7 @@ What is your main job at present?
 How many employees does the company or organization you work for have?
 ===========================================================================
 
-[Do not include temporary and part-time workers. If you are an official, circlethe “Public agency”.]
+[Do not include temporary and part-time workers. If you are an official, circle the “Public agency”.]
 
 1. 1 to 4
 2. 5 to 9
@@ -87,7 +88,7 @@ How many employees does the company or organization you work for have?
 Which industry category does your company or organization belong to?
 ===================================================================================
 
-[For temporary employees, consider answer with the industry of your temporary jobemployer.]
+[For temporary employees, consider answer with the industry of your temporary job employer.]
 
 1. Agriculture, forestry
 2. Fishing, fisheries
@@ -104,7 +105,7 @@ Which industry category does your company or organization belong to?
 13. Medical, social services
 14. Other industry
 15. Public affairs
-16. Other (Please specfy : _______________ )
+16. Other (Please specify : _______________ )
 
 What category of employee are you?
 ======================================
@@ -112,21 +113,21 @@ What category of employee are you?
 1. Full-time and permanent employee
 2. Temporary employee
 3. Fixed-term employee
-4. Part-time employeed
-5. Self-employed or working for the family business (Please specfy : _______________ )
+4. Part-time employee
+5. Self-employed or working for the family business (Please specify : _______________ )
 
 
 Are you paid monthly, weekly, daily, or hourly?
 ===================================================
 
-1. Monthly (Go to :numref:`Q{number} <monthly-or-weekly-pay-respondent>`)
-2. Weekly  (Go to :numref:`Q{number} <monthly-or-weekly-pay-respondent>`)
-3. Daily  (Go to :numref:`Q{number} <daily-pay-respondent>`)
-4. Hourly  (Go to :numref:`Q{number} <hourly-wage-respondent>`)
-5. Other   (Go to :numref:`Q{number} <how-many-hours-work-respondent>`)
+1. Monthly (Go to :numref:`Q{number} <monthly-or-weekly-pay-respondent_s>`)
+2. Weekly (Go to :numref:`Q{number} <monthly-or-weekly-pay-respondent_s>`)
+3. Daily (Go to :numref:`Q{number} <daily-pay-respondent_s>`)
+4. Hourly (Go to :numref:`Q{number} <hourly-wage-respondent_s>`)
+5. Other (Go to :numref:`Q{number} <how-many-hours-work-respondent_s>`)
 
 
-.. _monthly-or-weekly-pay-respondent:
+.. _monthly-or-weekly-pay-respondent_s:
 
 What is the monthly income from your regular work?
 ------------------------------------------------------
@@ -135,21 +136,21 @@ What is the monthly income from your regular work?
 
  _____ thousand yen per month
 
-.. _daily-pay-respondent:
+.. _daily-pay-respondent_s:
 
 How much is your daily wage?
 --------------------------------
 
  ______ yen
 
-.. _hourly-wage-respondent:
+.. _hourly-wage-respondent_s:
 
 How much is your hourly wage?
 --------------------------------
 
  ______ yen
 
-.. _how-many-hours-work-respondent:
+.. _how-many-hours-work-respondent_s:
 
 How many hours do you work per week in general?
 ====================================================
@@ -192,7 +193,7 @@ How many hours of unpaid overtime, so-called “service overtime” do you do pe
 7. 21 hours or more
 8. We have no overtime work
 
-How many days did you actually work in the past year(October  |syear prev|  to September |syear|  )?
+How many days did you actually work in the past year (October  |syear prev|  to September |syear|  )?
 ==================================================================================================================
 
 1. Under 50 days
@@ -237,14 +238,14 @@ How many total days of paid leave do you have in fiscal year  |syear prev| (Apri
 
  _____ days
 
-0. No paid leave ----> (Go to :numref:`Q{number} <company-childcare-leave-respondent>`.)
+0. No paid leave ----> (Go to :numref:`Q{number} <company-childcare-leave-respondent_s>`.)
 
 How many total days of paid leave did you actually take in fiscal year  |syear prev| (April 1, 2014 to March 31,  |syear prev| )?
 ----------------------------------------------------------------------------------------------------------------------
 
  _____ days
 
-.. _company-childcare-leave-respondent:
+.. _company-childcare-leave-respondent_s:
 
 Does your current company or organization operate a “childcare leave system”?
 ====================================================================================
@@ -252,10 +253,10 @@ Does your current company or organization operate a “childcare leave system”
 1. Yes, and I can apply for it
 2. Yes, but I can’t apply for it
 3. Yes, but I don’t know if I can apply for it
-4. No ----> (Go to :numref:`Q{number} <company-care-leave-respondent>`.)
-5. Don’t know ----> (Go to :numref:`Q{number} <company-care-leave-respondent>`.)
+4. No ----> (Go to :numref:`Q{number} <company-care-leave-respondent_s>`.)
+5. Don’t know ----> (Go to :numref:`Q{number} <company-care-leave-respondent_s>`.)
 
-.. _company-childcare-leave-additional-respondent:
+.. _company-childcare-leave-additional-respondent_s:
 
 Has anyone around you in the company or organization where you work currently taken childcare leave?
 --------------------------------------------------------------------------------------------------------
@@ -263,7 +264,7 @@ Has anyone around you in the company or organization where you work currently ta
 1. Yes
 2. No
 
-.. _company-care-leave-respondent:
+.. _company-care-leave-respondent_s:
 
 Does your current company or organization operate a "care leave system"?
 =============================================================================
@@ -271,11 +272,11 @@ Does your current company or organization operate a "care leave system"?
 1. Yes, and I can apply for it
 2. Yes, but I can’t apply for it
 3. Yes, but I don’t know if I can apply for it
-4. No ----> (Go to :numref:`Q{number} <employment-insurance-respondent>`.)
-5. Don’t know -----> (Go to :numref:`Q{number} <employment-insurance-respondent>`.)
+4. No ----> (Go to :numref:`Q{number} <employment-insurance-respondent_s>`.)
+5. Don’t know -----> (Go to :numref:`Q{number} <employment-insurance-respondent_s>`.)
 
 
-.. _company-care-leave-additional-respondent:
+.. _company-care-leave-additional-respondent_s:
 
 Has anyone around you in the company or organization where you are currently taken care leave?
 --------------------------------------------------------------------------------------------------
@@ -283,7 +284,7 @@ Has anyone around you in the company or organization where you are currently tak
 1. Yes
 2. No
 
-.. _employment-insurance-respondent:
+.. _employment-insurance-respondent_s:
 
 Do you have employment insurance?
 =====================================
@@ -298,7 +299,7 @@ Did you participate, under the direction of the company or organization, in any 
 ============================================================================================================================================================================
 
 1. Yes
-2. No ----> (Go to :numref:`Q{number} <how-long-learn-respondent-job>`.)
+2. No ----> (Go to :numref:`Q{number} <how-long-learn-respondent-job_s>`.)
 
 What was the seminar or course?
 ----------------------------------
@@ -311,9 +312,9 @@ What was the seminar or course?
 4. Seminar(s) or course(s) organized by the municipality or prefecture
 5. Seminar(s) or course(s) organized by a university, college, or vocational school
 6. Studying abroad
-7. Other (Please specfy : _______________ )
+7. Other (Please specify : _______________ )
 
-How many total days did you participate in seminars and courses in the past year(October  |syear prev|  to September |syear|  )?
+How many total days did you participate in seminars and courses in the past year (October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Within 1 day
@@ -330,7 +331,7 @@ Was the seminar or course held in your working hours?
 2. Outside my working hours
 3. Both in and outside my working hours
 
-.. _how-long-learn-respondent-job:
+.. _how-long-learn-respondent-job_s:
 
 How long would it take someone completely new learn to do your job?
 ========================================================================
@@ -363,83 +364,83 @@ Please rate the extent to which the following statements apply to your current c
       - Almost never
       - Don't know
     * - 1. The pay/salary is good
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 2. The working hours are long
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 3. It’s easy to take days off
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 4. The commute is short
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 5. There are few or no transfers to other work locations
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 6. It is stable; I’m not worried about losing my job
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 7. There is the potential for growth
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 8. It’s easy to continue working after getting or having children
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 9. I can acquire skills
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 10. I can make use of my skills and abilities
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 11. I am interested in what I do at work
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 12. Workplace relationships are good
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
     * - 13. There are opportunities for promotion or advancement
-      - \　　1.
-      - \　　2.
-      - \　　3.
-      - \　　4.
-      - \　　5.
+      - \    1.
+      - \    2.
+      - \    3.
+      - \    4.
+      - \    5.
 
 
 To what extent do the following statements apply to how you want to work 3 years from now?
@@ -458,71 +459,71 @@ To what extent do the following statements apply to how you want to work 3 years
      - Mostly disagree
      - Not sure
    * - 1. I want to have more authority and responsibility
-     - \　　1.
-     - \　　2.
-     - \　　3.
-     - \　　4.
-     - \　　5.
+     - \    1.
+     - \    2.
+     - \    3.
+     - \    4.
+     - \    5.
    * - 2. I want to care for my family more, such as doing housework, childcare, and elderly care
-     - \　　1.
-     - \　　2.
-     - \　　3.
-     - \　　4.
-     - \　　5.
+     - \    1.
+     - \    2.
+     - \    3.
+     - \    4.
+     - \    5.
    * - 3. I want to utilize my talents and skills further
-     - \　　1.
-     - \　　2.
-     - \　　3.
-     - \　　4.
-     - \　　5.
+     - \    1.
+     - \    2.
+     - \    3.
+     - \    4.
+     - \    5.
    * - 4. I want a higher salary
-     - \　　1.
-     - \　　2.
-     - \　　3.
-     - \　　4.
-     - \　　5.
+     - \    1.
+     - \    2.
+     - \    3.
+     - \    4.
+     - \    5.
    * - 5. I want to work in the same workplace/company
-     - \　　1.
-     - \　　2.
-     - \　　3.
-     - \　　4.
-     - \　　5.
+     - \    1.
+     - \    2.
+     - \    3.
+     - \    4.
+     - \    5.
 
 Did you work one year ago (At the end of September last year)?
 ==================================================================
 
 1.  Yes
-2.  No ---> (Go to :numref:`Q{number} <why-did-you-choose-the-company-respondent>`.)
+2.  No ---> (Go to :numref:`Q{number} <why-did-you-choose-the-company-respondent_s>`.)
 
 Were you working as a temporary employee of a temporary employment agency one year ago?
 ----------------------------------------------------------------------------------------------------
 
 1. Yes
-2. No ---> (Go to :numref:`Q{number} <work-in-the-same-company-respondent>`.)
+2. No ---> (Go to :numref:`Q{number} <work-in-the-same-company-respondent_s>`.)
 
 
 Over the past 12 months (from October  |syear prev|  to September |syear|  ), has there been any change in A. the temporary employment agency you are registered with or B. the workplace you are dispatched to (where you actually work)?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*A.Temporary employment agency you are registered with*
+*A. Temporary employment agency you are registered with*
 
 1. Yes, there has been change
 2. No, there has been no change
 
-*B.The workplace where are dispatched to (where you actually work)*
+*B. The workplace where are dispatched to (where you actually work)*
 
-1. Yes, there has been change ----> (Go ｔo :numref:`Q{number} <When-did-you-leave-the-company-respondent>`.)
-2. No, there has been no change ----> (Go to :numref:`Q{number} <are-there-more-employees-respondent>`.)
+1. Yes, there has been change ----> (Go ｔo :numref:`Q{number} <When-did-you-leave-the-company-respondent_s>`.)
+2. No, there has been no change ----> (Go to :numref:`Q{number} <are-there-more-employees-respondent_s>`.)
 
-.. _work-in-the-same-company-respondent:
+.. _work-in-the-same-company-respondent_s:
 
-Did you work one year ago (at the end of Septmber last year) in the same company or organization where you work now?
+Did you work one year ago (at the end of september last year) in the same company or organization where you work now?
 ===========================================================================================================================
 
 1. Yes
-2. No ----> (Go to :numref:`Q{number} <why-work-different-company-respondent>`.)
+2. No ----> (Go to :numref:`Q{number} <why-work-different-company-respondent_s>`.)
 
-.. _are-there-more-employees-respondent:
+.. _are-there-more-employees-respondent_s:
 
 Are there more employees now than there were one year ago in the company or organization where you work now?
 --------------------------------------------------------------------------------------------------------------------
@@ -536,7 +537,7 @@ Are there more employees now than there were one year ago in the company or orga
 5. Fewer, by at least 30%
 6. Public agency
 
-Were you transferred to another position or office in the past year(October  |syear prev|  to September |syear|  )?
+Were you transferred to another position or office in the past year (October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------------------
 
 1. Yes, to another office and, as a result, I moved location
@@ -544,28 +545,31 @@ Were you transferred to another position or office in the past year(October  |sy
 3. Yes, to another position in the same office
 4. No
 
+.. todo:: ↓無配偶用のリンクあり
 
-Was there any change in your work over the past year(October  |syear prev|  to September |syear|  )?
+Was there any change in your work over the past year (October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------
 
 1.  No
 2.  Yes
 
-| [If you answered " 1. No" to Q3.21, go to  :numref:`Section{number} <household_finance_s>`.]
+| [If you answered " 1. No" to Q3.21, go to  :numref:`Section{number} <Household-finances_s>`.]
 |
 | [If you answered " 2. Yes" to Q3.21, please answer the additional questions Q3.21.4 to Q3.21.14 below.]
 
-.. _why-work-different-company-respondent:
+.. todo:: ↓無配偶用のリンクあり
 
-Why do you now work at a different company or organization from the one where you worked one year ago (at the end of September last year) ?
+.. _why-work-different-company-respondent_s:
+
+Why do you now work at a different company or organization from the one where you worked one year ago (at the end of September last year)?
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Because I changed my job
-2. Because I was temporarily transferred to the company or organization where I work now ----> (Go to :numref:`Section{number} <household_finance_s>`.)
-3. Because I transferred my domicile ----> (Go to :numref:`Section{number} <household_finance_s>`.)
-4. Because I was transferred due to a company merger or company split ----> (Go to :numref:`Section{number} <household_finance_s>`.)
+2. Because I was temporarily transferred to the company or organization where I work now ----> (Go to :numref:`Section{number} <Household-finances_s>`.)
+3. Because I transferred my domicile ----> (Go to :numref:`Section{number} <Household-finances_s>`.)
+4. Because I was transferred due to a company merger or company split ----> (Go to :numref:`Section{number} <Household-finances_s>`.)
 
-.. _When-did-you-leave-the-company-respondent:
+.. _When-did-you-leave-the-company-respondent_s:
 
 When did you leave the company or organization where you worked one year ago (at the end of September last year)?
 -----------------------------------------------------------------------------------------------------------------------------
@@ -593,19 +597,21 @@ Why did you leave the company or organization where you worked one year ago (at 
 13.	Because I was dismissed
 14.	Because I wanted to study at university, college, or vocational school or prepare to study overseas
 15.	Because I reached the mandatory retirement age or my employment contract finished
-16.	Other (Please specfy : _______________ )
+16.	Other (Please specify : _______________ )
 
 How did you make a living without an income after having quit your job temporarily or permanently?
 ------------------------------------------------------------------------------------------------------------
 
 (Circle as many as apply to you.)
 
+.. todo:: ↓無配偶用の質問文あり
+
 1. I could get by with my parent's income
 2. I found a new job quickly
 3. I could get by with a retirement allowance or/and insurance benefits for a while
 4. I used my savings
 5. I made purchases with my credit card or borrowed money
-6. Other (Please specfy : _______________ )
+6. Other (Please specify : _______________ )
 
 
 How do you feel now about quitting or changing your job?
@@ -616,10 +622,10 @@ How do you feel now about quitting or changing your job?
 1. I think it was good for me
 2. I think it was inevitable
 3. I regret it now
-4. Other (Please specfy : _______________ )
+4. Other (Please specify : _______________ )
 
 
-.. _why-did-you-choose-the-company-respondent:
+.. _why-did-you-choose-the-company-respondent_s:
 
 Why did you choose the company or organization where you work now?
 ----------------------------------------------------------------------
@@ -637,19 +643,19 @@ Why did you choose the company or organization where you work now?
 9. Because I could learn a skill there
 10.	Because I could take advantage of acquired skills
 11.	Because I was interested in the work tasks
-12.	Other (Please specfy : _______________ )
+12.	Other (Please specify : _______________ )
 
 .. todo::
-   10.[[Unclear. This could mean many things, given the wording of number 9.]]
+   [[Unclear. This could mean many things, given the wording of number 9.]]
 
-How many months have you worked in the past year(October  |syear prev|  to September |syear|  )?
+How many months have you worked in the past year (October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where you worked one year ago and at your present workplace.]
 
  For ____ months
 
-How many months were you job-hunting in the past yearr(October  |syear prev|  to September |syear|  )?
+How many months were you job-hunting in the past year (October  |syear prev|  to September |syear|  )?
 ----------------------------------------------------------------------------------------------------------
 
 [If you didn’t look for a job in the past year, please write 0.]
@@ -669,26 +675,27 @@ Did you receive unemployment benefit (from employment insurance) when you quit y
 5. No, I was not registered for employment insurance
 
 
-How many companies and organizations have you worked for in the past year(October  |syear prev|  to September |syear|  )?
+How many companies and organizations have you worked for in the past year (October  |syear prev|  to September |syear|  )?
 --------------------------------------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where you worked one year ago and at your present workplace)]
 
  ____ companies
 
+.. todo:: ↓無配偶用のリンクあり
 
 When did you start at the company or organization where you work now?
 ----------------------------------------------------------------------------------
 
  In the month: __________
 
-| [Go to  :numref:`Section{number} <household_finance_s>`.]
+| [Go to  :numref:`Section{number} <Household-finances_s>`.]
 |
 |[If you answered "3.Student", "4.Housewife and not working from home", or "5. Unemployed" to Q3.1, answer questions Q3.21.15 to Q3.21.25 below.]
 
-.. _working-one-year-ago-respondent:
+.. _working-one-year-ago-respondent_s:
 
-Were you working one year ago(at the end of September |syear|  .)?
+Were you working one year ago (at the end of September |syear|  .)?
 ------------------------------------------------------------------------------
 
 | 1.  Yes ---->
@@ -696,37 +703,37 @@ Were you working one year ago(at the end of September |syear|  .)?
 |  1. Yes
 |  2. No
 \
-2.  No ---->  (Go to :numref:`Q{number} <how-many-months-work-respondent>`)
+2.  No ---->  (Go to :numref:`Q{number} <how-many-months-work-respondent_s>`)
 
-When did you leave the company or organization where you worked one year ago(at the end of September last year)?
+When did you leave the company or organization where you worked one year ago (at the end of September last year)?
 ---------------------------------------------------------------------------------------------------------------------------
 
  In the month: __________
 
 
-Why did you leave the company or organization where you worked one year ago(at the end of September last year)?
+Why did you leave the company or organization where you worked one year ago (at the end of September last year)?
 --------------------------------------------------------------------------------------------------------------------
 
 (Circle as many as apply to you.)
 
-1. Because of personnel reduction, or company dissolution or bankruptcy.
+1. Because of downsizing, or company dissolution or bankruptcy.
 2. Because my work was temporary and unstable there.
 3. Because working conditions (income, working hours and so on) were bad there.
 4. Because I was dissatisfied with the content of the work.
 5. Because a member of my household found a job, changed his or her job, or was transferred to another office, or because the office in which he or she was working was transferred to another place.
 6. Because I got married.
-7. Because I was pregnant, had a baby .
+7. Because I was pregnant, had a baby.
 8. Because I had to care for child.
 9. Because I became sick.
-10.	Because I had to care for a member of my household.
-11.	Because I found a new job with good conditions, or started my own company.
-12.	Because I had some interpersonal problems there.
-13.	Because I was dismissed.
-14.	Because I wanted to learn in a university, college or professional school, or to prepare for studying abroad.
-15.	Because I reached the mandatory retirement age, or the term of the employment contract expired.
-16.	Other (Please specfy : _______________ )
+10. Because I had to care for a member of my household.
+11. Because I found a new job with good conditions, or started my own company.
+12. Because I had some interpersonal problems there.
+13. Because I was dismissed.
+14. Because I wanted to learn in a university, college or professional school, or to prepare for studying abroad.
+15. Because I reached the mandatory retirement age, or the term of the employment contract expired.
+16. Other (Please specify : _______________ )
 
-
+.. todo:: ↓無配偶用の質問文あり
 
 How did you make a living without an income after having quit your job temporarily or permanently.
 ------------------------------------------------------------------------------------------------------
@@ -737,7 +744,7 @@ How did you make a living without an income after having quit your job temporari
 2. I could get by with a retirement allowance or/and insurance benefits for a while
 3. I used my savings
 4. I made purchases with my credit card or borrowed money
-5. Other (Please specfy : _______________ )
+5. Other (Please specify : _______________ )
 
 
 
@@ -749,38 +756,38 @@ How do you feel now about quitting or changing your job?
 1. I think it was good for me
 2. I think it was inevitable
 3. I regret it now
-4. Other (Please specfy : _______________ )
+4. Other (Please specify : _______________ )
 
 
 
-.. _how-many-months-work-respondent:
+.. _how-many-months-work-respondent_s:
 
-How many months did you work in the past year(October  |syear prev|  to September |syear|  )?
+How many months did you work in the past year (October  |syear prev|  to September |syear|  )?
 --------------------------------------------------------------------------------------------------
 
  For ____ months
 
-0. I didn’t work at all ----> (Go to :numref:`Q{number} <plan-to-work-respondent>`)
+0. I didn’t work at all ----> (Go to :numref:`Q{number} <plan-to-work-respondent_s>`)
 
-How many companies and organizations have you worked for in the past year(October  |syear prev|  to September |syear|  )?
+How many companies and organizations have you worked for in the past year (October  |syear prev|  to September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where you worked one year ago and at your present workplace.]
 
  ____ companies
 
-.. _plan-to-work-respondent:
+.. _plan-to-work-respondent_s:
 
 Do you plan to work in the future?
 ---------------------------------------
 
 1. I want to start working immediately
-2. I plan to start working in 2 or 3 years’ time
+2. I plan to start working in 2 or 3 years’
 3. I want to start working sometime in the future
-4. I have no idea ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent>`)
+4. I have no idea ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent_s>`)
 
 
-.. _prepare-work-future-respondent:
+.. _prepare-work-future-respondent_s:
 
 What are you doing now to prepare for working in the future?
 ---------------------------------------------------------------
@@ -788,18 +795,18 @@ What are you doing now to prepare for working in the future?
 (Circle as many as apply to you.)
 
 1. I am looking for a job right now.
-2. I plan to start looking for a job soon ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent>`)
-3. I am currently receiving job training ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent>`)
-4. I plan to start receiving job training soon ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent>`)
-5. Nothing specific  ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent>`)
+2. I plan to start looking for a job soon ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent_s>`)
+3. I am currently receiving job training ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent_s>`)
+4. I plan to start receiving job training soon ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent_s>`)
+5. Nothing specific  ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent_s>`)
 
 
-How many months have you been job-hunting in the past year(October  |syear prev|  to September |syear|  ) ?
+How many months have you been job-hunting in the past year (October  |syear prev|  to September |syear|  ) ?
 ---------------------------------------------------------------------------------------------------------------------
 
  For ____ months
 
-.. _receive-unemployment-benefit-respondent:
+.. _receive-unemployment-benefit-respondent_s:
 
 Did you receive unemployment benefit (from employment insurance) when you left your job?
 ---------------------------------------------------------------------------------------------

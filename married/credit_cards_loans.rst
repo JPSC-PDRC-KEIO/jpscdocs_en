@@ -23,8 +23,8 @@ How many credit cards do you have?
 Roughly how much do you spend on your credit card per month?
 ------------------------------------------------------------------------------------------
 
-1. You	\______Thousand yen
-2. As a couple	\______Thousand yen
+1. You	\______ thousand yen
+2. As a couple	\______ thousand yen
 
 Do you have established rules about using credit cards and the amount to spend?
 ------------------------------------------------------------------------------------------
@@ -53,10 +53,11 @@ Are you and your husband repaying any loan(s) (car loan, consumer loan, cashing,
 What is the total balance due on the loan(s) and the amount of loan(s) you have repaid during the past year (October  |syear prev|  - - September |syear|  )?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. Total balance due on the loan(s)	\______ ten thousand yen
-2. Amount of loan(s) repaid for the past one
+Total balance due on the loan(s)	\______ ten thousand yen
 
-O. We did not repay in the past year
+Amount of loan(s) repaid for the past one year  \______ ten thousand yen
+
+0. We did not repay in the past year
 
 
 Have you newly borrowed money during the past year (October  |syear prev|  - - September |syear|  )?
@@ -112,25 +113,25 @@ Choose code numbers from the code list below and enter them in the columns “(1
    :header-rows: 1
    :widths: 8, 8
 
-   * - 1. Purpose of borrowing
-     - 2. Borrowed from
-   * - | 1. Business funds (Includes loans for business such as purchase of automobile for business and repayment of business debts.)
+   * - Purpose of borrowing
+     - Borrowed from
+   * - | 1. Business funds
        | 2. To buy an automobile
        | 3. To buy durable consumer goods such as furniture and consumer electronics
        | 4. To buy clothing, personal goods, foods, etc.
        | 5. To pay for hobbies, leisure activities, and social expenses
        | 6. To pay educational expenses
-       | 7. To create marriage fund [[To save money to pay for our child/(ren)’s wedding]]
+       | 7. To create marriage fund
        | 8. To provide for any unexpected illnesses or accidents
        | 9. To supplement household living expenses
        | 10. To repay a debt
        | 11. For other purposes
-     - | 21. Post office (Japan Post Bank) or financial institution such as a bank
+     - | 21. Post office or financial institution such as a bank
        | 22. Employee loan
-       | 23. Bank credit company (JCB, VISA, UC, etc.)
-       | 24. Credit selling company (Nippon Shinpan, Jaccs, Life, etc.)
-       | 25. Consumer loan company (Akomu, Takefuji, Puromisu, Reiku, etc.)
-       | 26. Retailers’ loan company (Marui, Credit Saison, Daiei Finance, and other loan or credit companies managed by department stores)
+       | 23. Bank credit company
+       | 24. Credit selling company
+       | 25. Consumer loan company
+       | 26. Retailers’ loan company
        | 27. My parent(s)
        | 28. My husband's parent(s)
        | 29. Other
@@ -208,7 +209,7 @@ Choose 3 out of the 9 answers listed below and enter their numbers in the boxes 
    :header-rows: 0
    :widths: 16
 
-   * - | 1. Post office (Japan Post Bank) or financial institution such as bank
+   * - | 1. Post office or financial institution such as bank
        | 2. Housing Loan Corporation or other public loan such as pension loan, asset-formation loan, public corporation loan, municipal corporation loan, etc.
        | 3. Worker-company loan
        | 4. Bank credit company (JCB, VISA, UC, etc.)

@@ -14,114 +14,133 @@ What kind of a house does your family live in now?
 What type of ownership is most appropriate to your residence? (If ownership is in your family’s name, please regard it as your ownership.)
 ==================================================================================================================================================================
 
-1. Owner-occupied house (with ownership of lot) ----> (Please answer a)
-2. Owner-occupied condominium (with partial ownership of lot)	----> (Please answer b)
-3. Owner-occupied house or condominium (with rented lot)	(In the case of a condominium, the lot is included) ----> (Please answer C)
-4. Rented house, apartment (privately owned) ----> (Please answer C)
-5. Rented house, apartment (publicly owned)	----> (Please answer C)
-6. Company housing or dormitory (including rented company house) ----> (Please answer C)
+1. Owner-occupied house (with ownership of lot) ----> (Please answer A)
+2. Owner-occupied condominium (with partial ownership of lot)	----> (Please answer B)
+3. Owner-occupied house or condominium (with rented lot)	(In the case of a condominium, the lot is included) ----> (Please answer B)
+4. Rented house, apartment (privately owned) ----> (Please answer 10.2.1)
+5. Rented house, apartment (publicly owned)	----> (Please answer 10.2.1)
+6. Company housing or dormitory (including rented company house) ----> (Please answer 10.2.1)
 7. Other (Specify: ______________) ----> (Go to :numref:`Q{number} <family-live-together>`.)
 
-a)	Please answer additional questions about "[A] lot","[B] house" and "[C] rent" in the table below.
+How much is the monthly rent?
+-------------------------------------------------------------------------
+
+  \_____ ten thousand yen
+
+How many rooms (living space) do you have? Include the kitchen dining room larger than 3 tatami mats excluding the sink, etc.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+  Total \__ rooms ----> (Go to :numref:`Q{number} <family-live-together>`.)
+
+
+
+Please answer additional questions about "[A] lot".
 -----------------------------------------------------------------------------------------------------------
 
-.. csv-table::
-   :header-rows: 1
-   :widths: 5, 5
+**[A] lot**
 
-    "[A] lot", "[B] House"
-    "1. What do you estimate the current market price (selling price) of the  current market price (selling price) of the lot is?", "2. What do you estimate the current market price (selling price) for the house is?"
-    "\_____ ten thousand yen", "\_____ ten thousand yen"
+What do you estimate the current market price (selling price) of the  current market price (selling price) of the lot is?", "2. What do you estimate the current market price (selling price) for the house is?
 
+    \_____ ten thousand yen
 
-b)	Please answer additional questions about "[B] house" in the table below. (In the case of a condominium, the lot is included.)
+Please answer additional questions about "[B] house" in the table below. (In the case of a condominium, the lot is included.)
 -----------------------------------------------------------------------------------------------------------------------------------
 
-.. csv-table::
-   :header-rows: 1
-   :widths: 3
+**[B] House**
 
-   "[B] House"
-   "5. What do you estimate the current market price (selling price) for the house is?"
-   "\_____ ten thousand yen"
+What do you estimate the current market price (selling price) for the house is?
 
-C)	Please answer additional questions about "[C] rent" in the table below. (In the case of a condominium, the lot is included.)
------------------------------------------------------------------------------------------------------------------------------------
-
-.. csv-table::
-   :header-rows: 1
-   :widths: 2, 5
-
-   "3. How much is the monthly rent?", "4. How many rooms (living space) do you have? Include the kitchen dining room larger than 3 tatami mats excluding the sink, etc."
-   "\_____ ten thousand yen", "Total \__ rooms ----> (Go to :numref:`Q{number} <family-live-together>`.)"
-
-Please answer the following if after October 1,  |syear prev|  you purchased the lot and/or house you are living in, renovated or extended it, or changed the name of it/them.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-*[A] lot*
-
-.. list-table::
-   :header-rows: 0
-   :widths: 3, 5
-
-   * - A1. How large is the lot?
-     - \_____㎡
-   * - A2. Who has ownership of the lot? In the case that the lot is in the name of two or more persons, please indicate all of the owners."
-     - | 1	Me
-       | 2	My husband
-       | 3	My parent(s)
-       | 4	My husband's parent(s)
-       | 5	Other (Please specify: ____________ )
-       | 6	Don’t know
-   * - | [If you answered 1-2 in A2]
-       | A3. How did you obtain the lot?
-     - | 1	I purchased it with all of my own money (including a loan)
-       | 2	I purchased it with the financial support from my parent(s) and /or my husband's parent(s)
-       | 3  I purchased it under my parent(s) or my husband's parent's joint names
-       | 4	I received it as a gift from my parent(s) or my husband's parent(s)
-       | 5	I inherited it from my parent(s) or my husband's parent(s)
-       | 6	Other (Specify: ____________	)
-   * - | [If you answered 2-5 in A3]
-       | Whose parent(s) are you referring to in your chosen answer?
-     - | 1	My parent(s)
-       | 2	My husband's parent(s)
-       | 3	My and my husband's parents
+    \_____ ten thousand yen
 
 
-*[B] house*
+[Please answer the following if after October 1,  |syear prev|  you purchased the lot and/or house you are living in, renovated or extended it, or changed the name of it/them.]
 
-.. list-table::
-   :header-rows: 0
-   :widths: 3, 5
+How large is the lot?
+--------------------------
 
-   * - B1. What is the floor area? (2 tatamis = 1 tsubo = 3.3 m2)"
-     - \_____㎡
-   * - B2. How many rooms (living space) do you have? Include a kitchen dining room larger than 3 tatami mats excluding the sink, etc.
-     - Total \_____rooms
-   * - B3. When was the house built?
-     - 19\___(year)
-   * - B4. Who has ownership of the house? In the case that the lot is in the name of two or more persons, please indicate all of the owners
-     - | 1	I
-       | 2	My husband
-       | 3	My parent(s)
-       | 4	My husband's parent(s)
-       | 5	Other (Please specify: ____________ )
-       | 6	Don’t know."
-   * - | [If answered 1-2 in B4]
-       | B5. How did you obtain the house?
-     - | 1	I purchased it with all of my money. (including a loan)
-       | 2	I purchased it with the financial support from my or/and my husband's parent(s)
-       | 3	I purchased it under wife's or husband's and her or his parent's(s’) joint names
-       | 4	I received it as a  onation from my or my husband's parent(s)
-       | 5	I inherited it from my or my husband's parent(s)
-       | 6	Other (Specify	)"
-   * - | [If you answered 2-5 in B5]
-       | B6. Whose is the “parent(s)" in your chosen answer?
-     - | 1	My parent(s)
-       | 2	My husband's parent(s)
-       | 3	My and my husband's parents
+    \_____㎡
 
-.. todo:: ↑質問番号が悩ましい
+Who has ownership of the lot? In the case that the lot is in the name of two or more persons, please indicate all of the owners.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+1. Me
+2. My husband
+3. My parent(s)
+4. My husband's parent(s)
+5. Other (Please specify: ____________ )
+6. Don’t know
+
+[If you answered 1-2 in 10.2.6]
+
+How did you obtain the lot?
+----------------------------------
+
+1. I purchased it with all of my own money (including a loan)
+2. I purchased it with the financial support from my parent(s) and /or my husband's parent(s)
+3. I purchased it under my his parent's(s’) or my husband's his parent's(s’) joint names
+4. I received it as a gift from my parent(s) or my husband's his parent's(s’)
+5. I inherited it from my parent(s) or my husband's parent(s)
+6. Other (Specify: ____________	)
+
+[If you answered 2-5 in 10.2.7]
+
+Whose parent(s) are you referring to in your chosen answer?
+------------------------------------------------------------------
+
+1. My parent(s)
+2. My husband's parent(s)
+3. My and my husband's parents
+
+
+What is the floor area? (2 tatamis = 1 tsubo = 3.3 m2)
+------------------------------------------------------------------
+
+    \_____㎡
+
+
+How many rooms (living space) do you have? Include a kitchen dining room larger than 3 tatami mats excluding the sink, etc.
+---------------------------------------------------------------------------------------------------------------------------------
+
+    Total \_____rooms
+
+
+When was the house built?
+--------------------------------
+
+    19 \____ year
+
+
+Who has ownership of the house? In the case that the lot is in the name of two or more persons, please indicate all of the owners
+------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Me
+2. My husband
+3. My parent(s)
+4. My husband's parent(s)
+5. Other (Please specify: ____________ )
+6. Don’t know.
+
+[If answered 1-2 in 10.2.12]
+
+How did you obtain the house?
+---------------------------------------
+
+1. I purchased it with all of my money. (including a loan)
+2. I purchased it with the financial support from my or/and my husband's parent(s)
+3. I purchased it under wife's or husband's and her or his parent's(s’) joint names
+4. I received it as a gift from my or my husband's parent(s)
+5. I inherited it from my or my husband's parent(s)
+6. Other (Specify: ____________ )
+
+[If you answered 2-5 in 10.2.13]
+
+Whose is the “parent(s)" in your chosen answer?
+---------------------------------------------------
+
+1. My parent(s)
+2. My husband's parent(s)
+3. My and my husband's parents
+
 
 |
 [For all respondents]
@@ -131,15 +150,14 @@ Please answer the following if after October 1,  |syear prev|  you purchased the
 Does your family live together with, or separately from, your parents or your husband's parent(s)?
 ===============================================================================================================
 
-[If your parents or your husband's parent(s) live separately from you, answer this question about whichever parent(s) lives closest to your house.
-]
+[If your parents or your husband's parent(s) live separately from you, answer this question about whichever parent(s) lives closest to your house.]
 
 1. My family shares the same house and income with my parent(s) or my husband's parent(s) (single household living together)
 2. My family shares the same house with my parent(s) or my husband's parent(s) but not the same income (two households living together)
 3. My family lives on the same lot as my parent(s) or my husband's parent(s) but not in the same house (double household living together)
 4. My parent(s) or my husband's parent(s) live in the same town as my family or within 1 km of our house (in a neighboring district)
-5. My parent(s) or my husband's parent(s) live in the same ward as my family in one of the 13 largest cities with wards in Japan [[would they know what these cities are? Do you give them a list?]]
-6. My parent(s) or my husband's parent(s) live in the same municipality as my family, where we live outside the 13 largest cities with wards in Japan
+5. My parent(s) or my husband's parent(s) live in the same ward as my family in one of the 21 largest cities with wards in Japan [[would they know what these cities are? Do you give them a list?]]
+6. My parent(s) or my husband's parent(s) live in the same municipality as my family, where we live outside the 21 largest cities with wards in Japan
 7. My parent(s) or my husband's parent(s) live in Tokyo or in same prefecture as my family
 8. My parent(s) or my husband's parent(s) live in a place other than those mentioned in items 1 to 7 above
 9. My parent(s) and my husband's parents have all passed away ----> (Go to :numref:`Q{number} <purchased-a-lot>`.)
@@ -195,7 +213,7 @@ Which house do your parent(s) live in? Please answer for your father and mother 
      - 9
 
 Do you plan to live with your parent(s) in the future? Or do you want to live with them?
-========================================================================================
+================================================================================================
 
 1. Yes
 2. Yes, we want to live with right now
@@ -259,7 +277,7 @@ Do you plan to live with your husband’s parent(s) from now? Or do you want to 
 5. We have never thought about it.
 
 |
-.. todo:: To all of you は　For all respondents　に変換
+.. todo:: To all of you は  For all respondents  に変換
 [For all respondents]
 
 .. _purchased-a-lot:
@@ -328,7 +346,7 @@ Did you and your husband extend or rebuild the house you lived in and/or your se
 3. We didn’t do either ----> (Go to :numref:`Q{number} <real-estate-other>`.)
 
 How much was the cost?
-----------------------
+------------------------------
 
 \______0 ten thousand yen
 

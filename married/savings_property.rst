@@ -10,9 +10,9 @@ Savings are divided into "deposits & savings" and "securities".
    :header-rows: 0
    :widths: 10
 
-   "Fixed-amount, fixed-term, installment, and general savings in post offices"
-   "Fixed-amount, fixed-term installments and general deposits in banks and credit associations"
-   "In-house deposits, gold investment accounts, gold savings accounts, national medium-term bond funds, etc."
+   "| Fixed-amount, fixed-term, installment, and general savings in post offices
+   | Fixed-amount, fixed-term installments and general deposits in banks and credit associations
+   | In-house deposits, gold investment accounts, gold savings accounts, national medium-term bond funds, etc."
 
 ● Securities include the following:
 
@@ -49,20 +49,22 @@ How much savings & deposits and securities does your household have?  Please ans
    :header-rows: 0
    :widths: 5, 5, 5
 
-   * - 3. Do you have securities now?
+   * - | 3. Do you have securities now?
      - | a. Yes, my family's (my husband’s, mine, and my child(ren)’s)
        | b. No  ---->（Go to 5.)
      - | a. Yes, my own
        | b. No ---->（Go to :numref:`Q{number} <how-much-do-you-plan-to-save>`.)
-   * - 4. How much deposits & savings do you have?
+   * - | 4. How much deposits & savings do you have?
      - \_____ ten thousand yen
      - \_____ ten thousand yen
-   * - 5. Did you purchase any securities in the past year (October  |syear prev|  to September |syear|  )?  (Securities bought and then sold are included.)
+   * - | 5. Did you purchase any securities in the past year (October  |syear prev|  to September |syear|  )?
+       | (Securities bought and then sold are included.)
      - | a. Yes, my family's (my husband’s, mine, and my child(ren)’s)
        | b. No
      - | a. Yes, my own
        | b. No
-   * - 6. Did you sell any securities in the past year (October  |syear prev|  - September |syear|  )? (Securities sold and then purchased again are included.)
+   * - | 6. Did you sell any securities in the past year (October  |syear prev|  - September |syear|  )?
+       | (Securities sold and then purchased again are included.)
      - | a. Yes, my family's (my husband’s, mine, and my child(ren)’s)
        | b. No
      - | a. Yes, my own
@@ -146,20 +148,37 @@ How much have you and your husband paid on the insurance premiums shown in the t
 
 [Insurance includes post office life and pension insurance, life insurance, personal pension insurance, installment non-life insurance, injury insurance, educational insurance, etc.)
 
-\
-   +----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-   | | [A] Insurance where you are the policy holder.                                                         | | [B] Insurance where your husband is the policy holder                                                |
-   | | (Mark the type of insurance with a circle and enter the amount of premium.)                            | | (Mark the chosen item number with a circle, and enter the amount of premium.)                        |
-   +=========================================+==================================+=============================+========================================+=================================+=============================+
-   | | Type of insurance                     | | Premium paid in the past year  | | Total of premiums paid    | | Type of insurance                    | | Premium paid in the past year | | Total of premiums paid    |
-   | |                                       | | (January - December  |syear prev| )      | |                           | |                                      | | (January - December  |syear prev| )     | |                           |                    　
-   +-----------------------------------------+----------------------------------+-----------------------------+----------------------------------------+---------------------------------+-----------------------------+
-   | | 1 Single premium type insurance       | | _______ten thousand yen        | |                           | | 1 Single premium type insurance      | | _______ten thousand yen       |                             |
-   | |                                       | |                                | |                           | |                                      |                                 |                             |
-   +-----------------------------------------+----------------------------------+-----------------------------+----------------------------------------+---------------------------------+-----------------------------+
-   | | 2 Installment premium type insurance  | | _______ten thousand yen        | | _______ten thousand yen   | | 2 Installment premium type insurance | | _______ten thousand yen       | | _______ten thousand yen   |
-   | |                                       | |                                | |                           | |                                      |                                 |                             |
-   +-----------------------------------------+----------------------------------+-----------------------------+----------------------------------------+---------------------------------+-----------------------------+
-   | | 3 No insurance contract               | |                                | |                           | | 3 No insurance contract              | |                               | |                           |
-   | |                                       | |                                | |                           | |                                      |                                 |                             |
-   +-----------------------------------------+----------------------------------+-----------------------------+----------------------------------------+---------------------------------+-----------------------------+
+.. list-table:: [A] Insurance where you are the policy holder. (Mark the chosen item number with a circle, and enter the amount of premium.)
+    :header-rows: 1
+    :widths: 5, 5, 5
+
+    * - | Type of insurance
+      - | Premium paid in the past year
+      - | (January - December  |syear prev| )
+    * - 1 Single premium type insurance
+      -  ________ten thousand yen
+      -
+    * - 2 Installment premium type insurance
+      -  ________ten thousand yen
+      -  __________ten thousand yen
+    * - 3 No insurance contract
+      -
+      -
+
+.. list-table:: [B] Insurance where your husband is the policy holder. (Mark the chosen item number with a circle, and enter the amount of premium.)
+    :header-rows: 1
+    :widths: 5, 5, 5
+
+    * - | Type of insurance
+      - | Premium paid in the past year
+      - | (January - December  |syear prev| )
+    * - 1 Single premium type insurance
+      -  ________ten thousand yen
+      -
+    * - 2 Installment premium type insurance
+      -  ________ten thousand yen
+      -  __________ten thousand yen
+    * - 3 No insurance contract
+      -
+      -
+      

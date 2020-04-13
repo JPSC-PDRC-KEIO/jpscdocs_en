@@ -44,11 +44,11 @@ Do you want to be working and receiving a salary 3 years from now? Please answer
    :header-rows: 0
    :widths: 2, 2, 2, 2, 2
 
-   * - \　　1
-     - \　　2
-     - \　　3
-     - \　　4
-     - \　　5
+   * - \    1
+     - \    2
+     - \    3
+     - \    4
+     - \    5
    * - I would love to be working.
      - <--------------
      - Can’t say either way.
@@ -63,11 +63,11 @@ Do you think that you will actually be working and receiving a salary 3 years fr
    :header-rows: 0
    :widths: 2, 2, 2, 2, 2
 
-   * - \　　1
-     - \　　2
-     - \　　3
-     - \　　4
-     - \　　5
+   * - \    1
+     - \    2
+     - \    3
+     - \    4
+     - \    5
    * - I think I will be working
      - <--------------
      - Can’t say either way.

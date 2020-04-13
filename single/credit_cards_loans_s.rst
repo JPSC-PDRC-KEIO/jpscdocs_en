@@ -1,30 +1,31 @@
-.. _credit-cards-loans :
+.. _credit-cards-loans_s:
 
 ======================================================
 Credit cards and loans, excluding a housing loan
 ======================================================
 
-Do you, as a couple, use credit cards?
+.. todo:: ↓無配偶用質問票
+
+Do you use credit cards?
 ==================================================
 
-1. Yes, we do.
-2. Yes, we have credit cards but we rarely use them ----> (Go to :numref:`Q{number} <repaying-any-loan>`.)
-3. No, we do not have credit cards.
+1. Yes, I do.
+2. Yes, I have credit cards but we rarely use them ----> (Go to :numref:`Q{number} <repaying-any-loan_s>`.)
+3. No, I do not have credit cards.
 
-(Go to :numref:`Q{number} <repaying-any-loan>`)
+(Go to :numref:`Q{number} <repaying-any-loan_s>`)
+
 
 How many credit cards do you have?
 --------------------------------------------
 
-1. You	\______
-2. Your husband   \______
-3. I do not know about my husband
+      \______ cards
+
 
 Roughly how much do you spend on your credit card per month?
 ------------------------------------------------------------------------------------------
 
-1. You	\______Thousand yen
-2. As a couple	\______Thousand yen
+      \_____ thousand yen
 
 Do you have established rules about using credit cards and the amount to spend?
 ------------------------------------------------------------------------------------------
@@ -39,24 +40,25 @@ Do you check your credit card bill every month?
 2. I sometimes check it
 3. I do not usually check it
 
-|
+
 [For all respondents]
 
-.. _repaying-any-loan:
+.. _repaying-any-loan_s:
 
-Are you and your husband repaying any loan(s) (car loan, consumer loan, cashing, etc.) other than a housing loan?
+Are you repaying any loan(s) (car loan, consumer loan, cashing, etc.) other than a housing loan?
 ============================================================================================================================
 
 1. Yes
-2. No ----> (Go to :numref:`Q{number} <a-loan-application-rejected>`.)
+2. No ----> (Go to :numref:`Q{number} <a-loan-application-rejected_s>`.)
 
 What is the total balance due on the loan(s) and the amount of loan(s) you have repaid during the past year (October  |syear prev|  - - September |syear|  )?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. Total balance due on the loan(s)	\______ ten thousand yen
-2. Amount of loan(s) repaid for the past one
+Total balance due on the loan(s)	\______ ten thousand yen
 
-O. We did not repay in the past year
+Amount of loan(s) repaid for the past one year 	\______ ten thousand yen
+
+0. I did not repay in the past year
 
 
 Have you newly borrowed money during the past year (October  |syear prev|  - - September |syear|  )?
@@ -75,11 +77,11 @@ Choose code numbers from the code list below and enter them in the columns “(1
    :header-rows: 0
    :widths: 3, 3, 3, 4, 4
 
-   * - 1) Purpose of borrowing (enter any of the code numbers from 01 to 11)
-     - 2) Borrowed from (enter any	of	the code numbers from 21 to 29)
-     - 3) Reason for borrowing from the source (enter any of the code numbers from 31 to 45)
-     - 4) Total balance due on the loan(s)
-     - 5) Amount of loan(s) repaid during the past one year
+   * - (1)Purpose of borrowing (enter any of the code numbers from 01 to 11)
+     - (2)Borrowed from (enter any	of	the code numbers from 21 to 29)
+     - (3)Reason for borrowing from the source (enter any of the code numbers from 31 to 45)
+     - (4)Total balance due on the loan(s)
+     - (5)Amount of loan(s) repaid during the past one year
    * - \______
      - | \______
        | \______
@@ -87,7 +89,7 @@ Choose code numbers from the code list below and enter them in the columns “(1
        | \______
      - \______ ten thousand yen
      - | 1. \______
-       | 2. We did not repay in the past year
+       | 2. I did not repay in the past year
    * - \______
      - | \______
        | \______
@@ -95,7 +97,7 @@ Choose code numbers from the code list below and enter them in the columns “(1
        | \______
      - \______ ten thousand yen
      - | 1. \______
-       | 2. We did not repay in the past year
+       | 2. I did not repay in the past year
    * - \______
      - | \______
        | \______
@@ -103,44 +105,41 @@ Choose code numbers from the code list below and enter them in the columns “(1
        | \______
      - \______ ten thousand yen
      - | 1. \______
-       | 2. We did not repay in the past year
+       | 2. I did not repay in the past year
 
 
-<Code list:>
-
-.. list-table::
+.. list-table:: Code list
    :header-rows: 1
    :widths: 8, 8
 
-   * - 1.	Purpose of borrowing
-     - 2.	Borrowed from
-   * - | 1. Business funds (Includes loans for business such as purchase of automobile for business and repayment of business debts.)
+   * - Purpose of borrowing
+     - Borrowed from
+   * - | 1. Business funds
        | 2. To buy an automobile
        | 3. To buy durable consumer goods such as furniture and consumer electronics
        | 4. To buy clothing, personal goods, foods, etc.
        | 5. To pay for hobbies, leisure activities, and social expenses
        | 6. To pay educational expenses
-       | 7. To create marriage fund [[To save money to pay for our child/(ren)’s wedding]]
+       | 7. To create marriage fund
        | 8. To provide for any unexpected illnesses or accidents
        | 9. To supplement household living expenses
        | 10. To repay a debt
        | 11. For other purposes
-     - | 21. Post office (Japan Post Bank) or financial institution such as a bank
+     - | 21. Post office or financial institution such as a bank
        | 22. Employee loan
-       | 23. Bank credit company (JCB, VISA, UC, etc.)
-       | 24. Credit selling company (Nippon Shinpan, Jaccs, Life, etc.)
-       | 25. Consumer loan company (Akomu, Takefuji, Puromisu, Reiku, etc.)
-       | 26. Retailers’ loan company (Marui, Credit Saison, Daiei Finance, and other loan or credit companies managed by department stores)
+       | 23. Bank credit company
+       | 24. Credit selling company
+       | 25. Consumer loan company
+       | 26. Retailers’ loan company
        | 27. My parent(s)
-       | 28. My husband's parent(s)
-       | 29. Other
+       | 28. Other
 
 
 .. list-table::
    :header-rows: 1
    :widths: 20
 
-   * - 3.	Reason for borrowing money from the source
+   * - 3. Reason for borrowing money from the source
    * - | 31	We could borrow money only from that source
        | 32	The process was simple there
        | 33	We could borrow money the fastest from that source
@@ -158,7 +157,7 @@ Choose code numbers from the code list below and enter them in the columns “(1
        | 45	Other reason
 
 
-How do you and your husband feel about the burden of your repayments?
+How do you feel about the burden of your repayments?
 ============================================================================
 
 (Circle only one answer.)
@@ -171,9 +170,9 @@ How do you and your husband feel about the burden of your repayments?
 |
 [For all respondents]
 
-.. _a-loan-application-rejected :
+.. _a-loan-application-rejected_s:
 
-Have you and your husband ever had a loan application rejected during the past year (October  |syear prev|  to September |syear|  )?
+Have you ever had a loan application rejected during the past year (October  |syear prev|  to September |syear|  )?
 ================================================================================================================================================
 
 (Circle as many as apply to you.)
@@ -182,7 +181,7 @@ Have you and your husband ever had a loan application rejected during the past y
 2. No, but we had the loan amount decreased
 3. No
 
-Have you and your husband ever given up asking for a loan during the past year (October  |syear prev|  to September |syear|  ) because you thought it would be rejected?
+Have you ever given up asking for a loan during the past year (October  |syear prev|  to September |syear|  ) because you thought it would be rejected?
 ===================================================================================================================================================================================
 
 1. Yes
@@ -192,8 +191,8 @@ Are you going to get a new or additional loan in the future?
 ===========================================================================================================================================================
 
 1. Yes
-2. No ----> (Go to :numref:`Section{number} <durable-goods>`.)
-3. Don’t know ----> (Go to :numref:`Section{number} <durable-goods>`.)
+2. No ----> (Go to :numref:`Section{number} <durable-goods_s>`.)
+3. Don’t know ----> (Go to :numref:`Section{number} <durable-goods_s>`.)
 
 What companies or institutions are you going to choose as sources from which you borrow money?
 -------------------------------------------------------------------------------------------------------
@@ -208,7 +207,7 @@ Choose 3 out of the 9 answers listed below and enter their numbers in the boxes 
    :header-rows: 0
    :widths: 16
 
-   * - | 1. Post office (Japan Post Bank) or financial institution such as bank
+   * - | 1. Post office or financial institution such as bank
        | 2. Housing Loan Corporation or other public loan such as pension loan, asset-formation loan, public corporation loan, municipal corporation loan, etc.
        | 3. Worker-company loan
        | 4. Bank credit company (JCB, VISA, UC, etc.)
@@ -219,7 +218,7 @@ Choose 3 out of the 9 answers listed below and enter their numbers in the boxes 
        | 9. Don’t know
 
 
-Why are you and your husband going to borrow money from a company or institution?
+Why are you going to borrow money from a company or institution?
 ------------------------------------------------------------------------------------------------------------------------------
 
  (Circle as many as apply to you.)

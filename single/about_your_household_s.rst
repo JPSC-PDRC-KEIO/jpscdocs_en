@@ -79,11 +79,50 @@ For each member of your family, enter their personal relationship to you, their 
        | 2. Married
 
 
+.. todo:: 有配偶と共通のコード表としてあります。
+
 .. list-table:: **Personal Relationship Codes**
-   :widths: 2, 8
+   :widths: 2, 8, 2, 8
    :header-rows: 1
 
-   * - Single
+   * -
+     - Married
+     -
+     - Single
+   * - | 00
+       | 01
+       | 02
+       | 03
+       | 04
+       | 05
+       | 06
+       | 07
+       | 08
+       | 09
+       | 10
+       | 11
+       | 12
+       | 13
+       | 14
+       | 15
+       | 16
+     - | Me
+       | My husband
+       | My first child
+       | My second child
+       | My third child
+       | My forth child
+       | Fifth or later child subsequent
+       | My parent
+       | My husband's parent
+       | My grandparent
+       | My husband’s grandparent
+       | My brother or sister
+       | My husband's brother or sister
+       | My child’s spouse
+       | My grand child
+       | Other relative
+       | Other
      - | 00
        | 01
        | 02
@@ -111,11 +150,10 @@ For each member of your family, enter their personal relationship to you, their 
        | Other relative
        | Other
 
+.. todo:: 調査票にはないコード表です。
 
 
-**<Student or worker status Codes>**
-
-.. list-table::
+.. list-table:: **Student or worker status Codes**
    :header-rows: 0
    :widths: 5, 5
 

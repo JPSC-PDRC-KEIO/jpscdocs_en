@@ -78,6 +78,7 @@ For each member of your family, enter their personal relationship to you, their 
      - | 1. Single
        | 2. Married
 
+.. todo:: ↓有配偶と共通のコード表としてあります。
 
 .. list-table:: **Personal Relationship Codes**
    :widths: 2, 8, 2, 8
@@ -148,11 +149,10 @@ For each member of your family, enter their personal relationship to you, their 
        | Other relative
        | Other
 
+.. todo:: ↓調査票にはないコード表です。
 
 
-**<Student or worker status Codes>**
-
-.. list-table::
+.. list-table:: **Student or worker status Codes**
    :header-rows: 0
    :widths: 5, 5
 

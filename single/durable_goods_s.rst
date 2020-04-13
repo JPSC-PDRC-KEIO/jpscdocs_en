@@ -1,4 +1,4 @@
-.. _durable-goods :
+.. _durable-goods_s:
 
 ===========================================
  Furniture and consumer electronics
@@ -55,7 +55,7 @@ Does your household currently have any pets?
 -----------------------------------------------
 
 1. Yes
-2. No ----> (Go to :numref:`Section{number} <daily-life>`.)
+2. No ----> (Go to :numref:`Section{number} <daily-life_s>`.)
 
 What kind of pet(s) do you have?
 ------------------------------------

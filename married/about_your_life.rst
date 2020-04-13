@@ -52,7 +52,7 @@ Which class do you think your standard of living fall into?
 5. Bottom
 
 
-How many times in the past one month did you feel, “I am not understood by my family”?
+How many times in the past month did you feel that your family doesn’t understand you?
 =========================================================================================
 
 1. Many times
@@ -61,7 +61,7 @@ How many times in the past one month did you feel, “I am not understood by my 
 4. Never
 
 
-How many times in the past one month did you feel there was too much to do in terms of household chores, childcare, and caring for the elderly?
+How many times in the past month did you feel that there was too much to do in terms of household chores, childcare, and caring for the elderly?
 =====================================================================================================================================================
 
 1. Many times
@@ -70,7 +70,7 @@ How many times in the past one month did you feel there was too much to do in te
 4. Never
 
 
-Are you satisfied with the current income of your family?
+Are you satisfied with your family’s current income?
 ===============================================================
 
 1. Very satisfied
@@ -90,10 +90,10 @@ Are you satisfied with your family’s current expenses?
 Are you satisfied with what your family is spending on?
 ===================================================================
 
-1. Very satisfied
+1. Quite satisfied
 2. Almost satisfied
 3. A little dissatisfied
-4. Very dissatisfied
+4. Quite dissatisfied
 
 
 Do you keep your household accounts?
@@ -127,7 +127,7 @@ What do you think your household’s spending next year will be compared with th
 5. Decreased a lot
 
 
-How many times in the past one month did you worry about your household’s finances?
+How many times in the past month did you worry about your household’s finances?
 ================================================================================================
 
 1. Many times
@@ -166,6 +166,16 @@ How much do you think the Japanese economy will improve?
 5. It will get much worse
 
 
+Are you satisfied with your relationship with your husband?
+======================================================================
+
+1. Very much
+2. Quite a lot
+3. Moderately so
+4. A little
+5. Not at all
+
+
 Do you think you are happy or unhappy?
 ==================================================
 
@@ -179,7 +189,7 @@ Do you think you are happy or unhappy?
 Please provide your thoughts on the following questions.
 ====================================================================
 
-(Circle one for each.)
+(Circle one per question)
 
 .. list-table::
    :header-rows: 1
@@ -192,32 +202,32 @@ Please provide your thoughts on the following questions.
      - Mostly disagree
      - Not sure
    * - I can trust most people
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
-     -  \　　5
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
    * - I feel like I am left behind from what’s going on in society and the world
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
-     -  \　　5
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
    * - I willingly take on tasks that most people hate
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
-     -  \　　5
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
    * - Efforts are always rewarded someday
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
-     -  \　　5
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
    * - I try to enjoy my life now rather than think about the future
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
-     -  \　　5
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5

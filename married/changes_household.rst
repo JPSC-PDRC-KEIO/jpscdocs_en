@@ -102,14 +102,14 @@ If you took maternity leave, how many weeks did you take?
 Did you use the childcare leave system or childcare time?
 ---------------------------------------------------------
 
-1. Yes ----> (Form) 1 Childcare leave  ____ months \　　 2 Childcare time	____ hours a day
+1. Yes ----> (Form) 1 Childcare leave  ____ months \     2 Childcare time	____ hours a day
 2. No
 3. There was (or is) no such system
 
 Did your husband use the childcare leave system or childcare time?
 ------------------------------------------------------------------
 
-1. Yes ----> (Form) 1 Childcare leave  ____ months \　　 2 Childcare time	____ hours a day
+1. Yes ----> (Form) 1 Childcare leave  ____ months \     2 Childcare time	____ hours a day
 2. No
 3. here was (or is) no such system
 
