@@ -10,7 +10,7 @@ Do you use credit cards?
 ==================================================
 
 1. Yes, I do.
-2. Yes, I have credit cards but we rarely use them ----> (Go to :numref:`Q{number} <repaying-any-loan_s>`.)
+2. Yes, I have credit cards but we rarely use them ----> (Go to :numref:`Q{number} <repaying-any-loan_s>`)
 3. No, I do not have credit cards.
 
 (Go to :numref:`Q{number} <repaying-any-loan_s>`)
@@ -49,7 +49,7 @@ Are you repaying any loan(s) (car loan, consumer loan, cashing, etc.) other than
 ============================================================================================================================
 
 1. Yes
-2. No ----> (Go to :numref:`Q{number} <a-loan-application-rejected_s>`.)
+2. No ----> (Go to :numref:`Q{number} <a-loan-application-rejected_s>`)
 
 What is the total balance due on the loan(s) and the amount of loan(s) you have repaid during the past year (October  |syear prev|  - - September |syear|  )?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -160,7 +160,7 @@ Choose code numbers from the code list below and enter them in the columns “(1
 How do you feel about the burden of your repayments?
 ============================================================================
 
-(Circle only one answer.)
+|schoice|
 
 1. It feels light.
 2. It feels slightly heavy.
@@ -175,7 +175,7 @@ How do you feel about the burden of your repayments?
 Have you ever had a loan application rejected during the past year (October  |syear prev|  to September |syear|  )?
 ================================================================================================================================================
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. Yes
 2. No, but we had the loan amount decreased
@@ -191,8 +191,8 @@ Are you going to get a new or additional loan in the future?
 ===========================================================================================================================================================
 
 1. Yes
-2. No ----> (Go to :numref:`Section{number} <durable-goods_s>`.)
-3. Don’t know ----> (Go to :numref:`Section{number} <durable-goods_s>`.)
+2. No ----> (Go to :numref:`Section{number} <durable-goods_s>`)
+3. Don’t know ----> (Go to :numref:`Section{number} <durable-goods_s>`)
 
 What companies or institutions are you going to choose as sources from which you borrow money?
 -------------------------------------------------------------------------------------------------------
@@ -221,7 +221,7 @@ Choose 3 out of the 9 answers listed below and enter their numbers in the boxes 
 Why are you going to borrow money from a company or institution?
 ------------------------------------------------------------------------------------------------------------------------------
 
- (Circle as many as apply to you.)
+ |mchoice|
 
 1. Because the process is simple there
 2. Because it has longer business hours and provides night services

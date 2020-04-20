@@ -106,6 +106,21 @@ Do you keep your household accounts?
 3. I kept them before but not anymore
 4. I have never kept my household accounts
 
+Do you like to manage your family finances?
+===================================================
+
+1. Very much
+2. Somewhat
+3. Prefer no to
+4. Not at all
+
+Do you feel that managing your family finances is your responsibility or obligation?
+========================================================================================================
+
+1. Responsibility
+2. A kind of responsibility
+3. A kind of obligation
+4. obligation
 
 What is your household’s spending this year compared with last year?
 =================================================================================
@@ -176,6 +191,23 @@ Do you think you are happy or unhappy?
 4. I am a little unhappy
 5. I am very unhappy
 
+Were you satisfied with your life in general 10 years ago?
+================================================================
+
+1. Very much
+2. Quite
+3. Moderately
+4. A little
+5. Not at all
+
+What standard of living did you have 10 years ago compared with that of the general public?
+==================================================================================================
+
+1. Upper
+2. Upper-middle
+3. Middle
+4. Lower-middle
+5. Bottom
 
 Please provide your thoughts on the following questions.
 ====================================================================
@@ -217,6 +249,24 @@ Please provide your thoughts on the following questions.
      -  \    4
      -  \    5
    * - I try to enjoy my life now rather than think about the future
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+   * - Do you think Japan is a society with large income inequality?
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+   * - Do you think Japan is country that is easy to live in?
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+   * - Do you think the Japanese government and the administration work hard to address new as well as difficult problems?
      -  \    1
      -  \    2
      -  \    3

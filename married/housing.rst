@@ -20,7 +20,7 @@ What type of ownership is most appropriate to your residence? (If ownership is i
 4. Rented house, apartment (privately owned) ----> (Please answer 10.2.1)
 5. Rented house, apartment (publicly owned)	----> (Please answer 10.2.1)
 6. Company housing or dormitory (including rented company house) ----> (Please answer 10.2.1)
-7. Other (Specify: ______________) ----> (Go to :numref:`Q{number} <family-live-together>`.)
+7. Other (Specify: ______________) ----> (Go to :numref:`Q{number} <family-live-together>`)
 
 How much is the monthly rent?
 -------------------------------------------------------------------------
@@ -30,7 +30,7 @@ How much is the monthly rent?
 How many rooms (living space) do you have? Include the kitchen dining room larger than 3 tatami mats excluding the sink, etc.
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  Total \__ rooms ----> (Go to :numref:`Q{number} <family-live-together>`.)
+  Total \__ rooms ----> (Go to :numref:`Q{number} <family-live-together>`)
 
 
 
@@ -160,7 +160,7 @@ Does your family live together with, or separately from, your parents or your hu
 6. My parent(s) or my husband's parent(s) live in the same municipality as my family, where we live outside the 21 largest cities with wards in Japan
 7. My parent(s) or my husband's parent(s) live in Tokyo or in same prefecture as my family
 8. My parent(s) or my husband's parent(s) live in a place other than those mentioned in items 1 to 7 above
-9. My parent(s) and my husband's parents have all passed away ----> (Go to :numref:`Q{number} <purchased-a-lot>`.)
+9. My parent(s) and my husband's parents have all passed away ----> (Go to :numref:`Q{number} <purchased-a-lot>`)
 
 Which parent(s) live together with your family or closest to your house?
 ----------------------------------------------------------------------------
@@ -289,7 +289,7 @@ Did you and your husband purchase a lot or house during the past year (October  
 2. We purchased a house only
 3. We purchased both a lot and a house
 4. We purchased a condominium
-5. We didn’t purchase any of the above ----> (Go to :numref:`Q{number} <sold-a-lot>`.)
+5. We didn’t purchase any of the above ----> (Go to :numref:`Q{number} <sold-a-lot>`)
 
 How much was the purchase price? (Enter the price for the house or apartment in the item "House" and/or that for the lot in the item "Lot".)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -317,7 +317,7 @@ Did you and your husband sell the lot/house that you lived in or/and your second
 2. We sold only the house.
 3. We sold both the lot and the house.
 4. We sold the condominium.
-5. We didn’t sell any. ----> (Go to :numref:`Q{number} <extend-or-rebuild>`.)
+5. We didn’t sell any. ----> (Go to :numref:`Q{number} <extend-or-rebuild>`)
 
 How much was the sale price? (Enter the price for the house or apartment in the item "House" and/or that for the lot in the item "Lot".)
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -343,7 +343,7 @@ Did you and your husband extend or rebuild the house you lived in and/or your se
 
 1. We extended the house
 2. We rebuilt the house
-3. We didn’t do either ----> (Go to :numref:`Q{number} <real-estate-other>`.)
+3. We didn’t do either ----> (Go to :numref:`Q{number} <real-estate-other>`)
 
 How much was the cost?
 ------------------------------
@@ -362,7 +362,7 @@ Do you or your husband own any real estate other than the house you live in or y
 2. We own only a house.
 3. We own both a lot and a house.
 4. We own a condominium.
-5. We don’t own any.  ----> (Go to :numref:`Q{number} <your-future-plan>`.)
+5. We don’t own any.  ----> (Go to :numref:`Q{number} <your-future-plan>`)
 
 What is the total current market price (estimated selling price) of all of the real estate that you own?
 ----------------------------------------------------------------------------------------------------------------
@@ -379,7 +379,7 @@ We would now like to ask you about your future plans and ideas for your accommod
 
 1. Yes, we have a concrete plan
 2. No, we don’t have a concrete plan but we are thinking about it
-3. No, we are not thinking about it (Go to :numref:`Q{number} <when-build-buy-renovate>`.)
+3. No, we are not thinking about it (Go to :numref:`Q{number} <when-build-buy-renovate>`)
 
 
 When do you hope to realize this plan?

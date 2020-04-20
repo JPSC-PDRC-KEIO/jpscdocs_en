@@ -7,7 +7,7 @@ Are you and your husband currently repaying any housing loans?
 
 
 1. Yes
-2. No → (Go to :numref:`Section{number} <credit-cards-loans>`.)
+2. No → (Go to :numref:`Section{number} <credit-cards-loans>`)
 
 
 How much is the total balance due on the housing loan(s) and the amount of loan(s) repaid during the past year (October  |syear prev|  - - September |syear|  )? (Renewed loans included.)
@@ -94,7 +94,7 @@ In the table below, please enter information about the housing loan(s) that you 
 How do you and your husband feel the burden of your repayments?
 ==================================================================
 
-(Circle only one answer.)
+|schoice|
 
 1. Burden is light.
 2. Burden is slightly heavy

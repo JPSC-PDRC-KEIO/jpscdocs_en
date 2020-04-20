@@ -49,7 +49,7 @@ How much savings & deposits and securities does your household have?  Please ans
 
    * - | 3. Do you have securities now?
      -  | a. Yes, my own
-        | b. No ---->（Go to :numref:`Q{number} <how-much-do-you-plan-to-save_s>`.)
+        | b. No ---->（Go to :numref:`Q{number} <how-much-do-you-plan-to-save_s>`)
    * - | 4. How much deposits & savings do you have?
      - \_____ ten thousand yen
    * - | 5. Did you purchase any securities in the past year (October  |syear prev|  to September |syear|  )?

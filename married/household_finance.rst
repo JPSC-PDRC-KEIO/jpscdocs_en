@@ -14,46 +14,48 @@ What was your total expenditure including savings (life insurance premiums, etc.
     :widths: 8, 8, 8
 
     "Living and other expenses", "Savings", "Loan repayment(s)"
-    "____ thousand yen (Excluding savings and loan repayments)", "___ thousand yen (Including life insurance premiums, etc.)", "____ thousand yen"
+    "| __ __ __ thousand yen
+    | (Excluding savings and loan repayments)", "| __ __ __ thousand yen
+    | (Including life insurance premiums, etc.)", "__ __ __ thousand yen"
 
 
-[Breakdown]
-
-.. list-table::
+.. list-table:: *[Expenditure breakdown]*
    :header-rows: 0
-   :widths: 5, 4, 2, 5, 4
+   :widths: 5, 4
 
    * - for my entire household
-     - ___ thousand yen
-     - savings
-     - for my entire household
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - for me
-     - ___ thousand yen
-     -
-     - for me
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - for my husband
-     - ___ thousand yen
-     -
-     - for my husband
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - for my child/children
-     - ___ thousand yen
-     -
-     - for my child/children
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - for others
-     - ___ thousand yen
-     -
-     - for others
-     - ___ thousand yen
+     - \__ __ __ thousand yen
+
+
+.. list-table:: *[Saving breakdown]*
+   :header-rows: 0
+   :widths: 5, 4
+
+   * - for my entire household
+     - \__ __ __ thousand yen
+   * - for me
+     - \__ __ __ thousand yen
+   * - for my husband
+     - \__ __ __ thousand yen
+   * - for my child/children
+     - \__ __ __ thousand yen
+   * - for others
+     - \__ __ __ thousand yen
+
 
 
 Do you try to save a fixed amount from your household income?
 ================================================================
 
- (Please choose one.)
+ |schoice|
 
 1. Try to save on a regular basis
 2. Not planned, but save what is left
@@ -61,19 +63,18 @@ Do you try to save a fixed amount from your household income?
 4. Not interested in saving
 
 
-
 Do you think that you and your husband are strict or loose with money?
 ========================================================================
 
-(Circle one per question)
+|echoice|
 
 .. csv-table::
    :header-rows: 1
    :widths: 3, 3, 3, 3, 3, 3
 
 	 "","Strict",	"Somewhat strict",	"Just right",	"Somewhat loose",	"Loose"
-   You,	1,	2,	3, 4,	5
-   Your husband,	1,	2,	3,	4,	5
+   (1)\  You,	1, 2, 3, 4,	5
+   (2)\  Your husband,	1, 2,	3, 4,	5
 
 
 
@@ -88,35 +89,36 @@ Please write down your household expenditure in September this year.
    :widths: 6, 4
 
    * - Food (including eating-out/school lunch)
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - House rent, land rent, and home repairs (excluding housing loans)
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - Utilities (electricity, gas, water, sewerage)
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - Furniture and household goods (e.g., bed linen)
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - Clothing, shoes
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - Healthcare (including health drinks and foods)
-     - ___ thousand yen
-   * - Transportation (purchase or loan repayment of a vehicle, fuel or commuter pass expenses, etc.)
-     - ___ thousand yen
+     - \__ __ __ thousand yen
+   * - | Transportation
+       | (purchase or loan repayment of a vehicle, fuel or commuter pass expenses, etc.)
+     - \__ __ __ thousand yen
    * - Communication (postal, telephone, internet fees, etc.)
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - Education (school fees, private tutoring fees, textbooks, reference books, etc.)
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - Culture and entertainment
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - Social expenses
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - Pocket money for you, your husband, your child(ren)
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - Allowance or pocket money for your parent(s) and/or your husband’s parent(s)
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - Other expenses
-     - ___ thousand yen
+     - \__ __ __ thousand yen
    * - Total living expenses
-     - ___ thousand yen
+     - \__ __ __ thousand yen
 
 
 
@@ -129,45 +131,51 @@ What was the total annual income of your household in the past calendar year (Ja
    :header-rows: 1
    :widths: 6, 8, 8, 8, 8
 
-   "", "My husband's annual income", "My annual income", "Total of my husband's and my annual incomes", "Annual income earned by other household member(s)"
-   "Earnings from employment", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
-   | 0. not apply", "*", "| ____ ten thousand yen
+   "", "| My husband's annual
+   | income", "| My annual income
+   | ", "| Total of my husband's
+   | and my annual incomes", "| Annual income earned by
+   | other household member(s)"
+   "Earnings from employment", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
+   | 0. not apply", "*", "| __ __ __ ten thousand yen
    | 0. not apply"
-   "Business income", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
-   | 0. not apply", "*", "| ____ ten thousand yen
+   "Business income", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
+   | 0. not apply", "*", "| __ __ __ ten thousand yen
    | 0. not apply"
-   "Income from assets", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
+   "Income from assets", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
    | 0. not apply"
-   "Social security benefits", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
+   "Social security benefits", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
    | 0. not apply"
-   "Other income", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
+   "Other income", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
    | 0. not apply"
-   "", "", "", "", ""
-   "Total", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
-   | 0. not apply", "| ____ ten thousand yen
-   | 0. not apply"
+   "Total", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ ten thousand yen
+   | 0. not apply
+   | —-> (Go to :numref:`Q{number} <who-is-member>`)"
 
 |
 
 [If you filled in values in the question of Annual income earned by other household member(s), please answer the additional question below.]
 
+.. _who-is-member:
+
 Who is/are the member(s) of your household?
 ---------------------------------------------
 
- (Circle as many as apply)
+|mchoice|
 
  1. My husband's father
  2. My husband's mother
@@ -180,7 +188,6 @@ Who is/are the member(s) of your household?
  9. Other (Specify: _______________)
 
 
-
 What was the total amount of tax (income, resident, and other taxes) and social insurance payments (health, public pension, employment, and other insurance premiums) that you, your husband, and other household member(s) paid in the past year (January  |syear prev|  to December  |syear prev| )?
 =========================================================================================================================================================================================================================================================================================================
 
@@ -190,10 +197,13 @@ What was the total amount of tax (income, resident, and other taxes) and social 
    :header-rows: 1
    :widths: 8, 8, 8
 
-   "Taxes and social insurance payment made by my husband", "Taxes and social insurance payment made by me", "Taxes and social insurance payment made by other household member(s)"
-   "| Total last year ____ ten thousand yen
-   | 0. not apply", "| Total last year ____ ten thousand yen
-   | 0. not apply", "| Total last year ____ ten thousand yen
+   "| Taxes and social insurance payment
+   | made by my husband", "| Taxes and social insurance payment
+   | made by me", "| Taxes and social insurance payment
+   | made by other household member(s)"
+   "| Total last year __ __ __ ten thousand yen
+   | 0. not apply", "| Total last year __ __ __ ten thousand yen
+   | 0. not apply", "| Total last year __ __ __ ten thousand yen
    | 0. not apply"
 
 Health insurance
@@ -206,15 +216,20 @@ What kind of health insurance do you have?
 
 .. csv-table::
    :header-rows: 1
-   :widths: 1, 8, 5
+   :widths: 8, 5
 
-   "Number", "type", "insurer"
-   1, Company health insurance,	1.Me  \       2.Family
-   2, National health insurance,	1.Me  \       2.Family
-   3, Seaman's insurance,	1.Me  \       2.Family
-   4, Mutual Aid Association's long-term benefit,	1.Me  \       2.Family
-   5, Medical aid, ""
-   6, No health insurance, ""
+   "type", "insurer"
+   "1. Company health insurance",	"| 1. Me
+   | 2. Family"
+   "2. National health insurance",	"| 1. Me
+   | 2. Family"
+   "3. Seaman's insurance",	"| 1. Me
+   | 2. Family"
+   "| 4. Mutual Aid Association's
+   | long-term benefit", "| 1. Me
+   | 2. Family"
+   "5. Medical aid", ""
+   "6. No health insurance", ""
 
 What is your insurance status?
 -------------------------------------
@@ -229,9 +244,13 @@ If you are or your husband is a company employee or self-employed, how much was 
 
 (Exclude bonus and temporary allowances.)
 
-1. My husband’s take-home pay in September  \   ______ ten thousand yen \  	0.    None
-2. My take-home pay in September  \    ______ ten thousand yen \  	0.    None
+| (1)\  My husband’s take-home pay in September
+|  \ __ __ __ ten thousand yen
+|  0.    None
 
+| (2)\  My take-home pay in September
+|  \ __ __ __ ten thousand yen
+|  0.    None
 
 What household expenses do your parent(s) and your husband's parent(s) pay for
 =================================================================================
@@ -239,7 +258,7 @@ What household expenses do your parent(s) and your husband's parent(s) pay for
 What household expenses do your parent(s) pay for, even in partly for your household among the following items?
 ------------------------------------------------------------------------------------------------------------------------------------
 
-  (Circle as many as apply to you.)
+|mchoice|
 
 1. Housing loan repayments
 2. House rent or land rent
@@ -250,21 +269,21 @@ What household expenses do your parent(s) pay for, even in partly for your house
 How much is the amount paid a month do your own parents pay per month?
 ----------------------------------------------------------------------------
 
-\    ______ ten thousand a month
+ \__ __ __ ten thousand a month
 
 Which household expenses do is paid by your husband's parent(s) pay for, even in partly for your household among the following items?
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. Housing loan repayment
 2. House rent or land rent
 3. Living expenses
 4. Expenses for child(ren) (cost of education, clothes and other)
 5. Other [Specify
-6. None → (Go to Section 7)
+6. None → (Go to :numref:`Section{number} <parents>`)
 
 How much do your husband’s parents pay per month?
 ----------------------------------------------------
 
-\    ______ ten thousand a month
+ \__ __ __ ten thousand a month

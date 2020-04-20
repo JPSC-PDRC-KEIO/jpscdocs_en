@@ -10,16 +10,16 @@ Even if you have no children, please answer the questions.]
 Do you want to have a child or another child?
 ================================================
 
-1. Yes, at any cost ----> (Go to :numref:`Q{number} <How-many-children>`.)
-2. Yes, with a condition(s) ----> (Go to :numref:`Q{number} <What-are-the-conditions>`.)
-3. No ----> (Go to :numref:`Q{number} <Why-do-not-want>`.)
+1. Yes, at any cost ----> (Go to :numref:`Q{number} <How-many-children>`)
+2. Yes, with a condition(s) ----> (Go to :numref:`Q{number} <What-are-the-conditions>`)
+3. No ----> (Go to :numref:`Q{number} <Why-do-not-want>`)
 
 .. _What-are-the-conditions :
 
 What is (are) the condition(s)?
 -------------------------------------
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. To be able to pay our living expenses with a child or another child
 2. To have a larger house
@@ -27,14 +27,14 @@ What is (are) the condition(s)?
 4. For my husband and other members of my household to help me with housekeeping and childcare
 5. To be able to use a childcare system such as a day nursery or day nursery
 6. Other (Specify: ______________	)
-----> (Go to :numref:`Q{number} <How-many-children>`.)
+----> (Go to :numref:`Q{number} <How-many-children>`)
 
 .. _Why-do-not-want :
 
 Why don't you want to have a child or another child?
 --------------------------------------------------------------
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. Because the burden of childcare and educational expenses will be heavy
 2. Because we will need to get a larger house
@@ -50,7 +50,7 @@ Why don't you want to have a child or another child?
 12. Because I am simply satisfied having my son
 13. Because I am satisfied with having my children.
 14. For other reasons (Please specify: _____________ )
-----> (Go to :numref:`Q{number} <level-of-education>`.)
+----> (Go to :numref:`Q{number} <level-of-education>`)
 
 .. _How-many-children :
 

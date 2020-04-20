@@ -20,7 +20,7 @@ What type of ownership is most appropriate to your residence? (If ownership is i
 4. Rented house, apartment (privately owned) ----> (Please answer 8.2.1)
 5. Rented house, apartment (publicly owned)	----> (Please answer 8.2.1)
 6. Company housing or dormitory (including rented company house) ----> (Please answer 8.2.1)
-7. Other (Specify: ______________) ----> (Go to :numref:`Q{number} <family-live-together_s>`.)
+7. Other (Specify: ______________) ----> (Go to :numref:`Q{number} <family-live-together_s>`)
 
 How much is the monthly rent?
 ---------------------------------------------------------------------
@@ -30,7 +30,7 @@ How much is the monthly rent?
 How many rooms (living space) do you have? Include the kitchen dining room larger than 3 tatami mats excluding the sink, etc.
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  Total \__ rooms ----> (Go to :numref:`Q{number} <family-live-together_s>`.)
+  Total \__ rooms ----> (Go to :numref:`Q{number} <family-live-together_s>`)
 
 
 
@@ -141,7 +141,7 @@ Does your family live together with, or separately from, your parents or your hu
 6. My parent(s) live in the same municipality as my family, where we live outside the 21 largest cities with wards in Japan
 7. My parent(s) live in Tokyo or in same prefecture as my family
 8. My parent(s) live in a place other than those mentioned in items 1 to 7 above
-9. My parent(s) have all passed away ----> (Go to :numref:`Q{number} <purchased-a-lot_s>`.)
+9. My parent(s) have all passed away ----> (Go to :numref:`Q{number} <purchased-a-lot_s>`)
 
 
 |
@@ -219,7 +219,7 @@ Did you purchase a lot or house during the past year (October  |syear prev|  to 
 2. I purchased a house only
 3. I purchased both a lot and a house
 4. I purchased a condominium
-5. I didn’t purchase any of the above ----> (Go to :numref:`Q{number} <sold-a-lot_s>`.)
+5. I didn’t purchase any of the above ----> (Go to :numref:`Q{number} <sold-a-lot_s>`)
 
 How much was the purchase price? (Enter the price for the house or apartment in the item "House" and/or that for the lot in the item "Lot".)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -247,7 +247,7 @@ Did you sell the lot/house that you lived in or/and your second house during the
 2. I sold only the house.
 3. I sold both the lot and the house.
 4. I sold the condominium.
-5. I didn’t sell any. ----> (Go to :numref:`Q{number} <extend-or-rebuild_>`.)
+5. I didn’t sell any. ----> (Go to :numref:`Q{number} <extend-or-rebuild_s>`)
 
 How much was the sale price? (Enter the price for the house or apartment in the item "House" and/or that for the lot in the item "Lot".)
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -273,7 +273,7 @@ Did you extend or rebuild the house you lived in and/or your second house during
 
 1. I extended the house
 2. I rebuilt the house
-3. I didn’t do either ----> (Go to :numref:`Q{number} <real-estate-other_s>`.)
+3. I didn’t do either ----> (Go to :numref:`Q{number} <real-estate-other_s>`)
 
 How much was the cost?
 --------------------------
@@ -292,7 +292,7 @@ Do you own any real estate other than the house you live in or your second house
 2. I own only a house.
 3. I own both a lot and a house.
 4. I own a condominium.
-5. I don’t own any.  ----> (Go to :numref:`Q{number} <your-future-plan_s>`.)
+5. I don’t own any.  ----> (Go to :numref:`Q{number} <your-future-plan_s>`)
 
 What is the total current market price (estimated selling price) of all of the real estate that you own?
 ----------------------------------------------------------------------------------------------------------------
@@ -309,7 +309,7 @@ I would now like to ask you about your future plans and ideas for your accommoda
 
 1. Yes, I have a concrete plan
 2. No, I don’t have a concrete plan but I am thinking about it
-3. No, I am not thinking about it (Go to :numref:`Q{number} <when-build-buy-renovate_s>`.)
+3. No, I am not thinking about it (Go to :numref:`Q{number} <when-build-buy-renovate_s>`)
 
 
 When do you hope to realize this plan?

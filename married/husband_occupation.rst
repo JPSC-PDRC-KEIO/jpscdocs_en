@@ -11,10 +11,10 @@ Is your husband currently (as of September |syear|  ) working?
 
 [Include all jobs such as full-time and part-time jobs, part-time engagements, self-employment and family business employment, but exclude student part-time jobs. ]
 
-1. Yes ----> (Go to :numref:`Q{number} <more-than-one-job-husband>`.)
-2. No, temporarily (but he is able to return to his previous workplace). (Go to :numref:`Q{number} <why-is-he-not-working>`.)
-3. Student ----> (Go to :numref:`Q{number} <working-one-year-ago-husband>`. )
-4. Unemployed	----> (Go to :numref:`Q{number} <working-one-year-ago-husband>`. )
+1. Yes ----> (Go to :numref:`Q{number} <more-than-one-job-husband>`)
+2. No, temporarily (but he is able to return to his previous workplace) ----> (Go to :numref:`Q{number} <why-is-he-not-working>`)
+3. Student ----> (Go to :numref:`Q{number} <working-one-year-ago-husband>`)
+4. Unemployed	----> (Go to :numref:`Q{number} <working-one-year-ago-husband>`)
 
 .. _why-is-he-not-working:
 
@@ -24,17 +24,16 @@ Why is he not working at the moment?
 1. Taking childcare leave
 2. Taking care leave
 3. Taking sick leave
-4. Other (Please specify : _______________ )
+4. Other (Please specify: _______________ )
 
-Go to :numref:`Q{number} <more-than-one-job-husband>`.
 
 .. _more-than-one-job-husband:
 
 Does your husband have more than one job?
 ===========================================
 
-1.  Yes
-2.  No
+1. Yes
+2. No
 
 
 What is your husband's main job at present?
@@ -44,7 +43,7 @@ What is your husband's main job at present?
 
  Please explain: _________________________________
 
-(Then circle only one answer.)
+|schoice|
 
 *Self-employed, family worker, freelance*
 
@@ -65,7 +64,7 @@ What is your husband's main job at present?
 12. Sales & service employee
 13. Paying job at home (home worker) ----> (Go to :numref:`Section{number} <about-income-management>`)
 
-|
+
 [Questions Q4.4 to Q4.20 ask about the main job you circled in Q4.3.]
 
 How many employees does the company or organization your husband work for have?
@@ -102,7 +101,7 @@ Which industry category does your husband's company or organization belong to?
 13. Medical, social services
 14. Other industry
 15. Public affairs
-16. Other (Please specify : _______________ )
+16. Other (Please specify: _______________ )
 
 What category of employee is he?
 ==============================================
@@ -111,7 +110,7 @@ What category of employee is he?
 2. Temporary employee
 3. Fixed-term employee
 4. Part-time employee
-5. Self-employed or working for the family business (Please specify : _______________ )
+5. Self-employed or working for the family business (Please specify: _______________ )
 
 
 Is your husband paid monthly, weekly, daily, or hourly?
@@ -131,21 +130,21 @@ What is the monthly income from his regular work?
 
 [Include overtime pay and exclude bonuses, and give the total amount before tax.]
 
- _____ thousand yen per month
+ \__ __ __ __ thousand yen per month
 
 .. _daily-pay-husband:
 
 How much is his daily wage?
 --------------------------------
 
- ______ yen
+ \__ __ __ __ __ yen
 
 .. _hourly-wage-husband:
 
 How much is his hourly wage?
 ---------------------------------
 
- ______ yen
+ \__ __ __ __ __ yen
 
 .. _how-many-hours-work-husband:
 
@@ -179,7 +178,7 @@ How many hours per week does your husband get paid overtime work?
 8. We have no overtime work
 
 How many hours of unpaid overtime, so-called “service overtime” does he put in a week?
-----------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 1. 0 hour
 2. 1 to 3 hours
@@ -215,16 +214,16 @@ When was the company or organization your husband work for established?
 4. 1965 to 1974
 5. 1975 to 1984
 6. 1985 to 1988
-7. 1989 and subsequent
+7. 1989 and subsequent ----> (Go to :numref:`Q{number} <established-year-husband>`)
 8. Public agency
 
+.. _established-year-husband:
 
-[If you chose an answer 7, please answer the following question.]
 
 What exact year was it established?
 -----------------------------------------
 
- Year established: ______
+ Year established: __ __ __ __
 
 
 
@@ -233,14 +232,14 @@ How many total days of paid leave does your husband have in fiscal year  |syear 
 
 [Exclude any paid leaves carried over from the previous year]
 
- _____ days
+ \__ __ days
 
-0. No paid leave ----> (Go to :numref:`Q{number} <employment-insurance-husband>`.)
+0. No paid leave ----> (Go to :numref:`Q{number} <employment-insurance-husband>`)
 
 How many total days of paid leave did you actually take in fiscal year  |syear prev| (April 1, 2014 to March 31,  |syear prev| )?
 ----------------------------------------------------------------------------------------------------------------------------------------
 
- _____ days
+ \__ __ days
 
 
 .. _employment-insurance-husband:
@@ -271,28 +270,28 @@ How long would it take someone completely new learn to do your husband's work?
 Did your husband work one year ago (at the end of September last year) ?
 =============================================================================================
 
-1.  Yes
-2.  No ---> (Go to :numref:`Q{number} <why-did-he-choose-the-company-husband>`.)
+1. Yes
+2. No ---> (Go to :numref:`Q{number} <why-did-he-choose-the-company-husband>`)
 
 Was he working as a temporary employee of a temporary employment agency one year ago?
 ---------------------------------------------------------------------------------------------
 
 1. Yes
-2. No ---> (Go to :numref:`Q{number} <work-in-the-same-company-husband>`.)
+2. No ---> (Go to :numref:`Q{number} <work-in-the-same-company-husband>`)
 
 
 Over the past 12 months (from October  |syear prev|  to September |syear|  ), has there been any change in A. the temporary employment agency your husband is registered with or B. the workplace he is dispatched to (where he actually works)?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*A. Temporary employment agency you are registered with*
+*(a) Temporary employment agency you are registered with*
 
 1. Yes, there has been change
 2. No, there has been no change
 
-*B. The workplace where are dispatched to (where you actually work)*
+*(b) The workplace where are dispatched to (where you actually work)*
 
-1. Yes, there has been change ----> (Go to :numref:`Q{number} <When-did-your-husband-leave-the-company>`.)
-2. No, there has been no change ----> (Go to :numref:`Q{number} <are-there-more-employees-husband>`.)
+1. Yes, there has been change ----> (Go to :numref:`Q{number} <When-did-your-husband-leave-the-company>`)
+2. No, there has been no change ----> (Go to :numref:`Q{number} <are-there-more-employees-husband>`)
 
 .. _work-in-the-same-company-husband:
 
@@ -300,7 +299,7 @@ Did your husband work one year ago (at the end of September last year) in the sa
 ==========================================================================================================================================
 
 1. Yes
-2. No ----> (Go to :numref:`Q{number} <why-work-different-company-husband>`.)
+2. No ----> (Go to :numref:`Q{number} <why-work-different-company-husband>`)
 
 .. _are-there-more-employees-husband:
 
@@ -328,12 +327,13 @@ Was he transferred to another position or office in the past year (October  |sye
 Was there any change in his work over the past year (October  |syear prev|  to September |syear|  )?
 ---------------------------------------------------------------------------------------------------------
 
-1.  No
-2.  Yes
+1. No
+2. Yes
 
-| [If you answered " 1. No" to Q4.16, go to :numref:`Section{number} <income-management>`.]
-|
-| [If you answered " 2. Yes" to Q4.16, please answer the additional questions Q4.16.4 to Q4.16.14 below.]
+.. jump::
+   Please go to :numref:`Q{number} <income-management>`.
+
+[If you answered "2. No" to Q4.16, please answer following questions.]
 
 .. _why-work-different-company-husband:
 
@@ -341,22 +341,22 @@ Why does he now work at a different company or organization from the one where h
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Because he changed this job
-2. Because he was temporarily transferred to the company or organization where he works now ----> (Go to :numref:`Section{number} <income-management>`.)
-3. Because he transferred his domicile ----> (Go to :numref:`Section{number} <income-management>`.)
-4. Because he was transferred due to a company merger or company split ----> (Go to :numref:`Section{number} <income-management>`.)
+2. Because he was temporarily transferred to the company or organization where he works now ----> (Go to :numref:`Section{number} <income-management>`)
+3. Because he transferred his domicile ----> (Go to :numref:`Section{number} <income-management>`)
+4. Because he was transferred due to a company merger or company split ----> (Go to :numref:`Section{number} <income-management>`)
 
 .. _When-did-your-husband-leave-the-company:
 
 When did he leave the company or organization where he worked one year ago (at the end of September last year)?
 -----------------------------------------------------------------------------------------------------------------
 
- In the month: __________
+ In the month: __ __
 
 
 Why did he leave the company or organization where he worked one year ago (at the end of September last year)?
 -------------------------------------------------------------------------------------------------------------------
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. Because of downsizing, or company dissolution or bankruptcy
 2. Because his work was temporary and unstable there
@@ -373,34 +373,30 @@ Why did he leave the company or organization where he worked one year ago (at th
 13. Because he was dismissed
 14. Because He wanted to study at university, college, or vocational school or prepare to study overseas
 15. Because he reached the mandatory retirement age or my employment contract finished
-16. Other (Please specify : _______________ )
+16. Other (Please specify: _______________ )
 
 How did you make your livelihood without your husband's income after having quit his job temporarily or permanently?
 -----------------------------------------------------------------------------------------------------------------------
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. We could get by with wife’s or parent's revenue
 2. He found a new job quickly
 3. We could get by with a retirement allowance or/and insurance benefits for a while
 4. We drew savings
 5. We made purchases with his credit card or borrowed money
-6. Other (Please specify : _______________ )
+6. Other (Please specify: _______________ )
 
 
 How do you feel now about your husband quitting or changing his job?
 ----------------------------------------------------------------------
 
-(Circle only one answer.)
+|schoice|
 
 1. I think it was good for him
 2. I think it was inevitable
 3. He regrets it now
-4. Other (Please specify : _______________ )
-
-.. todo::
-
-  16.7と16.8の主語がわかりません。とりあえず↑にしておきました。
+4. Other (Please specify: _______________ )
 
 
 .. _why-did-he-choose-the-company-husband:
@@ -408,7 +404,7 @@ How do you feel now about your husband quitting or changing his job?
 Why did he choose the company or organization where he works now?
 -------------------------------------------------------------------------
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. Because they pay well
 2. Because he could take more day off
@@ -420,7 +416,7 @@ Why did he choose the company or organization where he works now?
 8. Because he could learn a skill there.
 9. Because he could take advantage of acquired skills.
 10. Because he was interested in the work tasks
-11. Other (Please specify : _______________ )
+11. Other (Please specify: _______________ )
 
 
 How many months has he worked in the past year (October  |syear prev|  to September |syear|  )?
@@ -428,7 +424,7 @@ How many months has he worked in the past year (October  |syear prev|  to Septem
 
 [Include time worked—both full-time and part-time—at the company or organization where he worked one year ago and at his present workplace.]
 
- For ____ months
+ For __ __ months
 
 
 How many months was he job-hunting in the past year (October  |syear prev|  to September |syear|  )?
@@ -436,15 +432,15 @@ How many months was he job-hunting in the past year (October  |syear prev|  to S
 
 [If he didn’t look for a job in the past year, please write 0.]
 
- For ____ months
+ For __ __ months
 
- 0. he didn’t look for a job in the past year
+ 0. He didn’t look for a job in the past year
 
 Did he receive unemployment benefit (from employment insurance) when he quit his job?
 ---------------------------------------------------------------------------------------------
 
-1. Yes, he received it ----> For ____ months
-2. Yes, he is receiving it now ----> For ____ months
+1. Yes, he received it ----> For __ __ months
+2. Yes, he is receiving it now ----> For __ __ months
 3. He is currently applying for it
 4. No, he did not receive it although he was registered for employment insurance
 5. No, he was not registered for employment insurance
@@ -461,34 +457,37 @@ How many companies and organizations has he worked for in the past year (October
 When did he start at the company or organization where he works now?
 -------------------------------------------------------------------------------------
 
- In the month: __________
+ In the month: __ __
 
-| [Go to  :numref:`Section{number} <income-management>`.]
-|
-| [If you answered "3.Student", "4.Housewife and not working from home", or "5. Unemployed" to Q4.1, answer questions Q4.16.15 to Q4.16.25 below.]
+.. jump::
+   Please go to :numref:`Section{number} <income-management>`.
+
+[If you answered "3.Student", "4.Unemployed" to Q4.1, please answer following questions.]
 
 .. _working-one-year-ago-husband:
 
 Was he working one year ago(at the end of September |syear|  .)?
 -------------------------------------------------------------------------
 
-| 1.  Yes ---->
-|  Was he working as a temporary employee of a temporary employment agency one year ago?
-|  1. Yes
-|  2. No
-\
-2.  No ---->  (Go to :numref:`Q{number} <how-many-months-work-husband>`)
+1. Yes
+2. No ----> (Go to :numref:`Q{number} <how-many-months-work-husband>`)
+
+Was he working as a temporary employee of a temporary employment agency one year ago?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Yes
+2. No
 
 When did you leave the company or organization where you worked one year ago(at the end of September last year)?
 ---------------------------------------------------------------------------------------------------------------------------
 
- In the month: __________
+ In the month: __ __
 
 
 Why did he leave the company or organization where he worked one year ago(at the end of September last year)?
 -----------------------------------------------------------------------------------------------------------------------------
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. Because of downsizing, or company dissolution or bankruptcy
 2. Because his work was temporary and unstable there
@@ -505,35 +504,31 @@ Why did he leave the company or organization where he worked one year ago(at the
 13. Because he was dismissed
 14. Because He wanted to study at university, college, or vocational school or prepare to study overseas
 15. Because he reached the mandatory retirement age or my employment contract finished
-16. Other (Please specify : _______________ )
+16. Other (Please specify: _______________ )
 
 
 How did you make your livelihood without your husband's income after having quit his job temporarily or permanently?
 ------------------------------------------------------------------------------------------------------------------------
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. We could get by with wife’s or parent's revenue
 2. He founds a new job quickly
 3. We could get by with a retirement allowance or/and insurance benefits for a while
 4. We drew savings
 5. We made purchases with his credit card or borrowed money
-6. Other (Please specify : _______________ )
+6. Other (Please specify: _______________ )
 
 
 How do you feel now about your husband quitting or changing his job?
 -----------------------------------------------------------------------------
 
-(Circle only one answer.)
+|schoice|
 
 1. I think it was good for him
 2. I think it was inevitable
 3. He regrets it now
-4. Other (Please specify : _______________ )
-
-.. todo::
-
-   主語がわかりません。とりあえず↑にしておきました。
+4. Other (Please specify: _______________ )
 
 
 .. _how-many-months-work-husband:
@@ -541,7 +536,7 @@ How do you feel now about your husband quitting or changing his job?
 How many months did he work in the past year (October  |syear prev|  to September |syear|  )?
 ---------------------------------------------------------------------------------------------------
 
- For ____ months
+ For __ __ months
 
 0. He didn’t work at all ----> (Go to :numref:`Q{number} <plan-to-work-husband>`)
 
@@ -568,7 +563,7 @@ Does He plans to work in the future?
 What is he doing now to prepare for working in the future?
 --------------------------------------------------------------
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. He is looking for a job right now.
 2. He plans to start looking for a job soon ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-husband>`)
@@ -580,15 +575,15 @@ What is he doing now to prepare for working in the future?
 How many months has he looked for a job in the past year (October  |syear prev|  to September |syear|  )?
 ----------------------------------------------------------------------------------------------------------------
 
- For ____ months
+ For __ __ months
 
 .. _receive-unemployment-benefit-husband:
 
 Did he receive unemployment benefit (from employment insurance) when you left your job?
 ---------------------------------------------------------------------------------------------
 
-1. He did ----> For ____ months
-2. He is receiving it now ----> For ____ months
+1. He did ----> For __ __ months
+2. He is receiving it now ----> For __ __ months
 3. He is applying for it
 4. He did not receive it although He is registered for employment insurance
 5. He was not registered for employment insurance

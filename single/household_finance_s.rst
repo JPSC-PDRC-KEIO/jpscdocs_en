@@ -4,7 +4,7 @@
 Household finances
 ======================
 
-.. todo:: ↓無配偶用質問文
+.. todo:: ↓無配偶用質問票
 
 What was the total annual income of your household in the past calendar year (January  |syear prev|  to December  |syear prev| ), including income from assets, social insurance benefits, and money from your parent(s) and your husband's parents?
 =======================================================================================================================================================================================================================================================================================================
@@ -116,7 +116,7 @@ What household expenses do your parent(s) pay for
 What household expenses do your parent(s) pay for, even in partly for your household among the following items?
 ------------------------------------------------------------------------------------------------------------------------------------
 
-  (Circle as many as apply to you.)
+  |mchoice|
 
 1. Housing loan repayments
 2. House rent or land rent

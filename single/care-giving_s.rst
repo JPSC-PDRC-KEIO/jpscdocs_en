@@ -8,7 +8,7 @@ Have you provided nursing care to someone closely related to you?
 1. Currently providing nursing care to someone (starting within the past one year)
 2. Currently providing nursing care to someone (starting more than one year ago)
 3. Not currently, but provided nursing care to someone in the past three years
-4. Not currently, but provided nursing care to someone four or more years ago) (Go to  :numref:`Q{number} <changes-household_s>`.)
+4. Not currently, but provided nursing care to someone four or more years ago) (Go to  :numref:`Q{number} <changes-household_s>`)
 5. Have never provided nursing care to anyone
 
 

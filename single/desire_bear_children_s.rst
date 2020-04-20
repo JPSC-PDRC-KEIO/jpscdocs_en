@@ -10,9 +10,9 @@ Even if you have no children, please answer the questions.]
 Do you want to have a child or another child?
 ================================================
 
-1. Yes, at any cost ----> (Go to :numref:`Q{number} <How-many-children_s>`.)
-2. Yes, with a condition(s) ----> (Go to :numref:`Q{number} <What-are-the-conditions_s>`.)
-3. No ----> (Go to :numref:`Q{number} <Why-do-not-want_s>`.)
+1. Yes, at any cost ----> (Go to :numref:`Q{number} <How-many-children_s>`)
+2. Yes, with a condition(s) ----> (Go to :numref:`Q{number} <What-are-the-conditions_s>`)
+3. No ----> (Go to :numref:`Q{number} <Why-do-not-want_s>`)
 
 .. todo:: ↓無配偶用
 
@@ -21,7 +21,7 @@ Do you want to have a child or another child?
 What is (are) the condition(s)?
 -------------------------------------
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. To be able to pay our living expenses with a child or another child
 2. To have a larger house
@@ -29,7 +29,7 @@ What is (are) the condition(s)?
 4. For other members of my household to help me with housekeeping and childcare
 5. To be able to use a childcare system such as a day nursery or day nursery
 6. Other (Specify: ______________	)
-----> (Go to :numref:`Q{number} <How-many-children_s>`.)
+----> (Go to :numref:`Q{number} <How-many-children_s>`)
 
 
 .. todo:: ↓無配偶用
@@ -39,7 +39,7 @@ What is (are) the condition(s)?
 Why don't you want to have a child or another child?
 --------------------------------------------------------------
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. Because I don't want to get married
 2. Because I consider my own life as more important
@@ -49,7 +49,7 @@ Why don't you want to have a child or another child?
 6. Because the burden of childcare and educational expenses will be heavy
 7. Because I think it is not easy to bring up a child to be a full-fledged member of society
 8. For other reasons (Please specify: _____________ )
-----> (Go to :numref:`Q{number} <level-of-education_s>`.)
+----> (Go to :numref:`Q{number} <level-of-education_s>`)
 
 .. _How-many-children_s:
 

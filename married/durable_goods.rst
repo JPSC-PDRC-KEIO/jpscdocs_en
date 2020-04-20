@@ -55,7 +55,7 @@ Does your household currently have any pets?
 -----------------------------------------------
 
 1. Yes
-2. No ----> (Go to :numref:`Section{number} <daily-life>`.)
+2. No ----> (Go to :numref:`Section{number} <daily-life>`)
 
 What kind of pet(s) do you have?
 ------------------------------------

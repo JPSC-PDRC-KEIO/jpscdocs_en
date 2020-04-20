@@ -49,7 +49,7 @@ Approximately how much have you spent on your child’s/children’s education i
 Which childcare duties does your husband do or help with?
 =========================================================================
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. Changes diapers and clothes, and prepares the clothes
 2. Gives a bath or takes a bath together with our child(ren)
@@ -67,7 +67,7 @@ Which childcare duties does your husband do or help with?
 Do you have anyone who can take care of your child(ren) except you?
 ========================================================================
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. My husband
 2. My parent(s)
@@ -82,10 +82,23 @@ Do you have anyone who can take care of your child(ren) except you?
 11. I don’t need to ask for any help taking care of my child(ren)
 
 
+Are you currently worried about your children?
+========================================================
+
+(Circle one that applies)
+
+1. Very worried
+2. A little worried
+3. Seldom worried
+4. Not at all worried
+
+.. todo:: (2)悩みや心配事の内容への翻訳なし
+
+
 Do you have anyone to ask about child-rearing?
 ============================================================================================
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. My husband
 2. My parent(s)
@@ -103,7 +116,7 @@ Do you have anyone to ask about child-rearing?
 Do you use any child-care services for your child(ren) provided by an authorized nursery school, unauthorized nursery school, kindergarten, babysitter, housekeeper, your relatives, your friends, etc.?
 ==============================================================================================================================================================================================================
 
-1. Yes    2. No → (Go to :numref:`Q{number} <are-you-receiving>`.)
+1. Yes    2. No → (Go to :numref:`Q{number} <are-you-receiving>`)
 
 
 Please write down the number of child(ren) who use(s) each service shown below. If you send your child(ren) to a nursery school or kindergarten, etc., how much did you pay for the fees in September of this year? If you have more than two pre-school-age children, please write the total amount spent for all of them.

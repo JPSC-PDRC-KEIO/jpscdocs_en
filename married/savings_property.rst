@@ -53,7 +53,7 @@ How much savings & deposits and securities does your household have?  Please ans
      - | a. Yes, my family's (my husband’s, mine, and my child(ren)’s)
        | b. No  ---->（Go to 5.)
      - | a. Yes, my own
-       | b. No ---->（Go to :numref:`Q{number} <how-much-do-you-plan-to-save>`.)
+       | b. No ---->（Go to :numref:`Q{number} <how-much-do-you-plan-to-save>`)
    * - | 4. How much deposits & savings do you have?
      - \_____ ten thousand yen
      - \_____ ten thousand yen

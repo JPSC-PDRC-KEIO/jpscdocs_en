@@ -15,11 +15,11 @@ Please answer the following questions about income management in your household.
   **start point**
 
     | Did you have any income in September this year?
-    |     a. No ---->（Go to Question A.)
-    |     b. Yes ---->（Go to Question B.)
+    |     a. No ---->（Go to No income route.)
+    |     b. Yes ---->（Go to have income route.)
 
 
-**Question A**
+**"having no income" route**
 
 
 .. list-table::
@@ -28,23 +28,23 @@ Please answer the following questions about income management in your household.
 
 
      * - 1. Did your husband have any income in September this year?
-       - | a. No ---->（Go to :numref:`Section{number} <Household-finances>`.)
+       - | a. No ---->（Go to :numref:`Section{number} <Household-finances>`)
          | b. Yes
      * - 2. Did your husband hand over all of his income to you?
        - | a. No, only a part of it.
          | \  \   How much? \    ___ thousand yen
          | b. Yes ---->（Go to 4.)
      * - 3. Did you separate any money for yourself from it?
-       - | a. No ---->（Go to :numref:`Section{number} <Household-finances>`.)
+       - | a. No ---->（Go to :numref:`Section{number} <Household-finances>`)
          | b. Yes
-         | \  \   How much? \    ___ thousand yen ---->（Go to :numref:`Section{number} <Household-finances>`.)
+         | \  \   How much? \    ___ thousand yen ---->（Go to :numref:`Section{number} <Household-finances>`)
      * - 4. Did you separate any money for yourself from it?
        - | a. No ---->（Go to 19.)
          | b. Yes
          | \  \   How much? \    ___ thousand yen ---->（Go to 19.)
 
 
-**Question B**
+**"having income" route**
 
 .. list-table::
      :header-rows: 0
@@ -69,10 +69,12 @@ Please answer the following questions about income management in your household.
      * - 9. Did your husband hand over his income to you?
        - | a. No
          | b. Yes ---->（Go to 12.)
-     * - 10. How much were the living expenses (e.g., utilities and education expenses) for all of your household members except your husband that your husband's income paid for?
+     * - | 10. How much were the living expenses (e.g., utilities and education expenses)
+         | for all of your household members except your husband that your husband's income paid for?
        - | \  \   ___ thousand yen
          | \  \   ---->（Go to next question.)
-     * - 11. How much were the living expenses (e.g., utilities and education expenses) for all of your household members except you that your income paid for?
+     * - | 11. How much were the living expenses (e.g., utilities and education expenses)
+         | for all of your household members except you that your income paid for?
        - | \  \   ___ thousand yen
          | \  \   ---->（Go to 19.)
      * - 12. Did your husband hand over all his income to you?

@@ -1,11 +1,3 @@
-.. your family/household
-.. |age| replace:: \_\_ years old
-.. |relp| replace:: My \_\_
-.. |pers relp codes| replace:: \<Personal Relationship Codes\>
-.. |stdnt wrkr codes| replace:: \<Student or Worker Status Codes\>
-
-
-
 ======================
 Household members
 ======================
@@ -16,7 +8,7 @@ How many members are there in your household?
 
 (Enter the number of members in your household who are presently living together under the same roof or on the same lot.)
 
- | \__  persons
+ \__ __  persons
 
 
 For each member of your family, enter their personal relationship to you, their sex, age, student or worker status, living with you or separately, and marital status.
@@ -71,7 +63,7 @@ For each member of your family, enter their personal relationship to you, their 
      - |pers relp codes|
      - | 1. male
        | 2. female
-     - \_\_ years old
+     - |age|
      - |stdnt wrkr codes|
      - | 1. Together
        | 2. Separately
@@ -79,78 +71,27 @@ For each member of your family, enter their personal relationship to you, their 
        | 2. Married
 
 
-.. todo:: 有配偶と共通のコード表としてあります。
-
 .. list-table:: **Personal Relationship Codes**
-   :widths: 2, 8, 2, 8
-   :header-rows: 1
+   :widths: 8, 8
+   :header-rows: 0
 
-   * -
-     - Married
-     -
-     - Single
-   * - | 00
-       | 01
-       | 02
-       | 03
-       | 04
-       | 05
-       | 06
-       | 07
-       | 08
-       | 09
-       | 10
-       | 11
-       | 12
-       | 13
-       | 14
-       | 15
-       | 16
-     - | Me
-       | My husband
-       | My first child
-       | My second child
-       | My third child
-       | My forth child
-       | Fifth or later child subsequent
-       | My parent
-       | My husband's parent
-       | My grandparent
-       | My husband’s grandparent
-       | My brother or sister
-       | My husband's brother or sister
-       | My child’s spouse
-       | My grand child
-       | Other relative
-       | Other
-     - | 00
-       | 01
-       | 02
-       | 03
-       | 04
-       | 05
-       | 06
-       | 07
-       | 08
-       | 09
-       | 10
-       | 11
-       | 12
-     - | Me
-       | My first child
-       | My second child
-       | My third child
-       | My forth child
-       | Fifth or later child subsequent
-       | My parent
-       | My grandparent
-       | My brother or sister
-       | My child’s spouse
-       | My grand child
-       | Other relative
-       | Other
+   * - | 00 Me
+       | 01 My first child
+       | 02 My second child
+       | 03 My third child
+       | 04 My forth child
+       | 05 Fifth or later child subsequent
+       | 06 My parent
+     - | 07 My grandparent
+       | 08 My brother or sister
+       | 09 My child’s spouse
+       | 10 My grand child
+       | 11 Other relative
+       | 12 Other
+       |
 
-.. todo:: 調査票にはないコード表です。
+
+.. todo:: The following code table is not included in the questionnaire.
 
 
 .. list-table:: **Student or worker status Codes**

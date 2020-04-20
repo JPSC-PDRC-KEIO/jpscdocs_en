@@ -11,19 +11,19 @@ Have you taken any classes at schools categorized as "miscellaneous" below, such
 What kind of courses have you taken? (Include correspondence courses)
 ---------------------------------------------------------------------------
 
-(Circle as many as apply to you.)
+|mchoice|
 
 1. Miscellaneous school
 2. Occupational training school
 3. High school
 4. Vocational and Special vocational school
 5. Junior college or technical college
-6. University or college (graduate)
-7. University or college (completed some courses, or as auditor[[??]] or research student)
+6. University or college (for graduation)
+7. University or college (completed some courses, or as auditor or research student)
 8. University or college (department of telecommunications or a broadcasting college)
 9. Graduate school
-10. correspondence courses in miscellaneous category
-11. community center or culture center
+10. Paid distance learning
+11. Community/culture center
 12. Other (Specify: _____________ )
 
 .. note::
@@ -62,7 +62,7 @@ Why did you take the course?
 Who paid most of the cost?
 --------------------------------
 
- (Circle as many as apply to you.)
+ |mchoice|
 
 1. Me
 2. My company
