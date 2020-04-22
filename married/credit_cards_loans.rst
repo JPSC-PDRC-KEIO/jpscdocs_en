@@ -174,7 +174,7 @@ How do you and your husband feel about the burden of your repayments?
 
 .. _a-loan-application-rejected :
 
-Have you and your husband ever had a loan application rejected during the past year (October  |syear prev|  to September |syear|  )?
+Have you and your husband ever had a loan application rejected during the past year (October  |syear prev|  -- September |syear|  )?
 ================================================================================================================================================
 
 |mchoice|
@@ -183,7 +183,7 @@ Have you and your husband ever had a loan application rejected during the past y
 2. No, but we had the loan amount decreased
 3. No
 
-Have you and your husband ever given up asking for a loan during the past year (October  |syear prev|  to September |syear|  ) because you thought it would be rejected?
+Have you and your husband ever given up asking for a loan during the past year (October  |syear prev|  -- September |syear|  ) because you thought it would be rejected?
 ===================================================================================================================================================================================
 
 1. Yes
@@ -193,8 +193,8 @@ Are you going to get a new or additional loan in the future?
 ===========================================================================================================================================================
 
 1. Yes
-2. No ----> (Go to :numref:`Section{number} <durable-goods>`)
-3. Don’t know ----> (Go to :numref:`Section{number} <durable-goods>`)
+2. No ----> (Go to :doc:`durable-goods`)
+3. Don’t know ----> (Go to :doc:`durable-goods`)
 
 What companies or institutions are you going to choose as sources from which you borrow money?
 -------------------------------------------------------------------------------------------------------

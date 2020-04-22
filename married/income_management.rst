@@ -1,5 +1,3 @@
-.. _income-management:
-
 =======================
  Income management
 =======================
@@ -28,16 +26,16 @@ Please answer the following questions about income management in your household.
 
 
      * - 1. Did your husband have any income in September this year?
-       - | a. No ---->（Go to :numref:`Section{number} <Household-finances>`)
+       - | a. No ---->（Go to :doc:`household_finance`)
          | b. Yes
      * - 2. Did your husband hand over all of his income to you?
        - | a. No, only a part of it.
          | \  \   How much? \    ___ thousand yen
          | b. Yes ---->（Go to 4.)
      * - 3. Did you separate any money for yourself from it?
-       - | a. No ---->（Go to :numref:`Section{number} <Household-finances>`)
+       - | a. No ---->（Go to :doc:`household_finance`)
          | b. Yes
-         | \  \   How much? \    ___ thousand yen ---->（Go to :numref:`Section{number} <Household-finances>`)
+         | \  \   How much? \    ___ thousand yen ---->（Go to :doc:`household_finance`)
      * - 4. Did you separate any money for yourself from it?
        - | a. No ---->（Go to 19.)
          | b. Yes
@@ -104,4 +102,4 @@ Please answer the following questions about income management in your household.
          | b. Yes
          | \  \   How much? \    ___ thousand yen ---->（Go to 19.)
      * - 19. How much was your husband's spending money in September this year?
-       - | \  \   ___ thousand yen ---->（Go to :numref:`Section{number} <Household-finances>`)
+       - | \  \   ___ thousand yen ---->（Go to :doc:`household_finance`)

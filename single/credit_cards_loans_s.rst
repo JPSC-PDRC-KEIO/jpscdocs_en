@@ -172,7 +172,7 @@ How do you feel about the burden of your repayments?
 
 .. _a-loan-application-rejected_s:
 
-Have you ever had a loan application rejected during the past year (October  |syear prev|  to September |syear|  )?
+Have you ever had a loan application rejected during the past year (October  |syear prev|  -- September |syear|  )?
 ================================================================================================================================================
 
 |mchoice|
@@ -181,7 +181,7 @@ Have you ever had a loan application rejected during the past year (October  |sy
 2. No, but we had the loan amount decreased
 3. No
 
-Have you ever given up asking for a loan during the past year (October  |syear prev|  to September |syear|  ) because you thought it would be rejected?
+Have you ever given up asking for a loan during the past year (October  |syear prev|  -- September |syear|  ) because you thought it would be rejected?
 ===================================================================================================================================================================================
 
 1. Yes
@@ -191,8 +191,8 @@ Are you going to get a new or additional loan in the future?
 ===========================================================================================================================================================
 
 1. Yes
-2. No ----> (Go to :numref:`Section{number} <durable-goods_s>`)
-3. Don’t know ----> (Go to :numref:`Section{number} <durable-goods_s>`)
+2. No ----> (Go to :doc:`durable_goods_s`)
+3. Don’t know ----> (Go to :doc:`durable_goods_s`)
 
 What companies or institutions are you going to choose as sources from which you borrow money?
 -------------------------------------------------------------------------------------------------------

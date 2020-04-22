@@ -3,26 +3,47 @@
 ======================
 
 
-[If you have a child/ children, please answer Questions 1–6. If you do not have a child/children, please go to Section 9.]
+[If you have a child/ children, please answer Questions 1–6. If you do not have a child/children,  please go to :doc:`savings_property_s`.]
 
-Approximately how much have you spent on your child’s/children’s education in the past 12 months (October  |syear prev| –September |syear|  )? Please fill in the table below. If no costs has been incurred, please enter “0 yen.” (If school grade does not apply, please leave it blank).
+Approximately how much have you spent on your child’s/children’s education in the past 12 months (October  |syear prev| –September |syear|  )? Please fill in the table below. If no costs has been incurred, please enter “0 yen.”.
 =======================================================================================================================================================================================================================================================================================================================
+
+(If school grade does not apply, please leave it blank)
 
 .. csv-table::
     :header-rows: 1
     :widths: 2, 2, 3, 3, 3, 3, 3, 3, 3
 
-    "", "Sex", "Educational stage (see codes below)", "School grade", "Type of School", "School-related expenses \*1", "Learning outside school \*2", "Extracurricular lessons \*3",	"Allowance \*4"
-    "First child", "1.male \   2.female", "", "\_____ year", "1.national \    2.public \    3.private", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen"
-    "2nd", "1.male \   2.female", "", "\_____ year", "1.national \    2.public \    3.private", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen"
-    "3rd", "1.male \   2.female", "", "\_____ year", "1.national \    2.public \    3.private", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen"
-    "4th", "1.male \   2.female", "", "\_____ year", "1.national \    2.public \    3.private", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen", "\_____ ten thousand yen"
+    "", "| Sex
+    | ", "| Educational stage
+    | (see codes below)", "| School grade
+    | ", "| Type of School
+    | ", "| School-related expenses
+    | \*1", "| Learning outside school
+    | \*2", "| Extracurricular lessons
+    | \*3",	"| Allowance
+    | \*4"
+    "First child", "| 1. male
+    | 2. female", "", "\__ __ __ year", "| 1. national
+    | 2. public
+    | 3. private", "\__ __ __ ten thousand yen", "\__ __ __ ten thousand yen", "\__ __ __ ten thousand yen", "\__ __ __ ten thousand yen"
+    "2nd", "| 1. male
+    | 2. female", "", "\__ __ __ year", "| 1. national
+    | 2. public
+    | 3. private", "\__ __ __ ten thousand yen", "\__ __ __ ten thousand yen", "\__ __ __ ten thousand yen", "\__ __ __ ten thousand yen"
+    "3rd", "| 1. male
+    | 2. female", "", "\__ __ __ year", "| 1. national
+    | 2. public
+    | 3. private", "\__ __ __ ten thousand yen", "\__ __ __ ten thousand yen", "\__ __ __ ten thousand yen", "\__ __ __ ten thousand yen"
+    "4th and later", "", "", "", "| (The total cost of education
+    | for the fourth and later children —->)", "\__ __ __ ten thousand yen", "\__ __ __ ten thousand yen", "\__ __ __ ten thousand yen", "\__ __ __ ten thousand yen"
 
-\
- | \*1 tuition, entrance	fee, cost for school events	and teaching materials, club activities, travel, uniform, bags, etc.
- | \*2 cram school, English conversation lessons, reference books, correspondence tuition, etc.
- | \*3 piano, swimming, abacus, etc.
- | \*4 money sent to those living outside the home, housing expenses, etc.
+
+
+| \*1 tuition, entrance	fee, cost for school events	and teaching materials, club activities, travel, uniform, bags, etc.
+| \*2 cram school, English conversation lessons, reference books, correspondence tuition, etc.
+| \*3 piano, swimming, abacus, etc.
+| \*4 money sent to those living outside the home, housing expenses, etc.
 
 
 
@@ -95,7 +116,7 @@ Do you have anyone to ask about child-rearing?
 Do you use any child-care services for your child(ren) provided by an authorized nursery school, unauthorized nursery school, kindergarten, babysitter, housekeeper, your relatives, your friends, etc.?
 ==============================================================================================================================================================================================================
 
-1. Yes    2. No → (Go to :numref:`Q{number} <are-you-receiving_s>`)
+1. Yes    2. No —-> (Go to :numref:`Q{number} <are-you-receiving_s>`)
 
 
 Please write down the number of child(ren) who use(s) each service shown below. If you send your child(ren) to a nursery school or kindergarten, etc., how much did you pay for the fees in September of this year? If you have more than two pre-school-age children, please write the total amount spent for all of them.

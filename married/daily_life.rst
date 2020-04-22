@@ -75,10 +75,10 @@ If you or your husband do two or more activities on weekdays or days off, choose
 How many days off do you or your husband have a week?
 ===========================================================
 
- (Count a day off every 2 weeks as a half day and enter it as 0.5.)
+ [Answer two days off every one week as 2.0. Count a day off every 2 weeks as a half day and enter it as 0.5.]
 
-1. My days off ___.___ days	\      0. Unemployed
-2. My husband's days off ___.___ days	\      0. Unemployed
+1. My days off ___.___ days \  X. Unemployed
+2. My husband's days off ___.___ days \  X. Unemployed
 
 .. todo::
 

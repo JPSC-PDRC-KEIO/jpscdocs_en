@@ -6,7 +6,7 @@ Have you taken any classes at schools categorized as "miscellaneous" below, such
 ==========================================================================================================================================================================================================================================================================================
 
 1. Yes, I have
-2. No, I haven’t ----> (Go to :numref:`Section{number} <your-child_s>`.`)
+2. No, I haven’t ----> (Go to :doc:`your_child_s`)
 
 What kind of courses have you taken? (Include correspondence courses)
 ---------------------------------------------------------------------------

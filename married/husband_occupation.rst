@@ -62,7 +62,7 @@ What is your husband's main job at present?
 10. Clerical employee
 11. Skilled employee
 12. Sales & service employee
-13. Paying job at home (home worker) ----> (Go to :numref:`Section{number} <about-income-management>`)
+13. Paying job at home (home worker) ----> (Go to :doc:`about-income_management`)
 
 
 [Questions Q4.4 to Q4.20 ask about the main job you circled in Q4.3.]
@@ -189,7 +189,7 @@ How many hours of unpaid overtime, so-called “service overtime” does he put 
 7. 21 hours or more
 8. We have no overtime work
 
-How many days did your husband actually work in the past year (October  |syear prev|  to September |syear|  )?
+How many days did your husband actually work in the past year (October  |syear prev|  -- September |syear|  )?
 =======================================================================================================================
 
 1. Under 50 days
@@ -280,7 +280,7 @@ Was he working as a temporary employee of a temporary employment agency one year
 2. No ---> (Go to :numref:`Q{number} <work-in-the-same-company-husband>`)
 
 
-Over the past 12 months (from October  |syear prev|  to September |syear|  ), has there been any change in A. the temporary employment agency your husband is registered with or B. the workplace he is dispatched to (where he actually works)?
+Over the past 12 months (from October  |syear prev|  -- September |syear|  ), has there been any change in A. the temporary employment agency your husband is registered with or B. the workplace he is dispatched to (where he actually works)?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *(a) Temporary employment agency you are registered with*
@@ -315,7 +315,7 @@ Are there more employees now than there were one year ago in the company or orga
 5. Fewer, by at least 30%
 6. Public agency
 
-Was he transferred to another position or office in the past year (October  |syear prev|  to September |syear|  )?
+Was he transferred to another position or office in the past year (October  |syear prev|  -- September |syear|  )?
 -------------------------------------------------------------------------------------------------------------------------
 
 1. Yes, to another office and, as a result, he moved location
@@ -324,14 +324,14 @@ Was he transferred to another position or office in the past year (October  |sye
 4. No
 
 
-Was there any change in his work over the past year (October  |syear prev|  to September |syear|  )?
+Was there any change in his work over the past year (October  |syear prev|  -- September |syear|  )?
 ---------------------------------------------------------------------------------------------------------
 
 1. No
 2. Yes
 
 .. jump::
-   Please go to :numref:`Q{number} <income-management>`.
+   Please go to :doc:`income_management`.
 
 [If you answered "2. No" to Q4.16, please answer following questions.]
 
@@ -341,9 +341,9 @@ Why does he now work at a different company or organization from the one where h
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Because he changed this job
-2. Because he was temporarily transferred to the company or organization where he works now ----> (Go to :numref:`Section{number} <income-management>`)
-3. Because he transferred his domicile ----> (Go to :numref:`Section{number} <income-management>`)
-4. Because he was transferred due to a company merger or company split ----> (Go to :numref:`Section{number} <income-management>`)
+2. Because he was temporarily transferred to the company or organization where he works now ----> (Go to :doc:`income_management`)
+3. Because he transferred his domicile ----> (Go to :doc:`income_management`)
+4. Because he was transferred due to a company merger or company split ----> (Go to :doc:`income_management`)
 
 .. _When-did-your-husband-leave-the-company:
 
@@ -419,7 +419,7 @@ Why did he choose the company or organization where he works now?
 11. Other (Please specify: _______________ )
 
 
-How many months has he worked in the past year (October  |syear prev|  to September |syear|  )?
+How many months has he worked in the past year (October  |syear prev|  -- September |syear|  )?
 ---------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where he worked one year ago and at his present workplace.]
@@ -427,7 +427,7 @@ How many months has he worked in the past year (October  |syear prev|  to Septem
  For __ __ months
 
 
-How many months was he job-hunting in the past year (October  |syear prev|  to September |syear|  )?
+How many months was he job-hunting in the past year (October  |syear prev|  -- September |syear|  )?
 ----------------------------------------------------------------------------------------------------------------
 
 [If he didn’t look for a job in the past year, please write 0.]
@@ -446,7 +446,7 @@ Did he receive unemployment benefit (from employment insurance) when he quit his
 5. No, he was not registered for employment insurance
 
 
-How many companies and organizations has he worked for in the past year (October  |syear prev|  to September |syear|  )?
+How many companies and organizations has he worked for in the past year (October  |syear prev|  -- September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where he worked one year ago and at his present workplace)]
@@ -460,7 +460,7 @@ When did he start at the company or organization where he works now?
  In the month: __ __
 
 .. jump::
-   Please go to :numref:`Section{number} <income-management>`.
+   Please go to  :doc:`income_management`.
 
 [If you answered "3.Student", "4.Unemployed" to Q4.1, please answer following questions.]
 
@@ -533,14 +533,14 @@ How do you feel now about your husband quitting or changing his job?
 
 .. _how-many-months-work-husband:
 
-How many months did he work in the past year (October  |syear prev|  to September |syear|  )?
+How many months did he work in the past year (October  |syear prev|  -- September |syear|  )?
 ---------------------------------------------------------------------------------------------------
 
  For __ __ months
 
 0. He didn’t work at all ----> (Go to :numref:`Q{number} <plan-to-work-husband>`)
 
-How many companies and organizations has he worked for in the past year (October  |syear prev|  to September |syear|  )?
+How many companies and organizations has he worked for in the past year (October  |syear prev|  -- September |syear|  )?
 ----------------------------------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where he worked one year ago and at his present workplace.]
@@ -572,7 +572,7 @@ What is he doing now to prepare for working in the future?
 5. Nothing specific ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-husband>`)
 
 
-How many months has he looked for a job in the past year (October  |syear prev|  to September |syear|  )?
+How many months has he looked for a job in the past year (October  |syear prev|  -- September |syear|  )?
 ----------------------------------------------------------------------------------------------------------------
 
  For __ __ months

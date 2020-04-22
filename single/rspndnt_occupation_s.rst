@@ -62,7 +62,7 @@ What is your main job at present?
 10.	Clerical employee
 11.	Skilled employee
 12.	Sales & service employee
-13.	Paying job at home (home worker)  ----> (Go to :numref:`Section{number} <Household-finances_s>`)
+13.	Paying job at home (home worker)  ----> (Go to :doc:`household_finance_s`)
 
 
 [Questions Q2.4 to Q2.20 ask about the main job you circled in Q2.3.]
@@ -189,7 +189,7 @@ How many hours of unpaid overtime, so-called “service overtime” do you do pe
 7. 21 hours or more
 8. We have no overtime work
 
-How many days did you actually work in the past year (October  |syear prev|  to September |syear|  )?
+How many days did you actually work in the past year (October  |syear prev|  -- September |syear|  )?
 ==================================================================================================================
 
 1. Under 50 days
@@ -309,7 +309,7 @@ What was the seminar or course?
 6. Studying abroad
 7. Other (Please specify: _______________ )
 
-How many total days did you participate in seminars and courses in the past year (October  |syear prev|  to September |syear|  )?
+How many total days did you participate in seminars and courses in the past year (October  |syear prev|  -- September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Within 1 day
@@ -497,7 +497,7 @@ Were you working as a temporary employee of a temporary employment agency one ye
 2. No ---> (Go to :numref:`Q{number} <work-in-the-same-company-respondent_s>`)
 
 
-Over the past 12 months (from October  |syear prev|  to September |syear|  ), has there been any change in A. the temporary employment agency you are registered with or B. the workplace you are dispatched to (where you actually work)?
+Over the past 12 months (from October  |syear prev|  -- September |syear|  ), has there been any change in A. the temporary employment agency you are registered with or B. the workplace you are dispatched to (where you actually work)?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *(a) Temporary employment agency you are registered with*
@@ -532,7 +532,7 @@ Are there more employees now than there were one year ago in the company or orga
 5. Fewer, by at least 30%
 6. Public agency
 
-Were you transferred to another position or office in the past year (October  |syear prev|  to September |syear|  )?
+Were you transferred to another position or office in the past year (October  |syear prev|  -- September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------------------
 
 1. Yes, to another office and, as a result, I moved location
@@ -542,14 +542,14 @@ Were you transferred to another position or office in the past year (October  |s
 
 .. todo:: ↓ここから無配偶用のリンク
 
-Was there any change in your work over the past year (October  |syear prev|  to September |syear|  )?
+Was there any change in your work over the past year (October  |syear prev|  -- September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------
 
 1. No
 2. Yes
 
 .. jump::
-   Please go to :Section:`Q{number} <Household-finances_s>`.
+   Please go to :doc:`household_finance_s`.
 
 [If you answered "2. No" to Q2.21, please answer following questions.]
 
@@ -559,9 +559,9 @@ Why do you now work at a different company or organization from the one where yo
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Because I changed my job
-2. Because I was temporarily transferred to the company or organization where I work now ----> (Go to :numref:`Section{number} <Household-finances_s>`)
-3. Because I transferred my domicile ----> (Go to :numref:`Section{number} <Household-finances_s>`)
-4. Because I was transferred due to a company merger or company split ----> (Go to :numref:`Section{number} <Household-finances_s>`)
+2. Because I was temporarily transferred to the company or organization where I work now ----> (Go to :doc:`household_finance_s`)
+3. Because I transferred my domicile ----> (Go to :doc:`household_finance_s`)
+4. Because I was transferred due to a company merger or company split ----> (Go to :doc:`household_finance_s`)
 
 .. _When-did-you-leave-the-company-respondent_s:
 
@@ -641,14 +641,14 @@ Why did you choose the company or organization where you work now?
 12.	Other (Please specify: _______________ )
 
 
-How many months have you worked in the past year (October  |syear prev|  to September |syear|  )?
+How many months have you worked in the past year (October  |syear prev|  -- September |syear|  )?
 -----------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where you worked one year ago and at your present workplace.]
 
  For __ __ months
 
-How many months were you job-hunting in the past year (October  |syear prev|  to September |syear|  )?
+How many months were you job-hunting in the past year (October  |syear prev|  -- September |syear|  )?
 ----------------------------------------------------------------------------------------------------------
 
 [If you didn’t look for a job in the past year, please write 0.]
@@ -668,7 +668,7 @@ Did you receive unemployment benefit (from employment insurance) when you quit y
 5. No, I was not registered for employment insurance
 
 
-How many companies and organizations have you worked for in the past year (October  |syear prev|  to September |syear|  )?
+How many companies and organizations have you worked for in the past year (October  |syear prev|  -- September |syear|  )?
 --------------------------------------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where you worked one year ago and at your present workplace)]
@@ -682,7 +682,7 @@ When did you start at the company or organization where you work now?
  In the month: __ __
 
  .. jump::
-    Please go to :numref:`Q{number} <Household-finances>`.
+    Please go to :numref:`Q{number} <household_finance_s>`.
 
 [If you answered "3.Student", "4.Housewife and not working from home", or "5. Unemployed" to Q2.1, please answer following questions.]
 
@@ -755,14 +755,14 @@ How do you feel now about quitting or changing your job?
 
 .. _how-many-months-work-respondent_s:
 
-How many months did you work in the past year (October  |syear prev|  to September |syear|  )?
+How many months did you work in the past year (October  |syear prev|  -- September |syear|  )?
 --------------------------------------------------------------------------------------------------
 
  For __ __ months
 
 0. I didn’t work at all ----> (Go to :numref:`Q{number} <plan-to-work-respondent_s>`)
 
-How many companies and organizations have you worked for in the past year (October  |syear prev|  to September |syear|  )?
+How many companies and organizations have you worked for in the past year (October  |syear prev|  -- September |syear|  )?
 -----------------------------------------------------------------------------------------------------------------------------------
 
 [Include time worked—both full-time and part-time—at the company or organization where you worked one year ago and at your present workplace.]
@@ -794,7 +794,7 @@ What are you doing now to prepare for working in the future?
 5. Nothing specific  ----> (Go to :numref:`Q{number} <receive-unemployment-benefit-respondent_s>`)
 
 
-How many months have you been job-hunting in the past year (October  |syear prev|  to September |syear|  ) ?
+How many months have you been job-hunting in the past year (October  |syear prev|  -- September |syear|  ) ?
 ---------------------------------------------------------------------------------------------------------------------
 
  For __ __ months

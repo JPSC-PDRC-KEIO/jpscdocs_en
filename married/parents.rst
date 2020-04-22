@@ -4,7 +4,7 @@
  Relationship with your parents and your husband’s parents
 ================================================================
 
-How much was the total annual income (before tax) of your parent(s) in the past year (January  |syear prev|  to December  |syear prev| )?
+How much was the total annual income (before tax) of your parent(s) in the past year (January  |syear prev|  -- December  |syear prev| )?
 =============================================================================================================================================
 
 1. Not more than 2.49 million yen
@@ -16,7 +16,7 @@ How much was the total annual income (before tax) of your parent(s) in the past 
 7. 15.00 million yen or more
 8. (I had already lost my parents.)
 
-How much was the total annual income (before tax) of your husband’s parent(s) in the past year (January  |syear prev|  to December  |syear prev| )?
+How much was the total annual income (before tax) of your husband’s parent(s) in the past year (January  |syear prev|  -- December  |syear prev| )?
 ========================================================================================================================================================
 
 1. Not more than 2.49 million yen
@@ -28,7 +28,7 @@ How much was the total annual income (before tax) of your husband’s parent(s) 
 7. 15.00 million yen or over
 8. (He had already lost his parents.)
 
-Have you and your husband received financial and real assets from your parent(s) during the past year (January  |syear prev|  to December  |syear prev| )?
+Have you and your husband received financial and real assets from your parent(s) during the past year (January  |syear prev|  -- December  |syear prev| )?
 ===============================================================================================================================================================
 
 .. list-table::
@@ -41,38 +41,33 @@ Have you and your husband received financial and real assets from your parent(s)
    * - As gifts before death
      - | 1. No, we have not received any
        | 2. Yes, we have received some
+       | —-> \__ __ __ __ ten thousand yen
      - | 1. No, we have not received any
        | 2. Yes, we have received some
+       | —-> \__ __ __ __ ten thousand yen
    * - As legacies
      - | 1. No, we have not received any
        | 2. Yes, we have received some
+       | —-> \__ __ __ __ ten thousand yen
      - | 1. No, we have not received any
        | 2. Yes, we have received some
-
-
-If you have, please fill in the current value of the assets below.
-------------------------------------------------------------------
-
-.. csv-table::
-   :header-rows: 1
-   :widths: 5, 10, 10
-
-   "", Financial assets, Real assets
-   As gifts before death, ____ ten thousand yen, ____ ten thousand yen
-   As legacies, ____ ten thousand yen, ____ ten thousand yen
+       | —-> \__ __ __ __ ten thousand yen
 
 
 Do you and your husband expect to receive financial and real assets from your parent(s) in the future?
 ==================================================================================================================
+
+|schoice|
 
 1. Yes
 2. No
 3. My parents have passed away
 
 
-
-Have you and your husband received financial and real assets from your husband’s parent(s) during the past year (January  |syear prev|  to December  |syear prev| )?
+Have you and your husband received financial and real assets from your husband’s parent(s) during the past year (January  |syear prev|  -- December  |syear prev| )?
 ===========================================================================================================================================================================
+
+|schoice|
 
 .. list-table::
    :header-rows: 1
@@ -84,31 +79,23 @@ Have you and your husband received financial and real assets from your husband�
    * - As gifts before death
      - | 1. No, we have not received any
        | 2. Yes, we have received some
+       | —-> \__ __ __ __ ten thousand yen
      - | 1. No, we have not received any
        | 2. Yes, we have received some
+       | —-> \__ __ __ __ ten thousand yen
    * - As legacies
      - | 1. No, we have not received any
        | 2. Yes, we have received some
+       | —-> \__ __ __ __ ten thousand yen
      - | 1. No, we have not received any
        | 2. Yes, we have received some
-
-
-If you have, please fill in the current value of the assets below.
-------------------------------------------------------------------
-
-.. csv-table::
-   :header-rows: 1
-   :widths: 5, 10, 10
-
-   "", Financial assets, Real assets
-   As gifts before death, ____ ten thousand yen, ____ ten thousand yen
-   As legacies, ____ ten thousand yen, ____ ten thousand yen
-
-
+       | —-> \__ __ __ __ ten thousand yen
 
 
 Do you and your husband expect to receive financial and real assets from your husband’s parent(s) in the future?
 =============================================================================================================================
+
+|schoice|
 
 1. Yes
 2. No
@@ -117,7 +104,7 @@ Do you and your husband expect to receive financial and real assets from your hu
 Will you and your husband provide financial support to your parent(s) from now?
 ====================================================================================
 
-(Circle only one.)
+|schoice|
 
 1. Yes, we do so now
 2. Yes, we plan to do so in the future
@@ -127,7 +114,7 @@ Will you and your husband provide financial support to your parent(s) from now?
 Will you and your husband take care of your parent(s) (providing or arranging housework or nursing care, visiting them, etc.)
 =========================================================================================================================================
 
-(Circle only one.)
+|schoice|
 
 1. Yes, we do so now.
 2. Yes, we plan to do so.
@@ -137,7 +124,7 @@ Will you and your husband take care of your parent(s) (providing or arranging ho
 Will you and your husband provide financial support to your husband’s parent(s) from now?
 ======================================================================================================
 
-(Circle only one.)
+|schoice|
 
 1. Yes, we do so now.
 2. Yes, we plan to do so.
@@ -147,7 +134,7 @@ Will you and your husband provide financial support to your husband’s parent(s
 Will you and your husband take care of your husband’s parent(s)? (housework, nursing care, visitation, etc.)
 =============================================================================================================
 
-(Circle only one.)
+|schoice|
 
 1. Yes, we do so now.
 2. Yes, we plan to do so.

@@ -4,7 +4,7 @@ Changes that occurred in your household in the past year
 
 .. todo:: 無配偶票
 
-Which changes occurred in your household in the past year (October |syear prev| to September |syear|  )?
+Which changes occurred in your household in the past year (October |syear prev| -- September |syear|  )?
 ===============================================================================================================
 
 |mchoice|
@@ -29,9 +29,9 @@ Which changes occurred in your household in the past year (October |syear prev| 
 12. There was no change in my household ----> (Go to :numref:`Q{number} <preparation-for-school_s>`)
 
 
-[If you gave birth in the past year (October |syear prev| to September |syear|  ), please answer following question. If not, move to :numref:`Q{number} <preparation-for-school_s>`.]
+[If you gave birth in the past year (October |syear prev| -- September |syear|  ), please answer following question. If not, move to :numref:`Q{number} <preparation-for-school_s>`.]
 
-If you gave birth in the past year (October |syear prev| to September |syear|  ),
+If you gave birth in the past year (October |syear prev| -- September |syear|  ),
 ===========================================================================================
 
 Your new baby is your:
@@ -105,7 +105,7 @@ Did you use the childcare leave system or childcare time?
 3. There was (or is) no such system
 
 
-[Following question is for parents whose children started primary school or later schooling in the past 1 year (October  |syear prev|  to September |syear|  ). If this does not apply to you, please go to :numref:`Q{number} <who-died_s>`.]
+[Following question is for parents whose children started primary school or later schooling in the past 1 year (October  |syear prev|  -- September |syear|  ). If this does not apply to you, please go to :numref:`Q{number} <who-died_s>`.]
 
 .. _preparation-for-school_s:
 
@@ -124,7 +124,7 @@ How was preparation for your child’s school entry (e.g., purchasing a desk and
 8. Other (Please specify: _______________ )
 
 
-[Please answer following question if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October  |syear prev|  to September |syear|  ). If not, go to :numref:`Q{number} <following-events_s>`.]
+[Please answer following question if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October  |syear prev|  -- September |syear|  ). If not, go to :numref:`Q{number} <following-events_s>`.]
 
 .. _who-died_s:
 
@@ -141,7 +141,7 @@ Who died?
 6. My child(ren)
 7. Other (Please specify: _______________ )
 
-[Please answer the following question if two or more of your parents died in the past year (October  |syear prev|  to September |syear|  ). If not, go to  :numref:`Q{number} <How-was-the-property-left_s>`.]
+[Please answer the following question if two or more of your parents died in the past year (October  |syear prev|  -- September |syear|  ). If not, go to  :numref:`Q{number} <How-was-the-property-left_s>`.]
 
 Choose one of them for whom all problems of inheritance were solved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -264,7 +264,7 @@ Please circle “Yes” or “No” for the following questions about the curren
      - 2
 
 
-Which of the following events happened to you in the past year (October  |syear prev|  to September |syear|  )?
+Which of the following events happened to you in the past year (October  |syear prev|  -- September |syear|  )?
 =======================================================================================================================
 
 |schoice|
@@ -292,7 +292,7 @@ Did you move house in the past year? (Including because of getting married.)
 1. Yes
 2. No
 
-What event(s) did other members of your household have in the past year (October  |syear prev|  to September |syear|  )?
+What event(s) did other members of your household have in the past year (October  |syear prev|  -- September |syear|  )?
 ====================================================================================================================================
 
 |mchoice|

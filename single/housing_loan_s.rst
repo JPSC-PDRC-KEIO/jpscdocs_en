@@ -7,7 +7,7 @@ Are you and your husband currently repaying any housing loans?
 
 
 1. Yes
-2. No → (Go to :numref:`Section{number} <credit-cards-loans_s>`)
+2. No —-> (Go to :doc:`credit_cards_loans_s`)
 
 
 How much is the total balance due on the housing loan(s) and the amount of loan(s) repaid during the past year (October  |syear prev|  - - September |syear|  )? (Renewed loans included.)

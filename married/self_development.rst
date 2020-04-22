@@ -6,7 +6,7 @@ Have you taken any classes at schools categorized as "miscellaneous" below, such
 ==========================================================================================================================================================================================================================================================================================
 
 1. Yes, I have
-2. No, I haven’t ----> (Go to :numref:`Section{number} <your-child>`.`)
+2. No, I haven’t ----> (Go to :doc:`your_child`)
 
 What kind of courses have you taken? (Include correspondence courses)
 ---------------------------------------------------------------------------
@@ -23,7 +23,7 @@ What kind of courses have you taken? (Include correspondence courses)
 8. University or college (department of telecommunications or a broadcasting college)
 9. Graduate school
 10. Paid distance learning
-11. Community/culture center
+11. Community/Culture center
 12. Other (Specify: _____________ )
 
 .. note::

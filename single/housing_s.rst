@@ -212,7 +212,7 @@ Do you plan to live apart from your parent(s) in the future? Or do you want to l
 
 .. _purchased-a-lot_s:
 
-Did you purchase a lot or house during the past year (October  |syear prev|  to September |syear|  ) to live there yourself or use it as a second house (including a newly built house or a lot/house purchased under joint ownership with your parent(s) or your husband's parent(s))?
+Did you purchase a lot or house during the past year (October  |syear prev|  -- September |syear|  ) to live there yourself or use it as a second house (including a newly built house or a lot/house purchased under joint ownership with your parent(s) or your husband's parent(s))?
 ==================================================================================================================================================================================================================================================================================================================
 
 1. I purchased a lot only
@@ -240,7 +240,7 @@ How much was the purchase price? (Enter the price for the house or apartment in 
 
 .. _sold-a-lot_s:
 
-Did you sell the lot/house that you lived in or/and your second house during the past year (October  |syear prev|  to September |syear|  )? (Include a house owned under joint ownership with your parent(s).)
+Did you sell the lot/house that you lived in or/and your second house during the past year (October  |syear prev|  -- September |syear|  )? (Include a house owned under joint ownership with your parent(s).)
 =========================================================================================================================================================================================================================================
 
 1. I sold only the lot.

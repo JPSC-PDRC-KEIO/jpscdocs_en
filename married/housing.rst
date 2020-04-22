@@ -156,7 +156,7 @@ Does your family live together with, or separately from, your parents or your hu
 2. My family shares the same house with my parent(s) or my husband's parent(s) but not the same income (two households living together)
 3. My family lives on the same lot as my parent(s) or my husband's parent(s) but not in the same house (double household living together)
 4. My parent(s) or my husband's parent(s) live in the same town as my family or within 1 km of our house (in a neighboring district)
-5. My parent(s) or my husband's parent(s) live in the same ward as my family in one of the 21 largest cities with wards in Japan [[would they know what these cities are? Do you give them a list?]]
+5. My parent(s) or my husband's parent(s) live in the same ward as my family in one of the 21 largest cities with wards in Japan
 6. My parent(s) or my husband's parent(s) live in the same municipality as my family, where we live outside the 21 largest cities with wards in Japan
 7. My parent(s) or my husband's parent(s) live in Tokyo or in same prefecture as my family
 8. My parent(s) or my husband's parent(s) live in a place other than those mentioned in items 1 to 7 above
@@ -276,13 +276,12 @@ Do you plan to live with your husband’s parent(s) from now? Or do you want to 
 4. We have no idea now, but we have thought about it before.
 5. We have never thought about it.
 
-|
-.. todo:: To all of you は  For all respondents  に変換
+
 [For all respondents]
 
 .. _purchased-a-lot:
 
-Did you and your husband purchase a lot or house during the past year (October  |syear prev|  to September |syear|  ) to live there yourself or use it as a second house (including a newly built house or a lot/house purchased under joint ownership with your parent(s) or your husband's parent(s))?
+Did you and your husband purchase a lot or house during the past year (October  |syear prev|  -- September |syear|  ) to live there yourself or use it as a second house (including a newly built house or a lot/house purchased under joint ownership with your parent(s) or your husband's parent(s))?
 ==================================================================================================================================================================================================================================================================================================================
 
 1. We purchased a lot only
@@ -310,7 +309,7 @@ How much was the purchase price? (Enter the price for the house or apartment in 
 
 .. _sold-a-lot :
 
-Did you and your husband sell the lot/house that you lived in or/and your second house during the past year (October  |syear prev|  to September |syear|  )? (Include a house owned under joint ownership with your parent(s).)
+Did you and your husband sell the lot/house that you lived in or/and your second house during the past year (October  |syear prev|  -- September |syear|  )? (Include a house owned under joint ownership with your parent(s).)
 =========================================================================================================================================================================================================================================
 
 1. We sold only the lot.
@@ -338,7 +337,7 @@ How much was the sale price? (Enter the price for the house or apartment in the 
 
 .. _extend-or-rebuild:
 
-Did you and your husband extend or rebuild the house you lived in and/or your second house during the past year (October  |syear prev|  - - September |syear|  )? (Include a house owned under joint ownership with your parent(s)or your husband's parent(s).)
+Did you and your husband extend or rebuild the house you lived in and/or your second house during the past year (October  |syear prev|  -- September |syear|  )? (Include a house owned under joint ownership with your parent(s)or your husband's parent(s).)
 ========================================================================================================================================================================================================================================================================
 
 1. We extended the house

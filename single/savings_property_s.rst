@@ -52,7 +52,7 @@ How much savings & deposits and securities does your household have?  Please ans
         | b. No ---->（Go to :numref:`Q{number} <how-much-do-you-plan-to-save_s>`)
    * - | 4. How much deposits & savings do you have?
      - \_____ ten thousand yen
-   * - | 5. Did you purchase any securities in the past year (October  |syear prev|  to September |syear|  )?
+   * - | 5. Did you purchase any securities in the past year (October  |syear prev|  -- September |syear|  )?
        | (Securities bought and then sold are included.)
      - | a. Yes
        | b. No

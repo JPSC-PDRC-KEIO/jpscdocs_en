@@ -57,7 +57,7 @@ How much savings & deposits and securities does your household have?  Please ans
    * - | 4. How much deposits & savings do you have?
      - \_____ ten thousand yen
      - \_____ ten thousand yen
-   * - | 5. Did you purchase any securities in the past year (October  |syear prev|  to September |syear|  )?
+   * - | 5. Did you purchase any securities in the past year (October  |syear prev|  -- September |syear|  )?
        | (Securities bought and then sold are included.)
      - | a. Yes, my family's (my husband’s, mine, and my child(ren)’s)
        | b. No
@@ -96,47 +96,47 @@ Also, for each item you answered “Yes,” what amount of money are you going t
     * -
       - Purpose of savings
       - Amount you plan to save
-    * - (a) To provide for living comfortably in our old age
+    * - (a)\  To provide for living comfortably in our old age
       - | Yes ---->
         | No
       - \_____ ten thousand yen
-    * - (b) To provide for unexpected expenses due to illness, disaster, accident, etc.
+    * - (b)\  To provide for unexpected expenses due to illness, disaster, accident, etc.
       -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (c) To pay the educational expenses for our child(ren)
+    * - (c)\  To pay the educational expenses for our child(ren)
       -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (d) To make save for our child(ren)’s wedding(s)
+    * - (d)\  To make save for our child(ren)’s wedding(s)
       -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (e) To purchase (or renovate or replace) our house (with lot)
+    * - (e)\  To purchase (or renovate or replace) our house (with lot)
       -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (f) To save for purchasing durable consumer goods
+    * - (f)\  To save for purchasing durable consumer goods
       -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (g) To make save to spend on leisure fund
+    * - (g)\  To make save to spend on leisure fund
       -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (h) To save for starting an independent business
+    * - (h)\  To save for starting an independent business
       -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (i) For no special purpose, but to feel free from anxiety with savings
+    * - (i)\  For no special purpose, but to feel free from anxiety with savings
       -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (j) To leave our savings for our child(ren) to inherit
+    * - (j)\  To leave our savings for our child(ren) to inherit
       -  | Yes ---->
          | No
       - \_____ ten thousand yen
-    * - (k) For other purposes (Please specify:    )
+    * - (k)\  For other purposes (Please specify:    )
       -  | Yes ---->
          | No
       - \_____ ten thousand yen
@@ -146,7 +146,7 @@ Also, for each item you answered “Yes,” what amount of money are you going t
 How much have you and your husband paid on the insurance premiums shown in the table below?
 ======================================================================================================
 
-[Insurance includes post office life and pension insurance, life insurance, personal pension insurance, installment non-life insurance, injury insurance, educational insurance, etc.)
+[Insurance includes post office life and pension insurance, life insurance, personal pension insurance, installment non-life insurance, injury insurance, educational insurance, etc.]
 
 .. list-table:: [A] Insurance where you are the policy holder. (Mark the chosen item number with a circle, and enter the amount of premium.)
     :header-rows: 1
@@ -181,4 +181,3 @@ How much have you and your husband paid on the insurance premiums shown in the t
     * - 3 No insurance contract
       -
       -
-      

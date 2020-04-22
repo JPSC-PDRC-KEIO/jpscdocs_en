@@ -1,5 +1,3 @@
-.. _Household-finances:
-
 ======================
 Household finances
 ======================
@@ -19,7 +17,7 @@ What was your total expenditure including savings (life insurance premiums, etc.
     | (Including life insurance premiums, etc.)", "__ __ __ thousand yen"
 
 
-.. list-table:: *[Expenditure breakdown]*
+.. list-table:: *Expenditure breakdown*
    :header-rows: 0
    :widths: 5, 4
 
@@ -35,7 +33,7 @@ What was your total expenditure including savings (life insurance premiums, etc.
      - \__ __ __ thousand yen
 
 
-.. list-table:: *[Saving breakdown]*
+.. list-table:: *Saving breakdown*
    :header-rows: 0
    :widths: 5, 4
 
@@ -118,11 +116,11 @@ Please write down your household expenditure in September this year.
    * - Other expenses
      - \__ __ __ thousand yen
    * - Total living expenses
-     - \__ __ __ thousand yen
+     - \__ __ __ __ thousand yen
 
 
 
-What was the total annual income of your household in the past calendar year (January  |syear prev|  to December  |syear prev| ), including income from assets, social insurance benefits, and money from your parent(s) and your husband's parents?
+What was the total annual income of your household in the past calendar year (January  |syear prev|  -- December  |syear prev| ), including income from assets, social insurance benefits, and money from your parent(s) and your husband's parents?
 =======================================================================================================================================================================================================================================================================================================
 
 (Please enter the amount broken down into the 5 categories below. If there was no income for any of the items, circle the answer “0 None”.)
@@ -136,37 +134,36 @@ What was the total annual income of your household in the past calendar year (Ja
    | ", "| Total of my husband's
    | and my annual incomes", "| Annual income earned by
    | other household member(s)"
-   "Earnings from employment", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
-   | 0. not apply", "*", "| __ __ __ ten thousand yen
+   "Earnings from employment", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "*", "| __ __ __ __ ten thousand yen
    | 0. not apply"
-   "Business income", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
-   | 0. not apply", "*", "| __ __ __ ten thousand yen
+   "Business income", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "*", "| __ __ __ __ ten thousand yen
    | 0. not apply"
-   "Income from assets", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
+   "Income from assets", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
    | 0. not apply"
-   "Social security benefits", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
+   "Social security benefits", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
    | 0. not apply"
-   "Other income", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
+   "Other income", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
    | 0. not apply"
-   "Total", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
-   | 0. not apply", "| __ __ __ ten thousand yen
+   "Total", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
+   | 0. not apply", "| __ __ __ __ ten thousand yen
    | 0. not apply
    | —-> (Go to :numref:`Q{number} <who-is-member>`)"
 
-|
 
 [If you filled in values in the question of Annual income earned by other household member(s), please answer the additional question below.]
 
@@ -188,7 +185,7 @@ Who is/are the member(s) of your household?
  9. Other (Specify: _______________)
 
 
-What was the total amount of tax (income, resident, and other taxes) and social insurance payments (health, public pension, employment, and other insurance premiums) that you, your husband, and other household member(s) paid in the past year (January  |syear prev|  to December  |syear prev| )?
+What was the total amount of tax (income, resident, and other taxes) and social insurance payments (health, public pension, employment, and other insurance premiums) that you, your husband, and other household member(s) paid in the past year (January  |syear prev|  -- December  |syear prev| )?
 =========================================================================================================================================================================================================================================================================================================
 
 (If any of these taxes or charges were not paid, circle "0 Not paid".)
@@ -212,7 +209,7 @@ Health insurance
 What kind of health insurance do you have?
 -----------------------------------------------
 
-(If any of answers 1 to 4 apply, please state whether you yourself are the insurer or any other family member is the insurer. When you are dependent on your spouse, please circle “2. Family”.)
+(Circle one from 1 to 6. If any of answers 1 to 4 apply, please state whether you yourself are the insurer or any other family member is the insurer.)
 
 .. csv-table::
    :header-rows: 1
@@ -244,19 +241,14 @@ If you are or your husband is a company employee or self-employed, how much was 
 
 (Exclude bonus and temporary allowances.)
 
-| (1)\  My husband’s take-home pay in September
-|  \ __ __ __ ten thousand yen
-|  0.    None
+| (1)\  My husband’s take-home pay in September —-> \ __ __ __ ten thousand yen
+|  0. None
 
-| (2)\  My take-home pay in September
-|  \ __ __ __ ten thousand yen
-|  0.    None
+| (2)\  My take-home pay in September —-> \ __ __ __ ten thousand yen
+|  0. None
 
 What household expenses do your parent(s) and your husband's parent(s) pay for
 =================================================================================
-
-What household expenses do your parent(s) pay for, even in partly for your household among the following items?
-------------------------------------------------------------------------------------------------------------------------------------
 
 |mchoice|
 
@@ -264,7 +256,8 @@ What household expenses do your parent(s) pay for, even in partly for your house
 2. House rent or land rent
 3. Living expenses
 4. Expenses for child(ren) (cost of education, clothing, etc.es and other)
-5. Other [Specify 6   None → (Go to (3))
+5. Other  (Please specify: _______________ )
+6. None —-> (Go to :numref:`Q{number} <how-much-husband_p>`)
 
 How much is the amount paid a month do your own parents pay per month?
 ----------------------------------------------------------------------------
@@ -281,7 +274,9 @@ Which household expenses do is paid by your husband's parent(s) pay for, even in
 3. Living expenses
 4. Expenses for child(ren) (cost of education, clothes and other)
 5. Other [Specify
-6. None → (Go to :numref:`Section{number} <parents>`)
+6. None —-> (Go to :doc:`parents`)
+
+.. _how-much-husband_p:
 
 How much do your husband’s parents pay per month?
 ----------------------------------------------------
