@@ -25,7 +25,7 @@ What is (are) the condition(s)?
 2. To have a larger house
 3. To be able to continue working after giving birth
 4. For other members of my household to help me with housekeeping and childcare
-5. To be able to use a childcare system such as a day nursery or day nursery
+5. To be able to use a childcare system such as a day nursery or a childcare professional
 6. Other (Specify: ______________	)
 ----> (Go to :numref:`Q{number} <How-many-children_s>`)
 

@@ -1,5 +1,3 @@
-.. _daily-life_s:
-
 =====================
 Your daily life
 =====================
@@ -45,10 +43,12 @@ If you do two or more activities on weekdays or days off, choose the most import
 How many days off do you have a week?
 ===========================================================
 
- (Count a day off every 2 weeks as a half day and enter it as 0.5.)
+[Answer two days off every one week as 2.0.Count a day off every 2 weeks as a half day and enter it as 0.5.]
+
 
     \___.___ days
-X. Unemployed
+
+  X. Unemployed
 
 
 What day is your day off in the week?

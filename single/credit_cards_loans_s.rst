@@ -1,5 +1,3 @@
-.. _credit-cards-loans_s:
-
 ======================================================
 Credit cards and loans, excluding a housing loan
 ======================================================
@@ -146,7 +144,7 @@ Choose code numbers from the code list below and enter them in the columns “(1
        | 34	The business hours were longer and night services were provided there
        | 35	Saturday and Sunday services were provided there
        | 36	The rate of interest was low there
-       | 37	We were earnestly solicited[[unclear]] by an employee in the company or institution
+       | 37	We were earnestly solicited by an employee in the company or institution
        | 38	Our friend(s) or acquaintance(s) recommended the source
        | 39	We had a credit card issued by the source
        | 40	The repayment seemed to be simple there

@@ -19,17 +19,12 @@ What kind of courses have you taken? (Include correspondence courses)
 4. Vocational and Special vocational school
 5. Junior college or technical college
 6. University or college (graduate)
-7. University or college (completed some courses, or as auditor[[??]] or research student)
+7. University or college (completed some courses, or as auditor or research student)
 8. University or college (department of telecommunications or a broadcasting college)
 9. Graduate school
 10. Paid distance learning
-11. Community/culture center
+11. Community/Culture center
 12. Other (Specify: _____________ )
-
-.. note::
-
-  10	★追加  民間の通信教育
-  11	★追加  公民館・カルチャーセンター
 
 
 Did you graduate from school in the past year?

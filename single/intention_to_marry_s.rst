@@ -48,7 +48,7 @@ Why do you not get married?
 3. Life doesn’t always improve by getting married
 4. I don’t feel any need to get married because I’m financially independent
 5. There are few men that will treat me as an equal partner
-6. It‘s better to have relationships with men without being married[[Correct as edited?]]
+6. It‘s better to have relationships with men without being married
 7. I have no interest in being married
 8. I’m skeptical about the institution of marriage
 9. Other (Please specify: _______________ )

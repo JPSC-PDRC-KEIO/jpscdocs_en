@@ -77,12 +77,11 @@ How many days off do you or your husband have a week?
 
  [Answer two days off every one week as 2.0. Count a day off every 2 weeks as a half day and enter it as 0.5.]
 
-1. My days off ___.___ days \  X. Unemployed
-2. My husband's days off ___.___ days \  X. Unemployed
+1. My days off ___.___ days
+ X. Unemployed
+2. My husband's days off ___.___ days
+ X. Unemployed
 
-.. todo::
-
-  ↑  0.は日本語版では
 
 What day is your and your husband's day off in the week?
 ================================================================

@@ -137,7 +137,7 @@ Does your family live together with, or separately from, your parents or your hu
 2. My family shares the same house with my parent(s) but not the same income (two households living together)
 3. My family lives on the same lot as my parent(s) but not in the same house (double household living together)
 4. My parent(s) live in the same town as my family or within 1 km of our house (in a neighboring district)
-5. My parent(s) live in the same ward as my family in one of the 21 largest cities with wards in Japan [[would they know what these cities are? Do you give them a list?]]
+5. My parent(s) live in the same ward as my family in one of the 21 largest cities with wards in Japan
 6. My parent(s) live in the same municipality as my family, where we live outside the 21 largest cities with wards in Japan
 7. My parent(s) live in Tokyo or in same prefecture as my family
 8. My parent(s) live in a place other than those mentioned in items 1 to 7 above
