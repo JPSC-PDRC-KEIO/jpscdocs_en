@@ -6,7 +6,7 @@ Family and marriage
 What do you think about the following statements? Please choose the answer that best describes your thinking.
 ===============================================================================================================================================
 
-(Circle one for each question.)
+|echoice|
 
 .. csv-table::
    :header-rows: 1
@@ -21,38 +21,38 @@ What do you think about the following statements? Please choose the answer that 
 What is your current husband like in terms of his relationship with you? Please choose one answer for each of the following.
 ==================================================================================================================================================================================
 
-(Circle one for each question.)
+|echoice|
 
 .. csv-table::
    :header-rows: 1
    :widths: 10, 2, 2, 2, 2
 
     "", "Agree", "Somewhat agree", "Somewhat disagree", "Disagree"
-    "(1)A good friend",  \    1,  \    2,  \    3,  \    4
-    "(2)Someone to take on life with",  \    1,  \    2,  \    3,  \    4
-    "(3)Very close, as if we are the same person",  \    1,  \    2,  \    3,  \    4
-    "(4)Has common interests",  \    1,  \    2,  \    3,  \    4
-    "(5)Financially reliable",  \    1,  \    2,  \    3,  \    4
-    "(6)A protector, like a father",  \    1,  \    2,  \    3,  \    4
-    "(7)Supports me psychologically",  \    1,  \    2,  \    3,  \    4
-    "(8)Sexually attractive",  \    1,  \    2,  \    3,  \    4
-    "(9)Wants my attention like a child",  \    1,  \    2,  \    3,  \    4
-    "(10)Like air",  \    1,  \    2,  \    3,  \    4
-    "(11)Cute",  \    1,  \    2,  \    3,  \    4
-    "(12)Helps me with household chores and childcare",  \    1,  \    2,  \    3,  \    4
-    "(13)Needs a lot of attention",  \    1,  \    2,  \    3,  \    4
-    "(14)Limits my freedom",  \    1,  \    2,  \    3,  \    4
-    "(15)Financially unreliable",  \    1,  \    2,  \    3,  \    4
-    "(16)Not easy to get on well with",  \    1,  \    2,  \    3,  \    4
+    "(1)\  A good friend",  \    1,  \    2,  \    3,  \    4
+    "(2)\  Someone to take on life with",  \    1,  \    2,  \    3,  \    4
+    "(3)\  Very close, as if we are the same person",  \    1,  \    2,  \    3,  \    4
+    "(4)\  Has common interests",  \    1,  \    2,  \    3,  \    4
+    "(5)\  Financially reliable",  \    1,  \    2,  \    3,  \    4
+    "(6)\  A protector, like a father",  \    1,  \    2,  \    3,  \    4
+    "(7)\  Supports me psychologically",  \    1,  \    2,  \    3,  \    4
+    "(8)\  Sexually attractive",  \    1,  \    2,  \    3,  \    4
+    "(9)\  Wants my attention like a child",  \    1,  \    2,  \    3,  \    4
+    "(10)\  Like air",  \    1,  \    2,  \    3,  \    4
+    "(11)\  Cute",  \    1,  \    2,  \    3,  \    4
+    "(12)\  Helps me with household chores and childcare",  \    1,  \    2,  \    3,  \    4
+    "(13)\  Needs a lot of attention",  \    1,  \    2,  \    3,  \    4
+    "(14)\  Limits my freedom",  \    1,  \    2,  \    3,  \    4
+    "(15)\  Financially unreliable",  \    1,  \    2,  \    3,  \    4
+    "(16)\  Not easy to get on well with",  \    1,  \    2,  \    3,  \    4
 
 
 From (1) to (16) above, please choose the one that, in your view, best describes your husband.
 --------------------------------------------------------------------------------------------------
 
- \_______
+ \___
 
 
 What number, from (1) to (16), describes the most important element you look for in a partner regardless of what your husband is actually like?
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
- \_______
+ \___

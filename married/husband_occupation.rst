@@ -1,5 +1,3 @@
-.. _husbands-occupation:
-
 ===============================
  Your husband's occupation
 ===============================
@@ -62,7 +60,7 @@ What is your husband's main job at present?
 10. Clerical employee
 11. Skilled employee
 12. Sales & service employee
-13. Paying job at home (home worker) ----> (Go to :doc:`about-income_management`)
+13. Paying job at home (home worker) ----> (Go to :doc:`income_management`)
 
 
 [Questions Q4.4 to Q4.20 ask about the main job you circled in Q4.3.]
@@ -137,14 +135,14 @@ What is the monthly income from his regular work?
 How much is his daily wage?
 --------------------------------
 
- \__ __ __ __ __ yen
+ \__ __ __ __ __  yen
 
 .. _hourly-wage-husband:
 
 How much is his hourly wage?
 ---------------------------------
 
- \__ __ __ __ __ yen
+ \__ __ __ __ __  yen
 
 .. _how-many-hours-work-husband:
 

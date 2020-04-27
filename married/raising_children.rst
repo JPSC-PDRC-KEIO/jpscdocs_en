@@ -81,7 +81,7 @@ Which childcare duties does your husband do or help with?
 8. Helps out or participates in school meetings, lessons, and community events
 9. Discusses our child(ren)’s schooling or future
 10. Has almost no contact with our child(ren)
-11. Other (Specify: _______________ )
+11. Other (Please specify: _______________ )
 
 
 Do you have anyone who can take care of your child(ren) except you?
@@ -97,7 +97,7 @@ Do you have anyone who can take care of your child(ren) except you?
 6. My neighbor(s)
 7. Nursery school, kindergarten, after-school day-care center
 8. Babysitter, housekeeper, etc.
-9. Others (Specify: _______________ )
+9. Others (Please specify: _______________ )
 10. I have no-one who can take care of my child(ren)
 11. I don’t need to ask for any help taking care of my child(ren)
 
@@ -148,10 +148,12 @@ Please write down the number of child(ren) who use(s) each service shown below. 
 
    "", "Number of child(ren) using this service", "the fees in September of this year"
    "(1)	Authorized nursery school (approved by the government)", "", "\__ __ __ thousand yen"
-   "(2)	Unauthorized nursery school (baby hotel, family day care home, workplace childcare facility)", "", "\__ __ __ thousand yen"
+   "| (2)	Unauthorized nursery school
+   | (baby hotel, family day care home, workplace childcare facility)", "", "\__ __ __ thousand yen"
    "(3)	Kindergarten", "", "\__ __ __ thousand yen"
    "(4)	Babysitter, housekeeper", "", "\__ __ __ thousand yen"
-   "(5)	Others (taken care of at home by family members, relatives, or friends, etc. who do not live with your family)", "", "\__ __ __ thousand yen"
+   "| (5)	Others (taken care of at home by family members, relatives,
+   | or friends, etc. who do not live with your family)", "", "\__ __ __ thousand yen"
    "(6)	Extracurricular lessons", "", "\__ __ __ thousand yen"
 
 [If you have children of junior high school age and younger, please answer the following questions.

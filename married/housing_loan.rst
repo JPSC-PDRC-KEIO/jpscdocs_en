@@ -30,8 +30,10 @@ In the table below, please enter information about the housing loan(s) that you 
    :header-rows: 1
    :widths: 5, 5, 5, 5
 
-   * - 1. Purpose of borrowing (enter any of the code numbers  from 01 to 06)
-     - 2. Borrowed from (enter   any of the code numbers from 11 to 16)
+   * - | 1. Purpose of borrowing
+       | (enter any of the code numbers  from 01 to 06)
+     - | 2. Borrowed from
+       | (enter any of the code numbers from 11 to 16)
      - 3. Total balance due on the loan(s)
      - 4. Amount of loan(s) repaid in the past year
    * - \_____ \_____
@@ -73,23 +75,23 @@ In the table below, please enter information about the housing loan(s) that you 
 
 
 .. csv-table:: Code list
-   :header-rows: 0
+   :header-rows: 1
    :widths: 3, 3
 
-   "(1)	Purpose of borrowing", "(2)	Borrowed from"
-   "
-   | 1. To renew a loan
-   | 2. To purchase a lot
-   | 3. To purchase a house (with lot)
-   | 4. To build a house
-   | 5. To extend or rebuild a house
-   | 6. To purchase a second house", "
-   | 11. Financial institution such as a bank
-   | 12. Housing loan corporation or other public loan (pension loan, asset-formation loan, public corporation loan, municipal corporation loan, etc.)
-   | 13. Employee loan
-   | 14. My parent(s)
-   | 15. My husband's parent(s)
-   | 16. Other
+   "(1)\  Purpose of borrowing", "(2)\  Borrowed from"
+   "| 01 To renew a loan
+   | 02 To purchase a lot
+   | 03 To purchase a house (with lot)
+   | 04 To build a house
+   | 05 To extend or rebuild a house
+   | 06 To purchase a second house", "| 11 Financial institution such as a bank
+   | 12 Housing loan corporation or other public loan
+   | (pension loan, asset-formation loan, public corporation
+   | loan, municipal corporation loan, etc.)
+   | 13 Employee loan
+   | 14 My parent(s)
+   | 15 My husband's parent(s)
+   | 16 Other"
 
 How do you and your husband feel the burden of your repayments?
 ==================================================================

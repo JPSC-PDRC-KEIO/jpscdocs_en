@@ -222,7 +222,7 @@ What standard of living did you have 10 years ago compared with that of the gene
 Please provide your thoughts on the following questions.
 ====================================================================
 
-(Circle one per question)
+|echoice|
 
 .. list-table::
    :header-rows: 1
@@ -287,7 +287,7 @@ Please provide your thoughts on the following questions.
 As a married couple, do you openly tell each other your incomes?
 ==========================================================================
 
- (Circle one that applies.)
+|echoice|
 
 .. list-table::
    :header-rows: 1
@@ -318,9 +318,9 @@ As a married couple, do you openly tell each other your incomes?
 As a married couple, are you aware of your family’s cost of living (income and expenditure)?
 ==================================================================================================
 
-(Circle one that applies.)
+|schoice|
 
 1. We are both aware
 2. My husband is aware
 3. I am aware
-4. Neither of us is aware   
+4. Neither of us is aware

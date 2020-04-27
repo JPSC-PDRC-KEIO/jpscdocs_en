@@ -9,7 +9,7 @@ What kind of a house does your family live in now?
 2. Multi-residential house (such as a terraced house)
 3. Reinforced-concrete or steel-framed apartment house
 4. Wooden apartment house
-5. Other (Specify: ______________)
+5. Other (Please specify: ______________)
 
 What type of ownership is most appropriate to your residence? (If ownership is in your family’s name, please regard it as your ownership.)
 ==================================================================================================================================================================
@@ -20,17 +20,17 @@ What type of ownership is most appropriate to your residence? (If ownership is i
 4. Rented house, apartment (privately owned) ----> (Please answer 8.2.1)
 5. Rented house, apartment (publicly owned)	----> (Please answer 8.2.1)
 6. Company housing or dormitory (including rented company house) ----> (Please answer 8.2.1)
-7. Other (Specify: ______________) ----> (Go to :numref:`Q{number} <family-live-together_s>`)
+7. Other (Please specify: ______________) ----> (Go to :numref:`Q{number} <family-live-together_s>`)
 
 How much is the monthly rent?
 ---------------------------------------------------------------------
 
-  \_____ ten thousand yen
+  \__ __ __ thousand yen
 
 How many rooms (living space) do you have? Include the kitchen dining room larger than 3 tatami mats excluding the sink, etc.
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  Total \__ rooms ----> (Go to :numref:`Q{number} <family-live-together_s>`)
+  Total \__ __ rooms ----> (Go to :numref:`Q{number} <family-live-together_s>`)
 
 
 
@@ -41,7 +41,7 @@ Please answer additional questions about "[A] lot".
 
 What do you estimate the current market price (selling price) of the  current market price (selling price) of the lot is?", "2. What do you estimate the current market price (selling price) for the house is?
 
-    \_____ ten thousand yen
+ \__ hundred million __ __ __ 0 ten thousand yen
 
 Please answer additional questions about "[B] house" in the table below. (In the case of a condominium, the lot is included.)
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -50,7 +50,7 @@ Please answer additional questions about "[B] house" in the table below. (In the
 
 What do you estimate the current market price (selling price) for the house is?
 
-    \_____ ten thousand yen
+ \__ hundred million __ __ __ 0 ten thousand yen
 
 
 [Please answer the following if after October 1,  |syear prev|  you purchased the lot and/or house you are living in, renovated or extended it, or changed the name of it/them.]
@@ -58,7 +58,7 @@ What do you estimate the current market price (selling price) for the house is?
 How large is the lot?
 --------------------------
 
-    \_____㎡
+    \__ __ __ __ ㎡
 
 Who has ownership of the lot? In the case that the lot is in the name of two or more persons, please indicate all of the owners.
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -78,7 +78,7 @@ How did you obtain the lot?
 3. I purchased it under my parent's(s’) joint names
 4. I received it as a gift from my parent(s) or my husband's parent(s)
 5. I inherited it from my parent(s)
-6. Other (Specify: ____________	)
+6. Other (Please specify: ____________	)
 
 [If you answered 2-5 in 8.2.7]
 
@@ -86,19 +86,19 @@ How did you obtain the lot?
 What is the floor area? (2 tatamis = 1 tsubo = 3.3 m2)
 ------------------------------------------------------------------
 
-    \_____㎡
+    \__ __ __ __ ㎡
 
 
 How many rooms (living space) do you have? Include a kitchen dining room larger than 3 tatami mats excluding the sink, etc.
 ---------------------------------------------------------------------------------------------------------------------------------
 
-    Total \_____rooms
+    Total \__ __ rooms
 
 
 When was the house built?
 --------------------------------
 
-    19 \____ year
+    19 \__ __ year
 
 
 Who has ownership of the house? In the case that the lot is in the name of two or more persons, please indicate all of the owners
@@ -119,10 +119,10 @@ How did you obtain the house?
 3. I purchased it under my parent's(s’) joint names
 4. I received it as a gift from my parent(s)
 5. I inherited it from my parent(s)
-6. Other (Specify: ____________ )
+6. Other (Please specify: ____________ )
 
 
-|
+
 [For all respondents]
 
 .. _family-live-together_s:
@@ -130,8 +130,7 @@ How did you obtain the house?
 Does your family live together with, or separately from, your parents or your husband's parent(s)?
 ===============================================================================================================
 
-[If your parents or your husband's parent(s) live separately from you, answer this question about whichever parent(s) lives closest to your house.
-]
+[If your parents or your husband's parent(s) live separately from you, answer this question about whichever parent(s) lives closest to your house.]
 
 1. My family shares the same house and income with my parent(s) (single household living together)
 2. My family shares the same house with my parent(s) but not the same income (two households living together)
@@ -144,7 +143,7 @@ Does your family live together with, or separately from, your parents or your hu
 9. My parent(s) have all passed away ----> (Go to :numref:`Q{number} <purchased-a-lot_s>`)
 
 
-|
+
 [If your family lives separately from your parent(s), please answer questions Q8.4 and Q8.5.]
 
 Which house do your parent(s) live in? Please answer for your father and mother separately.
@@ -180,7 +179,7 @@ Which house do your parent(s) live in? Please answer for your father and mother 
        with paid home care
      - 7
      - 7
-   * - Other (Specify: )
+   * - Other (Please specify: )
      - 8
      - 8
    * - Passed away
@@ -221,6 +220,7 @@ Did you purchase a lot or house during the past year (October  |syear prev|  -- 
 4. I purchased a condominium
 5. I didn’t purchase any of the above ----> (Go to :numref:`Q{number} <sold-a-lot_s>`)
 
+
 How much was the purchase price? (Enter the price for the house or apartment in the item "House" and/or that for the lot in the item "Lot".)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -229,13 +229,13 @@ How much was the purchase price? (Enter the price for the house or apartment in 
    :stub-columns: 1
 
    * - House
-     - \______0 ten thousand yen
+     - \__ hundred million __ __ __ 0 ten thousand yen
    * - Lot
-     - \______0 ten thousand yen
+     - \__ hundred million __ __ __ 0 ten thousand yen
    * - Total
-     - \______0 ten thousand yen
+     - \__ hundred million __ __ __ 0 ten thousand yen
 
-|
+
 [For all respondents]
 
 .. _sold-a-lot_s:
@@ -257,13 +257,13 @@ How much was the sale price? (Enter the price for the house or apartment in the 
    :stub-columns: 1
 
    * - House
-     - \______0 ten thousand yen
+     -  \__ __ hundred million __ __ __ 0 ten thousand yen
    * - Lot
-     - \______ ten thousand yen
+     -  \__ __ hundred million __ __ __ 0 ten thousand yen
    * - Total
-     - \______0 ten thousand yen
+     -  \__ __ hundred million __ __ __ 0 ten thousand yen
 
-|
+
 [For all respondents]
 
 .. _extend-or-rebuild_s:
@@ -278,9 +278,9 @@ Did you extend or rebuild the house you lived in and/or your second house during
 How much was the cost?
 --------------------------
 
-\______0 ten thousand yen
+\__ __ hundred million __ __ __ 0 ten thousand yen
 
-|
+
 [For all respondents]
 
 .. _real-estate-other_s:
@@ -297,9 +297,9 @@ Do you own any real estate other than the house you live in or your second house
 What is the total current market price (estimated selling price) of all of the real estate that you own?
 ----------------------------------------------------------------------------------------------------------------
 
-\______0 ten thousand yen
+ \__ __ hundred million __ __ __ 0 ten thousand yen
 
-|
+
 [For all respondents]
 
 .. _your-future-plan_s:
@@ -331,7 +331,7 @@ What kind of accommodation are you thinking of buying?
 5. Publicly rented accommodation
 6. Company accommodation/dormitory (including the one owned by the company)
 
-|
+
 [If you answered 2-4 in Q8.8 or 1-2 in Q8.10, please answer the question below.]
 
 .. _when-build-buy-renovate_s:
@@ -345,6 +345,6 @@ When did you build, buy, or renovate your home?
    :stub-columns: 1
 
    * - Year
-     - \____
+     - \__ __ __ __
    * - Month
-     - \__
+     - \__ __

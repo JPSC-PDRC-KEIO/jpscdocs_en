@@ -12,7 +12,7 @@ Do you want to have a child or another child?
 2. Yes, with a condition(s) ----> (Go to :numref:`Q{number} <What-are-the-conditions>`)
 3. No ----> (Go to :numref:`Q{number} <Why-do-not-want>`)
 
-.. _What-are-the-conditions :
+.. _What-are-the-conditions:
 
 What is (are) the condition(s)?
 -------------------------------------
@@ -24,10 +24,11 @@ What is (are) the condition(s)?
 3. To be able to continue working after giving birth
 4. For my husband and other members of my household to help me with housekeeping and childcare
 5. To be able to use a childcare system such as a day nursery or a childcare professional
-6. Other (Specify: ______________	)
-----> (Go to :numref:`Q{number} <How-many-children>`)
+6. Other (Please specify: ______________	)
 
-.. _Why-do-not-want :
+　----> (Go to :numref:`Q{number} <How-many-children>`)
+
+.. _Why-do-not-want:
 
 Why don't you want to have a child or another child?
 --------------------------------------------------------------
@@ -48,9 +49,10 @@ Why don't you want to have a child or another child?
 12. Because I am simply satisfied having my son
 13. Because I am satisfied with having my children.
 14. For other reasons (Please specify: _____________ )
-----> (Go to :numref:`Q{number} <level-of-education>`)
 
-.. _How-many-children :
+　----> (Go to :numref:`Q{number} <level-of-education>`)
+
+.. _How-many-children:
 
 How many more children do you want to have?
 -------------------------------------------------
@@ -72,12 +74,12 @@ Which of the following best describes your thoughts about childcare and work dur
 2. Not working while the child is small, and resuming full-time work when the child starts school.
 3. Not working while the child is small, and resuming part-time work when the child starts school.
 4. Not working while the child is small or resuming work afterwards
-5. Other (Please specify:	)
+5. Other (Please specify: _____________ )
 
 
 [ For all respondents]
 
-.. _level-of-education :
+.. _level-of-education:
 
 What level of education do you want your child(ren) to receive at minimum in the future?
 =============================================================================================
@@ -123,7 +125,7 @@ What level of education do you want your child(ren) to receive at minimum in the
 Which of the following best describes who you think should be responsible for the cost of childcare and your child/(ren)’s education up to the time when of leaving high school? (Please choose one.)
 ==================================================================================================================================================================================================================
 
-(Circle only one.)
+|schoice|
 
 1. Parents are responsible for their child’s care and education so the parents should privately bear the cost
 2. Children will ultimately join the workforce and contribute to production so companies should bear a large part of childcare and education costs in the form of child allowance, etc.

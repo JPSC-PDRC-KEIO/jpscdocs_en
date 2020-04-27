@@ -22,7 +22,7 @@ Contents:
    durable_goods_s
    daily_life_s
    self_development_s
-   desire_bear_children_s
+   your_child_s
    about_your_life_s
    policies_s
    intention_to_marry_s

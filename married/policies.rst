@@ -5,7 +5,7 @@
 Do you agree with the delay in raising consumption tax to 10%?
 ================================================================================
 
-(Circle only one one.)
+|schoice|
 
 1. I agree with it
 2. I agree more than disagree
@@ -16,7 +16,7 @@ Do you agree with the delay in raising consumption tax to 10%?
 What do you think about further increases to the consumption tax?
 ===============================================================================
 
-(Circle only one)
+|schoice|
 
 1. I agree with it.
 2. I agree more than disagree.
@@ -27,7 +27,7 @@ What do you think about further increases to the consumption tax?
 Many public support measures exist to reduce the burden of childcare and education cost. Which of the following best corresponds with your opinion?
 =============================================================================================================================================================
 
-(Please choose one.)
+|schoice|
 
  1. Cash payment such as “Child’s Benefits”
  2. Tax incentive (Dependency allowance and so on)
@@ -46,7 +46,7 @@ Many public support measures exist to reduce the burden of childcare and educati
 For what reason?
 ---------------------------
 
-(Circle all that apply.)
+|mchoice|
 
 1. I would be subject to income taxes
 2. We would lose standard and special tax exemptions for married couples
@@ -56,6 +56,7 @@ For what reason?
 6. My husband’s company would find out that I was working.
 7. We pay attention to the ceiling amount of each allowance we receive
 8. We pay attention to income categories for using various services
+9. Other (Please specify: _______________ )
 
 For what reason?
 --------------------------

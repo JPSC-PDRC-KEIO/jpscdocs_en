@@ -11,19 +11,17 @@ Do you use credit cards?
 2. Yes, I have credit cards but we rarely use them ----> (Go to :numref:`Q{number} <repaying-any-loan_s>`)
 3. No, I do not have credit cards.
 
-(Go to :numref:`Q{number} <repaying-any-loan_s>`)
-
 
 How many credit cards do you have?
 --------------------------------------------
 
-      \______ cards
+      \__ __ cards
 
 
 Roughly how much do you spend on your credit card per month?
 ------------------------------------------------------------------------------------------
 
-      \_____ thousand yen
+      \__ __ __ thousand yen
 
 Do you have established rules about using credit cards and the amount to spend?
 ------------------------------------------------------------------------------------------
@@ -52,9 +50,9 @@ Are you repaying any loan(s) (car loan, consumer loan, cashing, etc.) other than
 What is the total balance due on the loan(s) and the amount of loan(s) you have repaid during the past year (October  |syear prev|  - - September |syear|  )?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Total balance due on the loan(s)	\______ ten thousand yen
+Total balance due on the loan(s)	\__ __ __ __ ten thousand yen
 
-Amount of loan(s) repaid for the past one year 	\______ ten thousand yen
+Amount of loan(s) repaid for the past one year 	\__ __ __ ten thousand yen
 
 0. I did not repay in the past year
 
@@ -62,7 +60,7 @@ Amount of loan(s) repaid for the past one year 	\______ ten thousand yen
 Have you newly borrowed money during the past year (October  |syear prev|  - - September |syear|  )?
 --------------------------------------------------------------------------------------------------------
 
-1. Yes   New balance due on the loan(s)	\______ ten thousand yen
+1. Yes ----> New balance due on the loan(s)	\__ __ __ __ ten thousand yen
 2. No
 
 
@@ -75,11 +73,14 @@ Choose code numbers from the code list below and enter them in the columns “(1
    :header-rows: 0
    :widths: 3, 3, 3, 4, 4
 
-   * - (1)Purpose of borrowing (enter any of the code numbers from 01 to 11)
-     - (2)Borrowed from (enter any	of	the code numbers from 21 to 29)
-     - (3)Reason for borrowing from the source (enter any of the code numbers from 31 to 45)
-     - (4)Total balance due on the loan(s)
-     - (5)Amount of loan(s) repaid during the past one year
+   * - | (1)\  Purpose of borrowing
+       | (enter any of the code numbers from 01 to 11)
+     - | (2)\  Borrowed from
+       | (enter any	of the code numbers from 21 to 29)
+     - | (3)\  Reason for borrowing from the source
+       | (enter any of the code numbers from 31 to 45)
+     - (4)\  Total balance due on the loan(s)
+     - (5)\  Amount of loan(s) repaid during the past one year
    * - \______
      - | \______
        | \______
@@ -137,7 +138,7 @@ Choose code numbers from the code list below and enter them in the columns “(1
    :header-rows: 1
    :widths: 20
 
-   * - 3. Reason for borrowing money from the source
+   * - Reason for borrowing money from the source
    * - | 31	We could borrow money only from that source
        | 32	The process was simple there
        | 33	We could borrow money the fastest from that source
@@ -206,12 +207,14 @@ Choose 3 out of the 9 answers listed below and enter their numbers in the boxes 
    :widths: 16
 
    * - | 1. Post office or financial institution such as bank
-       | 2. Housing Loan Corporation or other public loan such as pension loan, asset-formation loan, public corporation loan, municipal corporation loan, etc.
+       | 2. Housing Loan Corporation or other public loan
+       | such as pension loan, asset-formation loan, public corporation loan, municipal corporation loan, etc.
        | 3. Worker-company loan
        | 4. Bank credit company (JCB, VISA, UC, etc.)
-       | 5. Credit selling company(Nippon Shinpan, Jaccs, Life, etc.)
-       | 6. Consumer loan company(Akomu, Takefuji, Puromise, Lake, etc.)
-       | 7. Retailers’ loan company(Marui, Credit Saison, Daiei Finance, and other loan or credit companies managed by department stores, .)
+       | 5. Credit selling company (Nippon Shinpan, Jaccs, Life, etc.)
+       | 6. Consumer loan company (Akomu, Takefuji, Puromise, Lake, etc.)
+       | 7. Retailers’ loan company
+       | (Marui, Credit Saison, Daiei Finance, and other loan or credit companies managed by department stores.)
        | 8. Other (Please specify: ________________	)
        | 9. Don’t know
 

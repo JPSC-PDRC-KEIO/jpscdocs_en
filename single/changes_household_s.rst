@@ -22,7 +22,7 @@ Which changes occurred in your household in the past year (October |syear prev| 
 6. A member of my household moved out
 7. A member of my household died
 8. My household size became smaller for other reasons
-
+ \
 9. I got divorced or separated and formed a different household
 10. I (or my household) moved out of my parents’ house to form a different household
 11. I (or my household) moved into my parents’ house to live together
@@ -124,7 +124,7 @@ How was preparation for your child’s school entry (e.g., purchasing a desk and
 8. Other (Please specify: _______________ )
 
 
-[Please answer following question if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October  |syear prev|  -- September |syear|  ). If not, go to :numref:`Q{number} <following-events_s>`.]
+[Please answer following question if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October  |syear prev|  -- September |syear|  ). If not, go to :numref:`Q{number} <current-status_s>`.]
 
 .. _who-died_s:
 
@@ -141,7 +141,7 @@ Who died?
 6. My child(ren)
 7. Other (Please specify: _______________ )
 
-[Please answer the following question if two or more of your parents died in the past year (October  |syear prev|  -- September |syear|  ). If not, go to  :numref:`Q{number} <How-was-the-property-left_s>`.]
+[Please answer the following question if two or more of your parents died in the past year (October  |syear prev|  -- September |syear|  ). If not, go to  :numref:`Q{number} <current-status_s>`.]
 
 Choose one of them for whom all problems of inheritance were solved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -202,14 +202,14 @@ How was the property left by the deceased parent distributed among his or her ch
 
 |schoice|
 
-1. It was equally distributed ----> (Go to :numref:`Q{number} <following-events_s>`)
+1. It was equally distributed ----> (Go to :numref:`Q{number} <current-status_s>`)
 2. The entire amount was inherited by the eldest child
 3. Most of it was inherited by the eldest child
 4. The entire amount was inherited by a child that is not the eldest
 5. Most of it was inherited by a child that is not the eldest
 6. Other (Please specify: _______________ )
 7. The entire amount was inherited by a single child
-8. None of the children inherited it ----> (Go to :numref:`Q{number} <following-events_s>`)
+8. None of the children inherited it ----> (Go to :numref:`Q{number} <current-status_s>`)
 
 [If you chose an answer between 2 and 7, please answer the following question.]
 
@@ -229,7 +229,7 @@ Which applies to the child (or his/her spouse) who inherited all or most of the 
 
 [For all respondents to answer]
 
-.. _following-events_s:
+.. _current-status_s:
 
 Please circle “Yes” or “No” for the following questions about the current status of you and your family.
 ==================================================================================================================

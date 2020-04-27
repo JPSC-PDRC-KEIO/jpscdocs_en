@@ -32,7 +32,7 @@ What would you like to pursue further in your life?
 11. Family
 12. Involvement in the local community
 13. Friends
-14. Other (please specify: _____________ )
+14. Other (Please specify: _____________ )
 
 
 Do you want to be working and receiving a salary 3 years from now? Please answer whether you would like to work, regardless of whether you will (or will be able to) work.

@@ -21,7 +21,7 @@ Which changes occurred in your household in the past year (October |syear prev| 
 6. A member of my household moved out
 7. A member of my household died
 8. My household size became smaller for other reasons
-
+ \
 9. I got married and formed a different household
 10. I got divorced or separated and formed a different household
 11. I (or my household) moved out of my (or my husband's) parents’ house to form a different household
@@ -110,7 +110,7 @@ Did you use the childcare leave system or childcare time?
 .. _childcare-leave-husband:
 
 Did your husband use the childcare leave system or childcare time?
--------------------------------------------------------------------------
+=========================================================================
 
 1. Yes ----> 	__ __ days
 2. No
@@ -135,7 +135,7 @@ How was preparation for your child’s school entry (e.g., purchasing a desk and
 8. Other (Please specify: _______________ )
 
 
-[Please answer following question if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October  |syear prev|  -- September |syear|  ). If not, go to :numref:`Q{number} <following-events>`.]
+[Please answer following question if any relatives, regardless of whether they lived together with you or separately, has died in the past year (October  |syear prev|  -- September |syear|  ). If not, go to :numref:`Q{number} <current-status>`.]
 
 .. _who-died:
 
@@ -154,7 +154,7 @@ Who died?
 8. My child(ren)
 9. Other (Please specify: _______________ )
 
-[Please answer the following question if two or more of your or your husband's parents died in the past year (October  |syear prev|  -- September |syear|  ). If not, go to  :numref:`Q{number} <need-care-for>`.]
+[Please answer the following question if two or more of your or your husband's parents died in the past year (October  |syear prev|  -- September |syear|  ). If not, go to  :numref:`Q{number} <current-status>`.]
 
 Choose one of them for whom all problems of inheritance were solved.
 -----------------------------------------------------------------------------------------------------------------------------
@@ -214,6 +214,7 @@ Where was that parent cared for?
 4. His or her own house
 5. Other (Please specify: _______________ )
 
+
 .. _How-was-the-property-left:
 
 How was the property left by the deceased parent distributed among his or her children?
@@ -221,14 +222,15 @@ How was the property left by the deceased parent distributed among his or her ch
 
 |schoice|
 
-1. It was equally distributed ----> (Go to :numref:`Q{number} <following-events>`)
+1. It was equally distributed ----> (Go to :numref:`Q{number} <current-status>`)
 2. The entire amount was inherited by the eldest child
 3. Most of it was inherited by the eldest child
 4. The entire amount was inherited by a child that is not the eldest
 5. Most of it was inherited by a child that is not the eldest
 6. Other (Please specify: _______________ )
 7. The entire amount was inherited by a single child
-8. None of the children inherited it ----> (Go to :numref:`Q{number} <following-events>`)
+8. None of the children inherited it ----> (Go to :numref:`Q{number} <current-status>`)
+
 
 [If you chose an answer between 2 and 7, please answer the following question.]
 
@@ -245,10 +247,9 @@ Which applies to the child (or his/her spouse) who inherited all or most of the 
 6. Other (Please specify: _______________ )
 
 
-
 [For all respondents to answer]
 
-.. _following-events:
+.. _current-status:
 
 Please circle “Yes” or “No” for the following questions about the current status of you and your family.
 ==================================================================================================================

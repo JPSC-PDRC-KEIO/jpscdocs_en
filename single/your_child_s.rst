@@ -12,8 +12,6 @@ Do you want to have a child or another child?
 2. Yes, with a condition(s) ----> (Go to :numref:`Q{number} <What-are-the-conditions_s>`)
 3. No ----> (Go to :numref:`Q{number} <Why-do-not-want_s>`)
 
-.. todo:: ↓無配偶用
-
 .. _What-are-the-conditions_s:
 
 What is (are) the condition(s)?
@@ -24,13 +22,11 @@ What is (are) the condition(s)?
 1. To be able to pay our living expenses with a child or another child
 2. To have a larger house
 3. To be able to continue working after giving birth
-4. For other members of my household to help me with housekeeping and childcare
+4. For my husband and other members of my household to help me with housekeeping and childcare
 5. To be able to use a childcare system such as a day nursery or a childcare professional
-6. Other (Specify: ______________	)
-----> (Go to :numref:`Q{number} <How-many-children_s>`)
+6. Other (Please specify: ______________	)
 
-
-.. todo:: ↓無配偶用
+　----> (Go to :numref:`Q{number} <How-many-children_s>`)
 
 .. _Why-do-not-want_s:
 
@@ -39,15 +35,22 @@ Why don't you want to have a child or another child?
 
 |mchoice|
 
-1. Because I don't want to get married
-2. Because I consider my own life as more important
+1. Because the burden of childcare and educational expenses will be heavy
+2. Because we will need to get a larger house
 3. Because I want to continue working
-4. Because I consider mine and husband's lives as more important even I get married
-5. Because I don't like children
-6. Because the burden of childcare and educational expenses will be heavy
-7. Because I think it is not easy to bring up a child to be a full-fledged member of society
-8. For other reasons (Please specify: _____________ )
-----> (Go to :numref:`Q{number} <level-of-education_s>`)
+4. Because I consider my own life as more important
+5. Because I consider mine and husband's lives as more important
+6. Because I think it is not easy to bring up a child to be a full-fledged member of society
+7. Because I cannot expect that my husband will help me with childcare
+8. Because I am too weak physically to have a child
+9. Because I worry whether or not I will have a healthy child
+10. Because I don't like children
+11. Because I am simply satisfied having my daughter
+12. Because I am simply satisfied having my son
+13. Because I am satisfied with having my children.
+14. For other reasons (Please specify: _____________ )
+
+　----> (Go to :numref:`Q{number} <level-of-education>`)
 
 .. _How-many-children_s:
 
@@ -71,9 +74,11 @@ Which of the following best describes your thoughts about childcare and work dur
 2. Not working while the child is small, and resuming full-time work when the child starts school.
 3. Not working while the child is small, and resuming part-time work when the child starts school.
 4. Not working while the child is small or resuming work afterwards
-5. Other (Please specify:	)
+5. Other (Please specify: _____________ )
 
-|
+
+.. todo:: ↓無配偶用（列順違い）
+
 [ For all respondents]
 
 .. _level-of-education_s:
@@ -81,28 +86,27 @@ Which of the following best describes your thoughts about childcare and work dur
 What level of education do you want your child(ren) to receive at minimum in the future?
 =============================================================================================
 
-(Choose code numbers from in the code list below, and enter them in the columns.)
+(Choose code numbers from the code list below, and enter them in the columns.)
 
 .. list-table::
    :header-rows: 1
    :widths: 2, 2, 2
 
    * -
-     - If you have a child(ren)
-     - If you don’t have a child
+     - If you don’t have a childI
+     - f you have a child(ren)
    * - First child
      -
      -
    * - Second child
-     -
      - \       \---------
+     -
    * - Third child
-     -
      - \       \---------
+     -
    * - Fourth (or later) child
-     -
      - \       \---------
-
+     -
 
 
 
@@ -123,7 +127,7 @@ What level of education do you want your child(ren) to receive at minimum in the
 Which of the following best describes who you think should be responsible for the cost of childcare and your child/(ren)’s education up to the time when of leaving high school? (Please choose one.)
 ==================================================================================================================================================================================================================
 
-(Circle only one.)
+|schoice|
 
 1. Parents are responsible for their child’s care and education so the parents should privately bear the cost
 2. Children will ultimately join the workforce and contribute to production so companies should bear a large part of childcare and education costs in the form of child allowance, etc.

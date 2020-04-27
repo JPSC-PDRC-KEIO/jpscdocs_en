@@ -5,7 +5,7 @@
 Do you agree with the delay in raising consumption tax to 10%?
 ================================================================================
 
-(Circle only one one.)
+|schoice|
 
 1. I agree with it
 2. I agree more than disagree
@@ -16,7 +16,7 @@ Do you agree with the delay in raising consumption tax to 10%?
 What do you think about further increases to the consumption tax?
 ===============================================================================
 
-(Circle only one)
+|schoice|
 
 1. I agree with it.
 2. I agree more than disagree.
@@ -34,3 +34,5 @@ Many public support measures exist to reduce the burden of childcare and educati
  3. Reduction of educational cost for nurseries, kindergarten, and schools or making them free
  4. Expansion of facilities for childcare and education
  5. No measure is necessary
+
+ .. todo:: ↑無配偶用はここまで

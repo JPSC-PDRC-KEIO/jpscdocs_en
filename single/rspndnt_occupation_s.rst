@@ -137,14 +137,14 @@ What is the monthly income from your regular work?
 How much is your daily wage?
 --------------------------------
 
- \__ __ __ __ __ yen
+ \__ __ __ __ __  yen
 
 .. _hourly-wage-respondent_s:
 
 How much is your hourly wage?
 --------------------------------
 
- \__ __ __ __ __ yen
+ \__ __ __ __ __  yen
 
 .. _how-many-hours-work-respondent_s:
 
@@ -459,7 +459,8 @@ To what extent do the following statements apply to how you want to work 3 years
      - \    3
      - \    4
      - \    5
-   * - (2)\  I want to care for my family more, such as doing housework, childcare, and elderly care
+   * - | (2)\  I want to care for my family more, such as doing housework,
+       | childcare, and elderly care
      - \    1
      - \    2
      - \    3

@@ -58,7 +58,7 @@ Why do you not get married?
 Have you done taken any of the following steps toward getting married in the past year (October 2015–September 2016)?
 ================================================================================================================================
 
- (Circle as many as apply to you)
+|mchoice|
 
 1. I was formally introduced to a prospective marriage partner by my family or relative
 2. I was formally introduced to a prospective marriage partner by my friend
@@ -68,5 +68,5 @@ Have you done taken any of the following steps toward getting married in the pas
 6. I bought a marriage information magazine
 7. I talked with my boyfriend about getting married
 8. I got engaged
-9. Other (Specify: _______________ )
+9. Other (Please specify: _______________ )
 10. I did none of the above

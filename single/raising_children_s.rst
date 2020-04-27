@@ -80,7 +80,7 @@ Do you have anyone who can take care of your child(ren) except you?
 5. Nursery school, kindergarten, after-school day-care center
 6. Babysitter, housekeeper, etc.
 7. My child(ren)'s father
-8. Others (Specify: _______________ )
+8. Others (Please specify: _______________ )
 9. I have no-one who can take care of my child(ren)
 10. I don’t need to ask for any help taking care of my child(ren)
 
@@ -107,7 +107,7 @@ Do you have anyone to ask about child-rearing?
 4. My neighbor(s)
 5. Specialist (doctor, midwife, nursery school teacher, health nurse, etc.)
 6. My child(ren)'s father
-7. Others (Specify: _______________ )
+7. Others (Please specify: _______________ )
 8. I have no-one to ask about child care
 9. I don’t need to ask about child care
 
@@ -128,10 +128,12 @@ Please write down the number of child(ren) who use(s) each service shown below. 
 
    "", "Number of child(ren) using this service", "the fees in September of this year"
    "(1)	Authorized nursery school (approved by the government)", "", "\_____ ten thousand yen"
-   "(2)	Unauthorized nursery school (baby hotel, family day care home, workplace childcare facility)", "", "\_____ ten thousand yen"
+   "| (2)	Unauthorized nursery school
+   | (baby hotel, family day care home, workplace childcare facility)", "", "\_____ ten thousand yen"
    "(3)	Kindergarten", "", "\_____ ten thousand yen"
    "(4)	Babysitter, housekeeper", "", "\_____ ten thousand yen"
-   "(5)	Others (taken care of at home by family members, relatives, or friends, etc. who do not live with your family)", "", "\_____ ten thousand yen"
+   "| (5)	Others (taken care of at home by family members, relatives,
+   | or friends, etc. who do not live with your family)", "", "\_____ ten thousand yen"
    "(6)	Extracurricular lessons", "", "\_____ ten thousand yen"
 
 

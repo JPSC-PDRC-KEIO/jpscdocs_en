@@ -20,7 +20,8 @@ Savings are divided into "deposits & savings" and "securities".
    :header-rows: 0
    :widths: 10
 
-   "Shares (at current values), bonds (at nominal values), stock investment trusts (at current values), open-end bond investment trusts (at current values), loan and money trusts (at nominal values), etc."
+   "| Shares (at current values), bonds (at nominal values), stock investment trusts (at current values),
+   | open-end bond investment trusts (at current values), loan and money trusts (at nominal values), etc."
 
 How much savings & deposits and securities does your household have?  Please answer this question in terms of [A] your family's savings & deposits and securities and [B] your own savings & deposits and securities.
 =============================================================================================================================================================================================================================
@@ -32,43 +33,66 @@ How much savings & deposits and securities does your household have?  Please ans
    :widths: 5, 5, 5
 
    * -
-     - [A] Your family’s (your husband’s, yours, and your child(ren)’s).
-     - [B] Yours only"
-   * - 1. Do you have savings now?
-     -  | a. Yes, my family's (my husband’s, mine, and my child(ren)’s).
-        | b. No  ---->（Go to 3.)
-     -  | a. Yes, my own
-        | b. No ---->（Go to 3.)
-   * - 2. How much deposits & savings do you have?
-     - \_____ ten thousand yen
-     - \_____ ten thousand yen
+     - (1)\  Do you have savings now?
+     - (2)\  How much deposits & savings do you have?
+   * - | [A]\  Your family’s (yours,
+       | your husband’s, and your child(ren)’s).
+     - | 1. Yes, my family's ---->
+       | 2. No  ---->（Go to (3))
+     - \__ __ __ ten thousand yen
+   * - [B]\  Yours only
+     - | 1. Yes, my own ---->
+       | 2. No ---->（Go to (3))
+     - \__ __ __ ten thousand yen
 
 ● Securities
 
 .. list-table::
-   :header-rows: 0
+   :header-rows: 1
    :widths: 5, 5, 5
 
-   * - | 3. Do you have securities now?
-     - | a. Yes, my family's (my husband’s, mine, and my child(ren)’s)
-       | b. No  ---->（Go to 5.)
-     - | a. Yes, my own
-       | b. No ---->（Go to :numref:`Q{number} <how-much-do-you-plan-to-save>`)
-   * - | 4. How much deposits & savings do you have?
-     - \_____ ten thousand yen
-     - \_____ ten thousand yen
-   * - | 5. Did you purchase any securities in the past year (October  |syear prev|  -- September |syear|  )?
+   * -
+     - (3)\  Do you have securities now?
+     - (4)\  How much deposits & savings do you have?
+   * - | [A]\  Your family’s (yours,
+       | your husband’s, and your child(ren)’s).
+     - | 1. Yes, my family's ---->
+       | 2. No  ---->（Go to (5))
+     - \__ __ __ ten thousand yen
+   * - [B]\  Yours only
+     - | 1. Yes, my own ---->
+       | 2. No ---->（Go to :numref:`Q{number} <how-much-do-you-plan-to-save>`)
+     - \__ __ __ ten thousand yen
+
+
+.. list-table::
+   :header-rows: 0
+   :widths: 5, 5
+
+   * - | (5)\  Did your family (you, your husband, and your child(ren)) purchase any securities
+       | in the past year (October  |syear prev|  -- September |syear|  )?
        | (Securities bought and then sold are included.)
-     - | a. Yes, my family's (my husband’s, mine, and my child(ren)’s)
-       | b. No
-     - | a. Yes, my own
-       | b. No
-   * - | 6. Did you sell any securities in the past year (October  |syear prev|  - September |syear|  )?
+     - | 1. Yes
+       | 2. No
+   * - | (6)\  Did you purchase any securities in the past year (October  |syear prev|  - September |syear|  )?
        | (Securities sold and then purchased again are included.)
-     - | a. Yes, my family's (my husband’s, mine, and my child(ren)’s)
-       | b. No
-     - | a. Yes, my own
-       | b. No
+     - | 1. Yes, my own
+       | 2. No
+
+
+.. list-table::
+   :header-rows: 0
+   :widths: 5, 5
+
+   * -
+   * - | (7)\  Did your family (you, your husband, and your child(ren)) sell any securities in the past year (October  |syear prev|  -- September |syear|  )?
+       | (Securities bought and then sold are included.)
+     - | 1. Yes
+       | 2. No
+   * - | (8)\  Did you sell any securities in the past year (October  |syear prev|  - September |syear|  )?
+       | (Securities sold and then purchased again are included.)
+     - | 1. Yes, my own
+       | 2. No
 
 
 .. _how-much-do-you-plan-to-save:
@@ -79,7 +103,7 @@ Do you have any plan about savings in your household?
 How much do you and your husband plan to save?
 ----------------------------------------------------------
 
-  \_____ ten thousand yen
+  \__ __ hundred million __ __ 00 ten thousand yen
 
 For what purposes do you and your husband save money?
 --------------------------------------------------------
@@ -99,47 +123,47 @@ Also, for each item you answered “Yes,” what amount of money are you going t
     * - (a)\  To provide for living comfortably in our old age
       - | Yes ---->
         | No
-      - \_____ ten thousand yen
+      - \__ hundred million __ __ __ 0 ten thousand yen
     * - (b)\  To provide for unexpected expenses due to illness, disaster, accident, etc.
       -  | Yes ---->
          | No
-      - \_____ ten thousand yen
+      - \__ hundred million __ __ __ 0 ten thousand yen
     * - (c)\  To pay the educational expenses for our child(ren)
       -  | Yes ---->
          | No
-      - \_____ ten thousand yen
+      - \__ hundred million __ __ __ 0 ten thousand yen
     * - (d)\  To make save for our child(ren)’s wedding(s)
       -  | Yes ---->
          | No
-      - \_____ ten thousand yen
+      - \__ hundred million __ __ __ 0 ten thousand yen
     * - (e)\  To purchase (or renovate or replace) our house (with lot)
       -  | Yes ---->
          | No
-      - \_____ ten thousand yen
+      - \__ hundred million __ __ __ 0 ten thousand yen
     * - (f)\  To save for purchasing durable consumer goods
       -  | Yes ---->
          | No
-      - \_____ ten thousand yen
+      - \__ hundred million __ __ __ 0 ten thousand yen
     * - (g)\  To make save to spend on leisure fund
       -  | Yes ---->
          | No
-      - \_____ ten thousand yen
+      - \__ hundred million __ __ __ 0 ten thousand yen
     * - (h)\  To save for starting an independent business
       -  | Yes ---->
          | No
-      - \_____ ten thousand yen
+      - \__ hundred million __ __ __ 0 ten thousand yen
     * - (i)\  For no special purpose, but to feel free from anxiety with savings
       -  | Yes ---->
          | No
-      - \_____ ten thousand yen
+      - \__ hundred million __ __ __ 0 ten thousand yen
     * - (j)\  To leave our savings for our child(ren) to inherit
       -  | Yes ---->
          | No
-      - \_____ ten thousand yen
+      - \__ hundred million __ __ __ 0 ten thousand yen
     * - (k)\  For other purposes (Please specify:    )
       -  | Yes ---->
          | No
-      - \_____ ten thousand yen
+      - \__ hundred million __ __ __ 0 ten thousand yen
 
 
 
@@ -156,11 +180,11 @@ How much have you and your husband paid on the insurance premiums shown in the t
       - | Premium paid in the past year
       - | (January - December  |syear prev| )
     * - 1 Single premium type insurance
-      -  ________ten thousand yen
+      - \__ __ ten thousand yen
       -
     * - 2 Installment premium type insurance
-      -  ________ten thousand yen
-      -  __________ten thousand yen
+      - \__ __ ten thousand yen
+      - \__ __ __ __ ten thousand yen
     * - 3 No insurance contract
       -
       -
@@ -173,11 +197,11 @@ How much have you and your husband paid on the insurance premiums shown in the t
       - | Premium paid in the past year
       - | (January - December  |syear prev| )
     * - 1 Single premium type insurance
-      -  ________ten thousand yen
+      - \__ __ ten thousand yen
       -
     * - 2 Installment premium type insurance
-      -  ________ten thousand yen
-      -  __________ten thousand yen
+      - \__ __ ten thousand yen
+      - \__ __ __ __ ten thousand yen
     * - 3 No insurance contract
       -
       -

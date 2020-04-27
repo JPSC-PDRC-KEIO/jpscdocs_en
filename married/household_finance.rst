@@ -182,7 +182,7 @@ Who is/are the member(s) of your household?
  6. My grandparent(s)
  7. My husband's and/or your sibling(s)
  8. My child(ren)
- 9. Other (Specify: _______________)
+ 9. Other (Please specify: _______________)
 
 
 What was the total amount of tax (income, resident, and other taxes) and social insurance payments (health, public pension, employment, and other insurance premiums) that you, your husband, and other household member(s) paid in the past year (January  |syear prev|  -- December  |syear prev| )?

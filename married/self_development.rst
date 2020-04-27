@@ -24,7 +24,7 @@ What kind of courses have you taken? (Include correspondence courses)
 9. Graduate school
 10. Paid distance learning
 11. Community/Culture center
-12. Other (Specify: _____________ )
+12. Other (Please specify: _____________ )
 
 .. note::
 
@@ -55,7 +55,7 @@ Why did you take the course?
 10. To devote myself to something
 11. To acquire knowledge and skills relating to my household and daily life
 12. To acquire knowledge and skills relating to social action (volunteer activities, etc.)
-13. Other (Specify: _____________	)
+13. Other (Please specify: _____________	)
 
 .. todo:: ↓無配偶用
 
@@ -69,7 +69,7 @@ Who paid most of the cost?
 3. My parent(s)
 5. Training and Education Allowance
 6. Other public agency, as a grant-in-aid
-6. Others (Specify: _____________ )
+6. Others (Please specify: _____________ )
 
 What was the total cost of the course that you or your family paid for tuition and course materials (excluding your company or public financial support) in the past year (October  |syear prev|  - - September |syear|  )? (Exclude transportation costs.)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -212,7 +212,7 @@ What standard of living did you have 10 years ago compared with that of the gene
 Please provide your thoughts on the following questions.
 ====================================================================
 
-(Circle one per question)
+|echoice|
 
 .. list-table::
    :header-rows: 1
@@ -272,3 +272,6 @@ Please provide your thoughts on the following questions.
      -  \    3
      -  \    4
      -  \    5
+
+
+.. todo::  ↑無配偶用はここまで
