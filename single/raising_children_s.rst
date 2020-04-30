@@ -87,14 +87,33 @@ Do you have anyone who can take care of your child(ren) except you?
 Are you currently worried about your children?
 ========================================================
 
-(Circle one that applies)
+|schoice|
 
 1. Very worried
 2. A little worried
 3. Seldom worried
 4. Not at all worried
 
-.. todo:: (2)悩みや心配事の内容への翻訳なし
+Which of the following is your specific concern?
+-------------------------------------------------------------
+
+|mchoice|
+
+1. Children's personalities and habits
+2. How to discipline and scold
+3. Parent-child communication
+4. Children's health / disability
+5. Studying/Going on to school
+6. Educational cost
+7. Bullying / School refusal
+8. Problem behavior (delinquency, domestic violence, withdrawal, etc.)
+9. Friendship of children
+10. Relationship with parents
+11. Employment and work of children
+12. Dating / marriage of children
+13. Other
+14. I have no particular worries
+
 
 Do you have anyone to ask about child-rearing?
 ============================================================================================

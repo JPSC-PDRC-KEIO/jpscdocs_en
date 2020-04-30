@@ -52,14 +52,12 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = "JPSC Questionnaire"
+project = "JPSC Questionnaires"
 copyright = "2020, JPSC-PDRC-KEIO"
 author = "JPSC"
 
 
-rst_prolog = """
-.. include:: definition.txt
-"""
+
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
