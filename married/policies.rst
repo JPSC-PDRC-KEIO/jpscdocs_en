@@ -37,7 +37,7 @@ Many public support measures exist to reduce the burden of childcare and educati
 
  [Please answer this question is you received an income during the last one year.]
 
- Last year, did you make any adjustments to keep your yearly income below a certain level?
+Last year, did you make any adjustments to keep your yearly income below a certain level?
 ====================================================================================================
 
 1. Made an adjustment	Did not make an adjustment

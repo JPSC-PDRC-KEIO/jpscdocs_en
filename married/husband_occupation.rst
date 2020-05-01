@@ -160,7 +160,7 @@ How many hours does your husband work per week in general?
 9. 60 to 64 hours
 10. More than 64 hours
 
-How many hours does your husband work overtime per week?
+Overtime work
 ======================================================================
 
 How many hours per week does your husband get paid overtime work?
@@ -225,8 +225,11 @@ What exact year was it established?
 
 
 
-How many total days of paid leave does your husband have in fiscal year  |syear prev| (April 1, 2014 to March 31,  |syear prev| )?
-=========================================================================================================================================
+Paid leave
+======================================================================================================================================
+
+How many total days of paid leave do you have in fiscal year  |syear prev| (April 1, 2014 to March 31,  |syear prev| )?
+-------------------------------------------------------------------------------------------------------------------------------
 
 [Exclude any paid leaves carried over from the previous year]
 
@@ -464,8 +467,11 @@ When did he start at the company or organization where he works now?
 
 .. _working-one-year-ago-husband:
 
+Working one year ago
+-------------------------------------------------------------------
+
 Was he working one year ago(at the end of September |syear|  .)?
--------------------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Yes
 2. No ----> (Go to :numref:`Q{number} <how-many-months-work-husband>`)

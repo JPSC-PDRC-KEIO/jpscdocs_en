@@ -84,7 +84,6 @@ How much savings & deposits and securities does your household have?  Please ans
    :header-rows: 0
    :widths: 5, 5
 
-   * -
    * - | (7)\  Did your family (you, your husband, and your child(ren)) sell any securities in the past year (October  |syear prev|  -- September |syear|  )?
        | (Securities bought and then sold are included.)
      - | 1. Yes
@@ -97,7 +96,7 @@ How much savings & deposits and securities does your household have?  Please ans
 
 .. _how-much-do-you-plan-to-save:
 
-Do you have any plan about savings in your household?
+Saving plan
 =======================================================================
 
 How much do you and your husband plan to save?
@@ -177,8 +176,11 @@ How much have you and your husband paid on the insurance premiums shown in the t
     :widths: 5, 5, 5
 
     * - | Type of insurance
+        |
       - | Premium paid in the past year
-      - | (January - December  |syear prev| )
+        | (January - December  |syear prev| )
+      - | Total of premiums paid
+        |
     * - 1 Single premium type insurance
       - \__ __ ten thousand yen
       -
@@ -194,8 +196,11 @@ How much have you and your husband paid on the insurance premiums shown in the t
     :widths: 5, 5, 5
 
     * - | Type of insurance
+        |
       - | Premium paid in the past year
-      - | (January - December  |syear prev| )
+        | (January - December  |syear prev| )
+      - | Total of premiums paid
+        |
     * - 1 Single premium type insurance
       - \__ __ ten thousand yen
       -

@@ -84,8 +84,11 @@ Do you have anyone who can take care of your child(ren) except you?
 9. I have no-one who can take care of my child(ren)
 10. I don’t need to ask for any help taking care of my child(ren)
 
+Concerns about children
+==================================================
+
 Are you currently worried about your children?
-========================================================
+--------------------------------------------------
 
 |schoice|
 
@@ -146,14 +149,14 @@ Please write down the number of child(ren) who use(s) each service shown below. 
    :widths: 8, 3, 4
 
    "", "Number of child(ren) using this service", "the fees in September of this year"
-   "(1)	Authorized nursery school (approved by the government)", "", "\_____ ten thousand yen"
-   "| (2)	Unauthorized nursery school
+   "(1)\	Authorized nursery school (approved by the government)", "", "\_____ ten thousand yen"
+   "| (2)\	Unauthorized nursery school
    | (baby hotel, family day care home, workplace childcare facility)", "", "\_____ ten thousand yen"
-   "(3)	Kindergarten", "", "\_____ ten thousand yen"
-   "(4)	Babysitter, housekeeper", "", "\_____ ten thousand yen"
-   "| (5)	Others (taken care of at home by family members, relatives,
+   "(3)\	Kindergarten", "", "\_____ ten thousand yen"
+   "(4)\	Babysitter, housekeeper", "", "\_____ ten thousand yen"
+   "| (5)\	Others (taken care of at home by family members, relatives,
    | or friends, etc. who do not live with your family)", "", "\_____ ten thousand yen"
-   "(6)	Extracurricular lessons", "", "\_____ ten thousand yen"
+   "(6)\	Extracurricular lessons", "", "\_____ ten thousand yen"
 
 
 .. todo:: 翻訳がみつからず

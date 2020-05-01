@@ -14,7 +14,8 @@ What was your total expenditure including savings (life insurance premiums, etc.
     "Living and other expenses", "Savings", "Loan repayment(s)"
     "| __ __ __ thousand yen
     | (Excluding savings and loan repayments)", "| __ __ __ thousand yen
-    | (Including life insurance premiums, etc.)", "__ __ __ thousand yen"
+    | (Including life insurance premiums, etc.)", "| __ __ __ thousand yen
+    | "
 
 
 .. list-table:: *Expenditure breakdown*
@@ -247,8 +248,11 @@ If you are or your husband is a company employee or self-employed, how much was 
 | (2)\  My take-home pay in September —-> \ __ __ __ ten thousand yen
 |  0. None
 
+Cost payment by your parents
+======================================================================================================================
+
 What household expenses do your parent(s) and your husband's parent(s) pay for
-=================================================================================
+---------------------------------------------------------------------------------
 
 |mchoice|
 

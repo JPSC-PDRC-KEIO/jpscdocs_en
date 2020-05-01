@@ -31,7 +31,7 @@ Which changes occurred in your household in the past year (October |syear prev| 
 
 [If you gave birth in the past year (October |syear prev| -- September |syear|  ), please answer following question. If not, move to :numref:`Q{number} <preparation-for-school_s>`.]
 
-If you gave birth in the past year (October |syear prev| -- September |syear|  ),
+Child birth
 ===========================================================================================
 
 Your new baby is your:
@@ -83,16 +83,9 @@ Did you work before and after giving birth?
 Did you take maternity leave?
 ---------------------------------
 
-1. Yes
+1. Yes ---->  \__ __ weeks before \__ __ weeks after
 2. No
 3. There was (or is) no such system
-
-If you took maternity leave, how many weeks did you take?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
- \__ __ weeks before giving birth
-
- \__ __ weeks after giving birth
 
 .. jump::
    If you stopped working after giving birth, go to :numref:`Q{number} <preparation-for-school_s>`.
@@ -100,7 +93,7 @@ If you took maternity leave, how many weeks did you take?
 Did you use the childcare leave system or childcare time?
 ------------------------------------------------------------
 
-1. Yes ----> (Form) 1 Childcare leave __ __ months \     2 Childcare time __ __ hours a day
+1. Yes ----> (Form) 1 Childcare leave __ __ months 2 Childcare time __ __ hours a day
 2. No
 3. There was (or is) no such system
 

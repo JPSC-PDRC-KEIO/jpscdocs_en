@@ -224,49 +224,49 @@ Please provide your thoughts on the following questions.
      - Somewhat disagree
      - Mostly disagree
      - Not sure
-   * - I can trust most people
+   * - (1)\  I can trust most people
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - I feel like I am left behind from what’s going on in society and the world
+   * - (2)\  I feel like I am left behind from what’s going on in society and the world
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - I willingly take on tasks that most people hate
+   * - (3)\  I willingly take on tasks that most people hate
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - Efforts are always rewarded someday
+   * - (4)\  Efforts are always rewarded someday
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - I try to enjoy my life now rather than think about the future
+   * - (5)\  I try to enjoy my life now rather than think about the future
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - Do you think Japan is a society with large income inequality?
+   * - (6)\  Do you think Japan is a society with large income inequality?
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - Do you think Japan is country that is easy to live in?
+   * - (7)\  Do you think Japan is country that is easy to live in?
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - Do you think the Japanese government and the administration work hard to address new as well as difficult problems?
+   * - (8)\  Do you think the Japanese government and the administration work hard to address new as well as difficult problems?
      -  \    1
      -  \    2
      -  \    3
