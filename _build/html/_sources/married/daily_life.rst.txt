@@ -1,5 +1,3 @@
-.. _daily-life :
-
 =====================
 Your daily life
 =====================
@@ -34,10 +32,10 @@ If you or your husband do two or more activities on weekdays or days off, choose
    * - 4. For housekeeping and child care
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
-   * - 5. For hobby, leisure, social interaction, etc
+   * - 5. For hobby, leisure, social interaction, etc.
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
-   * - 6. For  other  activities  such  as  sleeping, meals, taking a bath, etc.
+   * - 6. For other activities such as sleeping, meals, taking a bath, etc.
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
 
@@ -64,10 +62,10 @@ If you or your husband do two or more activities on weekdays or days off, choose
    * - 4. For housekeeping and child care
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
-   * - 5. For hobby, leisure, social interaction, etc
+   * - 5. For hobby, leisure, social interaction, etc.
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
-   * - 6. For  other  activities  such  as  sleeping, meals, taking a bath, etc.
+   * - 6. For other activities such as sleeping, meals, taking a bath, etc.
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
 
@@ -75,14 +73,13 @@ If you or your husband do two or more activities on weekdays or days off, choose
 How many days off do you or your husband have a week?
 ===========================================================
 
- (Count a day off every 2 weeks as a half day and enter it as 0.5.)
+ [Answer two days off every one week as 2.0. Count a day off every 2 weeks as a half day and enter it as 0.5.]
 
-1. My days off ___.___ days	\　　  0. Unemployed
-2. My husband's days off ___.___ dayss	\　　  0. Unemployed
+1. My days off ___.___ days
+ X. Unemployed
+2. My husband's days off ___.___ days
+ X. Unemployed
 
-.. todo::
-
-  ↑　0.は日本語版では
 
 What day is your and your husband's day off in the week?
 ================================================================
@@ -102,21 +99,21 @@ What day is your and your husband's day off in the week?
      - Friday
      - Saturday
    * - Mine
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
-     -  \　　5
-     -  \　　6
-     -  \　　7
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+     -  \    6
+     -  \    7
    * - My husband’s
-     -  \　　1
-     -  \　　2
-     -  \　　3
-     -  \　　4
-     -  \　　5
-     -  \　　6
-     -  \　　7
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+     -  \    6
+     -  \    7
 
 
 Did you take any trips overnight or for longer in the past year (October  |syear prev|  - - September |syear|  )?
@@ -127,26 +124,26 @@ Did you take any trips overnight or for longer in the past year (October  |syear
 *Domestic*
 
 1. Pleasure trip (trips for recreation, sports, etc.)
- 1.	No
+ 1. No
  2. Yes
 
 2. Trip or some kind of visit to your hometown
- 1.	No
+ 1. No
  2. Yes
 
 3. Business trip, training, etc.
- 1.	No
+ 1. No
  2. Yes
  3. I have not worked in the past year
 
 *Overseas*
 
 4. Pleasure trip (trips for recreation, sports, etc.)
- 1.	No
+ 1. No
  2. Yes
 
 5. Trip or some kind of visit to your hometown
- 1.	No
+ 1. No
  2. Yes
 
 6. Business trip, training, etc.

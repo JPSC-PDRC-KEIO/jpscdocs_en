@@ -15,6 +15,7 @@ Contents:
    income_management
    household_finance
    parents
+   care-giving
    raising_children
    savings_property
    housing
@@ -23,8 +24,7 @@ Contents:
    durable_goods
    daily_life
    self_development
-   desire_bear_children
-   care-giving
+   your_child
    about_your_life
    policies
    attitude

@@ -2,10 +2,10 @@
  Policies
 ==============
 
-What do you think about the consumption tax increase being postponed again?
+Do you agree with the delay in raising consumption tax to 10%?
 ================================================================================
 
- (Circle only one one.)
+|schoice|
 
 1. I agree with it
 2. I agree more than disagree
@@ -13,10 +13,10 @@ What do you think about the consumption tax increase being postponed again?
 4. I disagree more than agree
 5. I disagree with it
 
-What do you think about further increases to the consumption? tax?
+What do you think about further increases to the consumption tax?
 ===============================================================================
 
- (Circle only one)
+|schoice|
 
 1. I agree with it.
 2. I agree more than disagree.
@@ -24,7 +24,15 @@ What do you think about further increases to the consumption? tax?
 4. I disagree more than agree.
 5. I disagree with it.
 
-.. todo::
+Many public support measures exist to reduce the burden of childcare and education cost. Which of the following best corresponds with your opinion?
+=============================================================================================================================================================
 
-   ★新規
-   配偶者控除について
+(Please choose one.)
+
+ 1. Cash payment such as “Child’s Benefits”
+ 2. Tax incentive (Dependency allowance and so on)
+ 3. Reduction of educational cost for nurseries, kindergarten, and schools or making them free
+ 4. Expansion of facilities for childcare and education
+ 5. No measure is necessary
+
+ .. todo:: ↑無配偶用はここまで

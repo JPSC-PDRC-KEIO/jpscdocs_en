@@ -39,7 +39,7 @@ Please answer additional questions about "[A] lot".
 
 **[A] lot**
 
-What do you estimate the current market price (selling price) of the  current market price (selling price) of the lot is?", "2. What do you estimate the current market price (selling price) for the house is?
+What do you estimate the current market price (selling price) of the lot is?
 
  \__ hundred million __ __ __ 0 ten thousand yen
 
@@ -65,7 +65,7 @@ Who has ownership of the lot? In the case that the lot is in the name of two or 
 
 1. Me
 2. My parent(s)
-3.Other (Please specify: ____________ )
+3. Other (Please specify: ____________ )
 4. Don’t know
 
 [If you answered 1 in 8.2.6]
@@ -83,7 +83,7 @@ How did you obtain the lot?
 [If you answered 2-5 in 8.2.7]
 
 
-What is the floor area? (2 tatamis = 1 tsubo = 3.3 m2)
+What is the floor area? (2 tatamis = 1 tsubo = 3.3 ㎡)
 ------------------------------------------------------------------
 
     \__ __ __ __ ㎡
@@ -127,10 +127,9 @@ How did you obtain the house?
 
 .. _family-live-together_s:
 
-Does your family live together with, or separately from, your parents or your husband's parent(s)?
+Does your family live together with, or separately from, your parent(s)?
 ===============================================================================================================
 
-[If your parents or your husband's parent(s) live separately from you, answer this question about whichever parent(s) lives closest to your house.]
 
 1. My family shares the same house and income with my parent(s) (single household living together)
 2. My family shares the same house with my parent(s) but not the same income (two households living together)
@@ -147,7 +146,7 @@ Does your family live together with, or separately from, your parents or your hu
 [If your family lives separately from your parent(s), please answer questions Q8.4 and Q8.5.]
 
 Which house do your parent(s) live in? Please answer for your father and mother separately.
-=======================================================================================================
+--------------------------------------------------------------------------------------------------
 
 .. list-table::
    :header-rows: 1

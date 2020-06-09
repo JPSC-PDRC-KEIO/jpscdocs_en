@@ -2,6 +2,8 @@
  The future
 ================
 
+.. todo:: ↓無配偶用
+
 What would you like to pursue further in your life?
 =======================================================
 
@@ -30,9 +32,10 @@ What would you like to pursue further in your life?
 9. More time
 10. Interests/hobbies
 11. Family
-12. Involvemnet in the local community
+12. Involvement in the local community
 13. Friends
-14. Other (please specify: _____________ )
+14. Love, relationship with lover
+15. Other (Please specify: _____________ )
 
 
 Do you want to be working and receiving a salary 3 years from now? Please answer whether you would like to work, regardless of whether you will (or will be able to) work.
@@ -44,11 +47,11 @@ Do you want to be working and receiving a salary 3 years from now? Please answer
    :header-rows: 0
    :widths: 2, 2, 2, 2, 2
 
-   * - \　　1
-     - \　　2
-     - \　　3
-     - \　　4
-     - \　　5
+   * - \    1
+     - \    2
+     - \    3
+     - \    4
+     - \    5
    * - I would love to be working.
      - <--------------
      - Can’t say either way.
@@ -63,11 +66,11 @@ Do you think that you will actually be working and receiving a salary 3 years fr
    :header-rows: 0
    :widths: 2, 2, 2, 2, 2
 
-   * - \　　1
-     - \　　2
-     - \　　3
-     - \　　4
-     - \　　5
+   * - \    1
+     - \    2
+     - \    3
+     - \    4
+     - \    5
    * - I think I will be working
      - <--------------
      - Can’t say either way.
@@ -83,7 +86,3 @@ Do you think about retiring or your life after retiring?
 2. I think about it sometimes.
 3. I don’t think about it much.
 4. I don’t think about it at all.
-
-.. todo::
-
-  You have completed this questionnaire. Thank you very much for your patience and cooperation.　を入れるか入れないか

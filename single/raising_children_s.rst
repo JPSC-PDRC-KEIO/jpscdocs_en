@@ -54,7 +54,7 @@ Approximately how much have you spent on your child’s/children’s education i
    * - | 1 Preschool (staying at home)
        | 2 Preschool (nursery)
        | 3 Preschool (kindergarten)
-       | 4 Primary school", "9 Junior college
+       | 4 Primary school
        | 5 junior high school
        | 6 High school
        | 7 Specialized training college
@@ -63,7 +63,7 @@ Approximately how much have you spent on your child’s/children’s education i
        | 10 University (4-year program)
        | 11 University (6-year program)
        | 12 Graduate school
-       | 13 Other school/s (including cram school)
+       | 13 Other school(s) (including cram school)
        | 14 Not in school or working
 
 .. todo:: ↓無配偶者用
@@ -84,8 +84,11 @@ Do you have anyone who can take care of your child(ren) except you?
 9. I have no-one who can take care of my child(ren)
 10. I don’t need to ask for any help taking care of my child(ren)
 
+Concerns about children
+==================================================
+
 Are you currently worried about your children?
-========================================================
+--------------------------------------------------
 
 |schoice|
 
@@ -146,17 +149,22 @@ Please write down the number of child(ren) who use(s) each service shown below. 
    :widths: 8, 3, 4
 
    "", "Number of child(ren) using this service", "the fees in September of this year"
-   "(1)	Authorized nursery school (approved by the government)", "", "\_____ ten thousand yen"
-   "| (2)	Unauthorized nursery school
+   "(1)\	Authorized nursery school (approved by the government)", "", "\_____ ten thousand yen"
+   "| (2)\	Unauthorized nursery school
    | (baby hotel, family day care home, workplace childcare facility)", "", "\_____ ten thousand yen"
-   "(3)	Kindergarten", "", "\_____ ten thousand yen"
-   "(4)	Babysitter, housekeeper", "", "\_____ ten thousand yen"
-   "| (5)	Others (taken care of at home by family members, relatives,
+   "(3)\	Kindergarten", "", "\_____ ten thousand yen"
+   "(4)\	Babysitter, housekeeper", "", "\_____ ten thousand yen"
+   "| (5)\	Others (taken care of at home by family members, relatives,
    | or friends, etc. who do not live with your family)", "", "\_____ ten thousand yen"
-   "(6)	Extracurricular lessons", "", "\_____ ten thousand yen"
+   "(6)\	Extracurricular lessons", "", "\_____ ten thousand yen"
 
+|
 
-.. todo:: 翻訳がみつからず
+Do you have children born after April 2, 1998?
+===================================================
+
+1. yes　
+2. No —-> (Go to :numref:`Q{number} <are-you-receiving_s>`)
 
 
 
@@ -165,10 +173,10 @@ Please write down the number of child(ren) who use(s) each service shown below. 
 Are you receiving childcare allowance?
 ===================================================
 
-(Note: childcare allowance applies to children of junior high school age and younger. For children under 3 years old, the overall monthly allowance is 5,000 yen per child; from the age of 3 until the end of elementary school, the overall monthly allowance for the first child and second child is 10,000 yen and is 15,000 yen for the third and later child; for children in junior high school, the overall allowance is 10,000 yen per child but payments are made in lump sums in February, June, and October.)
+(Note: Childcare allowance applies to children of junior high school age and younger. For children under 3 years old, the overall monthly allowance is 15,000 yen per child; from the age of 3 until the end of elementary school, the overall monthly allowance for the first child and second child is 10,000 yen. For the third and additional children, 15,000 yen; for children in junior high school, the overall allowance is 10,000 yen per child but payments are made in lump sums in February, June, and October.In addition, if the parent's income is above a certain level, a monthly flat rate of 5,000 yen will be provided as a special benefit.)
 
 1. Yes
 2. No
-3. Don’t Know
+3. Don’t know
 
  

@@ -39,7 +39,7 @@ Please answer additional questions about "[A] lot".
 
 **[A] lot**
 
-What do you estimate the current market price (selling price) of the  current market price (selling price) of the lot is?", "2. What do you estimate the current market price (selling price) for the house is?
+What do you estimate the current market price (selling price) of the lot is?
 
  \__ hundred million __ __ __ 0 ten thousand yen
 
@@ -92,7 +92,7 @@ Whose parent(s) are you referring to in your chosen answer?
 3. My and my husband's parents
 
 
-What is the floor area? (2 tatamis = 1 tsubo = 3.3 m2)
+What is the floor area? (2 tatamis = 1 tsubo = 3.3 ㎡)
 ------------------------------------------------------------------
 
     \__ __ __ __ ㎡

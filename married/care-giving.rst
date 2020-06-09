@@ -1,5 +1,5 @@
 ========================
-Care giving
+Caregiving
 ========================
 
 Have you provided nursing care to someone closely related to you?

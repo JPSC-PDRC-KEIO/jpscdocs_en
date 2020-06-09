@@ -101,9 +101,11 @@ Do you have anyone who can take care of your child(ren) except you?
 10. I have no-one who can take care of my child(ren)
 11. I don’t need to ask for any help taking care of my child(ren)
 
+Concerns about children
+==================================================
 
 Are you currently worried about your children?
-========================================================
+--------------------------------------------------
 
 |schoice|
 
@@ -149,12 +151,13 @@ Do you have anyone to ask about child-rearing?
 9. I have no-one to ask about child care
 10. I don’t need to ask about child care
 
-[If you have preschool children, please answer the following questions. If you do not have,  please go to :doc:`savings_property_s`.]]
+[If you have preschool children, please answer the following questions. If you do not have,  please go to :doc:`savings_property`.]
 
 Do you use any child-care services for your child(ren) provided by an authorized nursery school, unauthorized nursery school, kindergarten, babysitter, housekeeper, your relatives, your friends, etc.?
 ==============================================================================================================================================================================================================
 
-1. Yes    2. No —-> (Go to :numref:`Q{number} <are-you-receiving>`)
+1. Yes
+2. No —-> (Go to :numref:`Q{number} <are-you-receiving>`)
 
 
 Please write down the number of child(ren) who use(s) each service shown below. If you send your child(ren) to a nursery school or kindergarten, etc., how much did you pay for the fees in September of this year? If you have more than two pre-school-age children, please write the total amount spent for all of them.
@@ -165,14 +168,22 @@ Please write down the number of child(ren) who use(s) each service shown below. 
    :widths: 8, 3, 4
 
    "", "Number of child(ren) using this service", "the fees in September of this year"
-   "(1)	Authorized nursery school (approved by the government)", "", "\__ __ __ thousand yen"
-   "| (2)	Unauthorized nursery school
+   "(1)\	Authorized nursery school (approved by the government)", "", "\__ __ __ thousand yen"
+   "| (2)\	Unauthorized nursery school
    | (baby hotel, family day care home, workplace childcare facility)", "", "\__ __ __ thousand yen"
-   "(3)	Kindergarten", "", "\__ __ __ thousand yen"
-   "(4)	Babysitter, housekeeper", "", "\__ __ __ thousand yen"
-   "| (5)	Others (taken care of at home by family members, relatives,
+   "(3)\	Kindergarten", "", "\__ __ __ thousand yen"
+   "(4)\	Babysitter, housekeeper", "", "\__ __ __ thousand yen"
+   "| (5)\	Others (taken care of at home by family members, relatives,
    | or friends, etc. who do not live with your family)", "", "\__ __ __ thousand yen"
-   "(6)	Extracurricular lessons", "", "\__ __ __ thousand yen"
+   "(6)\	Extracurricular lessons", "", "\__ __ __ thousand yen"
+
+|
+
+Do you have children born after April 2, 1998?
+===================================================
+
+1. yes　
+2. No —-> (Go to :numref:`Q{number} <are-you-receiving>`)
 
 [If you have children of junior high school age and younger, please answer the following questions.
 
@@ -181,10 +192,10 @@ Please write down the number of child(ren) who use(s) each service shown below. 
 Are you receiving childcare allowance?
 ===================================================
 
-(Note: childcare allowance applies to children of junior high school age and younger. For children under 3 years old, the overall monthly allowance is 5,000 yen per child; from the age of 3 until the end of elementary school, the overall monthly allowance for the first child and second child is 10,000 yen and is 15,000 yen for the third and later child; for children in junior high school, the overall allowance is 10,000 yen per child but payments are made in lump sums in February, June, and October.)
+(Note: Childcare allowance applies to children of junior high school age and younger. For children under 3 years old, the overall monthly allowance is 15,000 yen per child; from the age of 3 until the end of elementary school, the overall monthly allowance for the first child and second child is 10,000 yen. For the third and additional children, 15,000 yen; for children in junior high school, the overall allowance is 10,000 yen per child but payments are made in lump sums in February, June, and October.In addition, if the parent's income is above a certain level, a monthly flat rate of 5,000 yen will be provided as a special benefit.)
 
 1. Yes
 2. No
-3. Don’t Know
+3. Don’t know
 
  
