@@ -76,7 +76,7 @@ Choose code numbers from the code list below and enter them in the columns “(1
    * - | (1)\  Purpose of borrowing
        | (enter any of the code numbers from 01 to 11)
      - | (2)\  Borrowed from
-       | (enter any	of the code numbers from 21 to 29)
+       | (enter any	of the code numbers from 21 to 28)
      - | (3)\  Reason for borrowing from the source
        | (enter any of the code numbers from 31 to 45)
      - (4)\  Total balance due on the loan(s)

@@ -87,8 +87,8 @@ What level of education do you want your child(ren) to receive at minimum in the
    :widths: 2, 2, 2
 
    * -
-     - If you don’t have a childI
-     - f you have a child(ren)
+     - If you don’t have a child
+     - If you have a child(ren)
    * - First child
      -
      -

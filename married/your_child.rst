@@ -130,4 +130,4 @@ Which of the following best describes who you think should be responsible for th
 1. Parents are responsible for their child’s care and education so the parents should privately bear the cost
 2. Children will ultimately join the workforce and contribute to production so companies should bear a large part of childcare and education costs in the form of child allowance, etc.
 3. Children will support society in the future so society as a whole should bear childcare and education costs (from the public purse)
-4. Other (please specify: _____________ )
+4. Other (Please specify: _____________ )

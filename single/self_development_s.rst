@@ -2,7 +2,7 @@
 Self-development
 ======================
 
-Have you taken any classes at schools categorized as "miscellaneous" below, such as vocational schools or colleges or any correspondence courses during the past year (October  |syear prev|  - - September |syear|  )? Please do not count the courses your company sent you to take.
+Have you taken any classes at schools categorized as "miscellaneous" below, such as vocational schools, colleges or any correspondence courses during the past year (October  |syear prev|  - - September |syear|  )? Please do not count the courses your company sent you to take.
 ==========================================================================================================================================================================================================================================================================================
 
 1. Yes, I have
