@@ -2,12 +2,15 @@
  Furniture and consumer electronics
 ===========================================
 
-How many of the following items do you have now? Please enter the number of items that you have. And, what did you purchase among the items listed below in the past year?
-======================================================================================================================================================================================================================================================================================================================================================================
+How many of the following items do you have now?
+====================================================
 
-| If you don’t have any of the items listed below, enter “0”.
-| (Mark the purchased items with circles and enter the number of units purchased per item and the purchase price per item.)
+ (Please enter the number of items that you have. If you don’t have any of the items listed below, enter “0”.)
 
+What did you purchase among the items listed below in the past year?
+==========================================================================
+
+ (Mark the purchased items with circles and enter the number of units purchased per item and the purchase price per item.)
 
  .. list-table::
     :header-rows: 0
@@ -47,7 +50,7 @@ How many of the following items do you have now? Please enter the number of item
       - \ The fee for usage in last September is _____ ten thousand yen
 
 Does your household currently have any pets?
-===================================================
+-----------------------------------------------
 
 1. Yes
 2. No ----> (Go to :doc:`daily_life`)

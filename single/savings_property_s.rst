@@ -65,7 +65,7 @@ How much savings & deposits and securities does your household have?  Please ans
 
 .. _how-much-do-you-plan-to-save_s:
 
-Saving plan
+Do you have a plan about savings in your household?
 =======================================================================
 
 How much do you plan to save?
@@ -89,51 +89,51 @@ Also, for each item you answered “Yes,” what amount of money are you going t
    * -
      - Purpose of savings
      - Amount you plan to save
-   * - (a)\	 To save for purchasing durable consumer goods
+   * - (a) To save for purchasing durable consumer goods
      - | Yes ---->
        | No
      - \__ hundred million __ __ __ 0 ten thousand yen
-   * - (b)\	 To make save to spend on leisure fund
+   * - (b) To make save to spend on leisure fund
      - | Yes ---->
        | No
      - \__ hundred million __ __ __ 0 ten thousand yen
-   * - (c)\	 To make save for my wedding
+   * - (c) To make save for my wedding
      - | Yes ---->
        | No
      - \__ hundred million __ __ __ 0 ten thousand yen
-   * - (d)\	 To make save for my child(ren)’s wedding(s)
+   * - (d) To make save for my child(ren)’s wedding(s)
      - | Yes ---->
        | No
      - \__ hundred million __ __ __ 0 ten thousand yen
-   * - (e)\	 To purchase (or renovate or replace) my house (with lot)
+   * - (e) To purchase (or renovate or replace) my house (with lot)
      - | Yes ---->
        | No
      - \__ hundred million __ __ __ 0 ten thousand yen
-   * - (f)\	 To pay the educational expenses for my child(ren)
+   * - (f) To pay the educational expenses for my child(ren)
      - | Yes ---->
        | No
      - \__ hundred million __ __ __ 0 ten thousand yen
-   * - (g)\	 To make save for my child(ren)’s wedding(s)
+   * - (g) To make save for my child(ren)’s wedding(s)
      - | Yes ---->
        | No
      - \__ hundred million __ __ __ 0 ten thousand yen
-   * - (h)\	 To provide for living comfortably in my old age
+   * - (h) To provide for living comfortably in my old age
      - | Yes ---->
        | No
      - \__ hundred million __ __ __ 0 ten thousand yen
-   * - (i)\	 To save for starting an independent business
+   * - (i) To save for starting an independent business
      - | Yes ---->
        | No
      - \__ hundred million __ __ __ 0 ten thousand yen
-   * - (j)\	 For no special purpose, but to feel free from anxiety with savings
+   * - (j) For no special purpose, but to feel free from anxiety with savings
      - | Yes ---->
        | No
      - \__ hundred million __ __ __ 0 ten thousand yen
-   * - (k)\	 To leave our savings for our child(ren) to inherit
+   * - (k) To leave our savings for our child(ren) to inherit
      - | Yes ---->
        | No
      - \__ hundred million __ __ __ 0 ten thousand yen
-   * - (l)\	 For other purposes (Please specify:    )
+   * - (l) For other purposes (Please specify:    )
      - | Yes ---->
        | No
      - \__ hundred million __ __ __ 0 ten thousand yen
@@ -150,11 +150,8 @@ How much have you paid on the insurance premiums shown in the table below?
     :widths: 5, 5, 5
 
     * - | Type of insurance
-        |
       - | Premium paid in the past year
-        | (January - December  |syear prev| )
-      - | Total of premiums paid
-        |
+      - | (January - December  |syear prev| )
     * - 1 Single premium type insurance
       -  ________ten thousand yen
       -

@@ -26,6 +26,11 @@ What kind of courses have you taken? (Include correspondence courses)
 11. Community/Culture center
 12. Other (Please specify: _____________ )
 
+.. note::
+
+  10	★追加  民間の通信教育
+  11	★追加  公民館・カルチャーセンター
+
 
 Did you graduate from school in the past year?
 ------------------------------------------------

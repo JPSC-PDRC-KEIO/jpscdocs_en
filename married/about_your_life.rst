@@ -234,49 +234,49 @@ Please provide your thoughts on the following questions.
      - Somewhat disagree
      - Mostly disagree
      - Not sure
-   * - (1)\  I can trust most people
+   * - I can trust most people
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - (2)\  I feel like I am left behind from what’s going on in society and the world
+   * - I feel like I am left behind from what’s going on in society and the world
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - (3)\  I willingly take on tasks that most people hate
+   * - I willingly take on tasks that most people hate
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - (4)\  Efforts are always rewarded someday
+   * - Efforts are always rewarded someday
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - (5)\  I try to enjoy my life now rather than think about the future
+   * - I try to enjoy my life now rather than think about the future
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - (6)\  Do you think Japan is a society with large income inequality?
+   * - Do you think Japan is a society with large income inequality?
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - (7)\  Do you think Japan is country that is easy to live in?
+   * - Do you think Japan is country that is easy to live in?
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
-   * - (8)\  Do you think the Japanese government and the administration work hard to address new as well as difficult problems?
+   * - Do you think the Japanese government and the administration work hard to address new as well as difficult problems?
      -  \    1
      -  \    2
      -  \    3
@@ -300,14 +300,14 @@ As a married couple, do you openly tell each other your incomes?
      - Report nothing
      - Don’t remember
      - Had no income
-   * - (1)\  your income
+   * - (1)your income
      - 1
      - 2
      - 3
      - 4
      - 5
      - 6
-   * - (2)\  Your spouse’s income
+   * - (2)Your spouse’s income
      - 1
      - 2
      - 3

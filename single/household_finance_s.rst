@@ -68,11 +68,9 @@ What was the total amount of tax (income, resident, and other taxes) and social 
    | 0. not apply", "| Total last year __ __ __ ten thousand yen
    | 0. not apply"
 
-Health insurance
-============================
 
 What kind of health insurance do you have?
------------------------------------------------
+================================================
 
 (If any of answers 1 to 4 apply, please state whether you yourself are the insurer or any other family member is the insurer.)
 
@@ -111,11 +109,9 @@ If you are a company employee or self-employed, how much was your take-home pay 
 | My take-home pay in September —-> \ __ __ __ ten thousand yen
 | 0. None
 
-Cost payment by your parents
-======================================================================================================================
 
 What household expenses do your parent(s) pay for, even in partly for your household among the following items?
----------------------------------------------------------------------------------------------------------------------
+======================================================================================================================
 
 |mchoice|
 
@@ -197,37 +193,33 @@ Please write down your household expenditure in September this year.
    :header-rows: 0
    :widths: 6, 4
 
-   * - a)\  Food (including eating-out/school lunch)
+   * - Food (including eating-out/school lunch)
      - \__ __ __ thousand yen
-   * - b)\  House rent, land rent, and home repairs (excluding housing loans)
+   * - House rent, land rent, and home repairs (excluding housing loans)
      - \__ __ __ thousand yen
-   * - c)\  Utilities (electricity, gas, water, sewerage)
+   * - Utilities (electricity, gas, water, sewerage)
      - \__ __ __ thousand yen
-   * - d)\  Furniture and household goods (e.g., bed linen)
+   * - Furniture and household goods (e.g., bed linen)
      - \__ __ __ thousand yen
-   * - e)\  Clothing, shoes
+   * - Clothing, shoes
      - \__ __ __ thousand yen
-   * - f)\  Healthcare (including health drinks and foods)
+   * - Healthcare (including health drinks and foods)
      - \__ __ __ thousand yen
-   * - g)\  Transportation (purchase or loan repayment of a vehicle, fuel or commuter pass expenses, etc.)
+   * - Transportation (purchase or loan repayment of a vehicle, fuel or commuter pass expenses, etc.)
      - \__ __ __ thousand yen
-   * - h)\  Communication (postal, telephone, internet fees, etc.)
+   * - Communication (postal, telephone, internet fees, etc.)
      - \__ __ __ thousand yen
-   * - i)\  Education (school fees, private tutoring fees, textbooks, reference books, etc.)
+   * - Education (school fees, private tutoring fees, textbooks, reference books, etc.)
      - \__ __ __ thousand yen
-   * - j)\  Culture and entertainment
+   * - Culture and entertainment
      - \__ __ __ thousand yen
-   * - k)\  Social expenses
+   * - Social expenses
      - \__ __ __ thousand yen
-   * - l)\  Pocket money for your family members
+   * - Pocket money for you, your husband, your child(ren)
      - \__ __ __ thousand yen
-   * - m)\  Other expenses
+   * - Allowance or pocket money for your parent(s) and/or your husband’s parent(s)
      - \__ __ __ thousand yen
-   * - (1)\  Total living expenses (Total a) to m) )
-     - \__ __ __ thousand yen
-   * - (2)\  Svings
-     - \__ __ __ thousand yen
-   * - (3)\  Loan repayment(s)
+   * - Other expenses
      - \__ __ __ thousand yen
    * - Total living expenses
      - \__ __ __ thousand yen

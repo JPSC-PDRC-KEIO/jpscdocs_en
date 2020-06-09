@@ -101,11 +101,9 @@ Do you have anyone who can take care of your child(ren) except you?
 10. I have no-one who can take care of my child(ren)
 11. I don’t need to ask for any help taking care of my child(ren)
 
-Concerns about children
-==================================================
 
 Are you currently worried about your children?
---------------------------------------------------
+========================================================
 
 |schoice|
 
@@ -151,7 +149,7 @@ Do you have anyone to ask about child-rearing?
 9. I have no-one to ask about child care
 10. I don’t need to ask about child care
 
-[If you have preschool children, please answer the following questions. If you do not have,  please go to :doc:`savings_property`.]
+[If you have preschool children, please answer the following questions. If you do not have,  please go to :doc:`savings_property_s`.]]
 
 Do you use any child-care services for your child(ren) provided by an authorized nursery school, unauthorized nursery school, kindergarten, babysitter, housekeeper, your relatives, your friends, etc.?
 ==============================================================================================================================================================================================================
@@ -167,14 +165,14 @@ Please write down the number of child(ren) who use(s) each service shown below. 
    :widths: 8, 3, 4
 
    "", "Number of child(ren) using this service", "the fees in September of this year"
-   "(1)\	Authorized nursery school (approved by the government)", "", "\__ __ __ thousand yen"
-   "| (2)\	Unauthorized nursery school
+   "(1)	Authorized nursery school (approved by the government)", "", "\__ __ __ thousand yen"
+   "| (2)	Unauthorized nursery school
    | (baby hotel, family day care home, workplace childcare facility)", "", "\__ __ __ thousand yen"
-   "(3)\	Kindergarten", "", "\__ __ __ thousand yen"
-   "(4)\	Babysitter, housekeeper", "", "\__ __ __ thousand yen"
-   "| (5)\	Others (taken care of at home by family members, relatives,
+   "(3)	Kindergarten", "", "\__ __ __ thousand yen"
+   "(4)	Babysitter, housekeeper", "", "\__ __ __ thousand yen"
+   "| (5)	Others (taken care of at home by family members, relatives,
    | or friends, etc. who do not live with your family)", "", "\__ __ __ thousand yen"
-   "(6)\	Extracurricular lessons", "", "\__ __ __ thousand yen"
+   "(6)	Extracurricular lessons", "", "\__ __ __ thousand yen"
 
 [If you have children of junior high school age and younger, please answer the following questions.
 

@@ -162,7 +162,7 @@ How many hours do you work per week in general?
 9. 60 to 64 hours
 10. More than 64 hours
 
-Overtime work
+How many hours do you work overtime per week?
 ===========================================================
 
 How many hours per week do you get paid overtime work?
@@ -226,11 +226,8 @@ What exact year was it established?
 
 
 
-Paid leave
-======================================================================================================================================
-
 How many total days of paid leave do you have in fiscal year  |syear prev| (April 1, 2014 to March 31,  |syear prev| )?
--------------------------------------------------------------------------------------------------------------------------------
+======================================================================================================================================
 
 [Exclude any paid leaves carried over from the previous year]
 
@@ -551,8 +548,8 @@ Was there any change in your work over the past year (October  |syear prev|  -- 
 1. No
 2. Yes
 
- .. jump::
-    Please go to :doc:`husband_occupation`.
+.. jump::
+   Please go to :numref:`Q{number} <husbands-occupation>`.
 
 [If you answered "2. No" to Q3.21, please answer following questions.]
 
@@ -682,17 +679,14 @@ When did you start at the company or organization where you work now?
  In the month: __ __
 
  .. jump::
-    Please go to :doc:`husband_occupation`.
+    Please go to :numref:`Q{number} <husbands-occupation>`.
 
 [If you answered "3.Student", "4.Housewife and not working from home", or "5. Unemployed" to Q3.1, please answer following questions.]
 
 .. _working-one-year-ago-respondent:
 
-Working one year ago
-------------------------------------------------------------------------------
-
 Were you working one year ago (at the end of September |syear|  .)?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------------------------------------------
 
 1. Yes
 2. No ----> (Go to :numref:`Q{number} <how-many-months-work-respondent>`)

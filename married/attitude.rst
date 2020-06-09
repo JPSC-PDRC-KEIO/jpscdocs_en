@@ -21,63 +21,63 @@ We would like to ask you about your physical or mental state during the past wee
        | a week
      - | Almost every day
        |
-   * - (1)\  I was bothered by things which usually don’t bother me
+   * - I was bothered by things which usually don’t bother me
      -  \    1
      -  \    2
      -  \    3
      -  \    4
-   * - | (2)\  I felt that I could not shake off the blues,
+   * - | I felt that I could not shake off the blues,
        | even if my family or friends cheered me up
      -  \    1
      -  \    2
      -  \    3
      -  \    4
-   * - (3)\  I felt depressed
+   * - I felt depressed
      -  \    1
      -  \    2
      -  \    3
      -  \    4
-   * - (4)\  I had trouble keeping my mind on what I was doing
+   * - I had trouble keeping my mind on what I was doing
      -  \    1
      -  \    2
      -  \    3
      -  \    4
-   * - (5)\  My appetite decreased
+   * - My appetite decreased
      -  \    1
      -  \    2
      -  \    3
      -  \    4
-   * - (6)\  I felt that everything I did was an effort
+   * - I felt that everything I did was an effort
      -  \    1
      -  \    2
      -  \    3
      -  \    4
-   * - (7)\  I felt fearful
+   * - I felt fearful
      -  \    1
      -  \    2
      -  \    3
      -  \    4
-   * - (8)\  I had trouble sleeping
+   * - I had trouble sleeping
      -  \    1
      -  \    2
      -  \    3
      -  \    4
-   * - (9)\  I talked less than usual.
+   * - I talked less than usual.
      -  \    1
      -  \    2
      -  \    3
      -  \    4
-   * - (10)\  I felt lonely without company
+   * - I felt lonely without company
      -  \    1
      -  \    2
      -  \    3
      -  \    4
-   * - (11)\  I felt that my days were fun
+   * - I felt that my days were fun
      -  \    1
      -  \    2
      -  \    3
      -  \    4
-   * - (12)\  I felt sad
+   * - I felt sad
      -  \    1
      -  \    2
      -  \    3
@@ -137,14 +137,14 @@ How often do you do the following activities?
        | a week
      - | Every day
        |
-   * - (1)\  Drinking alcohol
+   * - Drinking alcohol
      -  \    1
      -  \    2
      -  \    3
      -  \    4
      -  \    5
      -  \    6
-   * - (2)\  Exercise
+   * - Exercise
      -  \    1
      -  \    2
      -  \    3
