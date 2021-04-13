@@ -214,15 +214,19 @@ When was the company or organization you work for established?
 4. 1965 to 1974
 5. 1975 to 1984
 6. 1985 to 1988
-7. 1989 and subsequent ----> (Go to :numref:`Q{number} <established-year>`)
-8. Public agency
+7. 1989 to 1997
+8. 1998 to 2008
+9. 2008 to 2017
+10. 2018 and subsequent 
+11. Public agency
 
+.. ----> (Go to :numref:`Q{number} <established-year>`)
 .. _established-year:
 
-What exact year was it established?
----------------------------------------
+.. What exact year was it established?
+.. ---------------------------------------
 
- Year established: __ __ __ __
+..  Year established: __ __ __ __
 
 
 
