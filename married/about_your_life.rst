@@ -300,14 +300,14 @@ As a married couple, do you openly tell each other your incomes?
      - Report nothing
      - Don’t remember
      - Had no income
-   * - (1)your income
+   * - your income
      - 1
      - 2
      - 3
      - 4
      - 5
      - 6
-   * - (2)Your spouse’s income
+   * - Your spouse’s income
      - 1
      - 2
      - 3
@@ -324,3 +324,108 @@ As a married couple, are you aware of your family’s cost of living (income and
 2. My husband is aware
 3. I am aware
 4. Neither of us is aware
+
+How would you characterize your discussions and decision-making as a couple for the following? 
+=========================================================================================================
+
+|schoice|
+
+.. list-table::
+   :header-rows: 1
+   :widths: 9, 2, 2, 2, 2, 2, 2, 2, 2, 2
+
+   * -
+     - | My husband decides without any 
+       | particular discussionReport in detail
+     - | I decide without any particular 
+       | discussionReport the approximate amount
+     - | One of us ends up deciding without 
+       | any particular discussionReport almost nothing
+     - | Discuss as a couple and reach a decision 
+       | once we are in agreementReport nothing
+     - | Discuss as a couple but generally follow 
+       | my husband’s inclinationDon’t remember
+     - | Discuss as a couple but generally follow 
+       | my own inclinationHad no income
+     - | Discuss as a couple 
+       | to reach a compromise
+     - | Never really discuss it
+     - | Other
+   * - Household income situation
+     - 1
+     - 2
+     - 3
+     - 4
+     - 5
+     - 6
+     - 7
+     - 8
+     - 9
+   * - Household management and sharing of expenses
+     - 1
+     - 2
+     - 3
+     - 4
+     - 5
+     - 6
+     - 7
+     - 8
+     - 9
+   * - Housing and educational expenses, and life planning for the family
+     - 1
+     - 2
+     - 3
+     - 4
+     - 5
+     - 6
+     - 7
+     - 8
+     - 9
+   * - Life after retirement
+     - 1
+     - 2
+     - 3
+     - 4
+     - 5
+     - 6
+     - 7
+     - 8
+     - 9
+   * - Husband’s working style and income
+     - 1
+     - 2
+     - 3
+     - 4
+     - 5
+     - 6
+     - 7
+     - 8
+     - 9
+   * - My working style and income
+     - 1
+     - 2
+     - 3
+     - 4
+     - 5
+     - 6
+     - 7
+     - 8
+     - 9
+
+How much time do you spend each day conversing as a couple, on average?
+==========================================================================
+
+\Average __ __ hours __ __ minutes
+
+
+How much do you and your spouse share in housework such as cooking, laundry, and cleaning? How much do you each contribute, assuming that the total is 100%?
+===============================================================================================================================================================
+.. list-table::
+   :widths: 6, 6
+
+   * - My husband
+     - \__ __ __ %
+   * - I
+     - \__ __ __ %
+   * - 
+     - 1 0 0 %
