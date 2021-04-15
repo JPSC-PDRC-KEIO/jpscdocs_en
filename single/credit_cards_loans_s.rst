@@ -233,28 +233,3 @@ Why are you going to borrow money from a company or institution?
 7. Because the lender’s service to the borrower improves after the loan is taken out
 8. Because it is well known and reliable
 9. Because of other reasons (Please specify: ＿＿＿＿＿＿＿＿＿	)
-
-
-We would like to ask about your use of cashless services. How often do you use the following payment methods in your everyday shopping? 
-==============================================================================================================================================
-
-
-QR code / barcode settlement
-------------------------------------------------
-
-|schoice|
-
-1. I use it all the time
-2. I use it sometimes
-3. I have an (electronic payment) app, but hardly ever use it
-4. I do not have an (electronic payment) app
-
-E-money and transport-related e-money (that can be used for purposes other than transport) / iD, Rakuten Edy, nanaco, etc.
------------------------------------------------------------------------------------------------------------------------------------
-
-|schoice|
-
-1. I use it all the time
-2. I use it sometimes
-3. I have an (electronic payment) app, but hardly ever use it
-4. I do not have an (electronic payment) app
