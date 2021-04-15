@@ -4,9 +4,9 @@
    contain the root `toctree` directive.
 
 
-======================
-JPSC Questionnaires
-======================
+=======================================
+JPSC Questionnaires (Excerpt)
+=======================================
 
 
 .. toctree::
