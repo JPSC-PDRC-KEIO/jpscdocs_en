@@ -2,27 +2,32 @@
  Policies
 ==============
 
-Do you agree with the delay in raising consumption tax to 10%?
-================================================================================
+.. include:: ../policies_tax_2019.rst
 
-|schoice|
+..
+    Do you agree with the delay in raising consumption tax to 10%?
+    ================================================================================
+    
+    |schoice|
+    
+    1. I agree with it
+    2. I agree more than disagree
+    3. I don’t care either way
+    4. I disagree more than agree
+    5. I disagree with it
+    
+    What do you think about further increases to the consumption tax?
+    ===============================================================================
+    
+    |schoice|
+    
+    1. I agree with it.
+    2. I agree more than disagree.
+    3. I don’t care either way.
+    4. I disagree more than agree.
+    5. I disagree with it.
 
-1. I agree with it
-2. I agree more than disagree
-3. I don’t care either way
-4. I disagree more than agree
-5. I disagree with it
-
-What do you think about further increases to the consumption tax?
-===============================================================================
-
-|schoice|
-
-1. I agree with it.
-2. I agree more than disagree.
-3. I don’t care either way.
-4. I disagree more than agree.
-5. I disagree with it.
+.. _support-measures-to-childcare:
 
 Many public support measures exist to reduce the burden of childcare and education cost. Which of the following best corresponds with your opinion?
 =============================================================================================================================================================

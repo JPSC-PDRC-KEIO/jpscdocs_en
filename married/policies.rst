@@ -2,42 +2,48 @@
  Policies
 ==============
 
-Do you agree with the delay in raising consumption tax to 10%?
-================================================================================
+.. include:: ../policies_tax_2019.rst
 
-|schoice|
+..
+    Do you agree with the delay in raising consumption tax to 10%?
+    ================================================================================
+    
+    |schoice|
+    
+    1. I agree with it
+    2. I agree more than disagree
+    3. I don’t care either way
+    4. I disagree more than agree
+    5. I disagree with it
+    
+    What do you think about further increases to the consumption tax?
+    ===============================================================================
+    
+    |schoice|
+    
+    1. I agree with it.
+    2. I agree more than disagree.
+    3. I don’t care either way.
+    4. I disagree more than agree.
+    5. I disagree with it.
 
-1. I agree with it
-2. I agree more than disagree
-3. I don’t care either way
-4. I disagree more than agree
-5. I disagree with it
 
-What do you think about further increases to the consumption tax?
-===============================================================================
-
-|schoice|
-
-1. I agree with it.
-2. I agree more than disagree.
-3. I don’t care either way.
-4. I disagree more than agree.
-5. I disagree with it.
+.. _support-measures-to-childcare:
 
 Many public support measures exist to reduce the burden of childcare and education cost. Which of the following best corresponds with your opinion?
 =============================================================================================================================================================
 
 |schoice|
 
- 1. Cash payment such as “Child’s Benefits”
- 2. Tax incentive (Dependency allowance and so on)
- 3. Reduction of educational cost for nurseries, kindergarten, and schools or making them free
- 4. Expansion of facilities for childcare and education
- 5. No measure is necessary
+1. Cash payment such as “Child’s Benefits”
+2. Tax incentive (Dependency allowance and so on)
+3. Reduction of educational cost for nurseries, kindergarten, and schools or making them free
+4. Expansion of facilities for childcare and education
+5. No measure is necessary
 
- [Please answer this question is you received an income during the last one year.]
+[Please answer this question is you received an income during the last one year.]
 
- Last year, did you make any adjustments to keep your yearly income below a certain level?
+Last year, did you make any adjustments to keep your yearly income below a certain level?
 ====================================================================================================
 
 1. Made an adjustment	Did not make an adjustment
