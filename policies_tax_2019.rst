@@ -1,4 +1,3 @@
-:orphan:
 
 How much of a burden would it be on your family if the consumption tax rises (were raised) to 10%?
 ========================================================================================================
