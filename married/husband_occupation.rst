@@ -2,7 +2,7 @@
  Your husband's occupation
 ===============================
 
-.. _husbands-work:
+.. _husbands-occupation:
 
 Is your husband currently (as of September |syear|  ) working?
 ===========================================================================
