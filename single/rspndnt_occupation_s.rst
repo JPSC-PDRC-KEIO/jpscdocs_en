@@ -683,7 +683,7 @@ When did you start at the company or organization where you work now?
  In the month: __ __
 
  .. jump::
-    Please go to :numref:`Q{number} <household_finance_s>`.
+    Please go to :doc:`household_finance_s`.
 
 [If you answered "3.Student", "4.Housewife and not working from home", or "5. Unemployed" to Q2.1, please answer following questions.]
 
