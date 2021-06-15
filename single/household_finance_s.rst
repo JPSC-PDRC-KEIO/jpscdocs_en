@@ -1,4 +1,4 @@
-.. _Household-finances_s:
+.. _household-finances_s:
 
 ======================
 Household finances

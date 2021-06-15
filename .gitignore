@@ -98,6 +98,9 @@ $RECYCLE.BIN/
 
 ### https://raw.github.com/github/gitignore/599646e9d0a26283d67715dead8f26e0eb2df753/Python.gitignore
 
+# sphinx build folder
+_build
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -107,6 +110,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.vscode/
 .Python
 build/
 develop-eggs/
@@ -170,7 +174,7 @@ instance/
 .scrapy
 
 # Sphinx documentation
- _build/
+docs/_build/
 
 # PyBuilder
 target/
@@ -234,4 +238,7 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+# .DS_Store
+
+*/.DS_Store
 
