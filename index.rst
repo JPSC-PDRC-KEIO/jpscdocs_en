@@ -8,6 +8,7 @@
 JPSC Questionnaires (Excerpt)
 =======================================
 
+p28新規変数追加用テスト
 
 .. toctree::
    :caption: Questionnaires for:
@@ -15,6 +16,7 @@ JPSC Questionnaires (Excerpt)
 
    married/index
    single/index
+   covide19/index
 
 
 ..
