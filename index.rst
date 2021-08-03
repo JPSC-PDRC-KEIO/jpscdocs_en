@@ -15,6 +15,8 @@ JPSC Questionnaires (Excerpt)
 
    married/index
    single/index
+   covid19/index
+
 
 
 ..
