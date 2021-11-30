@@ -158,7 +158,6 @@ Please write down the number of child(ren) who use(s) each service shown below. 
    | or friends, etc. who do not live with your family)", "", "\_____ ten thousand yen"
    "(6)\	Extracurricular lessons", "", "\_____ ten thousand yen"
 
-|
 
 Do you have children born after April 2, 1998?
 ===================================================
@@ -166,6 +165,71 @@ Do you have children born after April 2, 1998?
 1. yes　
 2. No —-> (Go to :numref:`Q{number} <are-you-receiving_s>`)
 
+
+Who looks after your child in the late afternoon (around 4 p.m. to 6 p.m.) on weekdays? Circle all that apply.
+==============================================================================================================================================================================================================
+
+1. You
+2. Child's father
+3. Child's grandparent or relative
+4. Child's sibling
+5. Child's friend
+6. Neighbor or a parent of the child's friend
+7. Your friend or acquaintance
+8. Babysitter, housekeeper, etc.
+9. Nursery school, after-school program, etc.
+10. Tutorial school (juku), lesson program, etc.
+11. Extracurricular team, club, etc.
+12. Child spends time by himself or herself (even though he or she needs care).
+13. Child spends time by himself or herself (as he or she does not need care).
+14. Other (Specify:     )
+
+With whom does your first (second, third) child spend the most time in the late afternoon (around 4 p.m. to 6 p.m.) on weekdays? Choose one of the above fourteen options for each child. Enter 0 if the child has already graduated from junior high school.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+First child --> _ _
+
+Second child --> _ _
+
+Third child --> _ _
+
+The following sub-questions concern the situation surrounding your children on weekdays during the national state of emergency.
+==============================================================================================================================================================================================================
+
+Did your children of junior high school age or younger experience school closure (including closure of a kindergarten or nursery school)?  Circle only one number.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. All children of junior high school age or younger experienced school closure.
+2. Some experienced school closure while others (including those of pre-kindergarten age) did not.
+3. No children experienced school closure. (Go to Question 9.)
+4. All children were of pre-kindergarten age. (Go to Question 9.)
+
+Who looked after your children of junior high school age or younger during the day (during the normal school hours) on weekdays when school was closed? Circle all that apply.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. You
+2. Child's father
+3. Child's grandparent or relative
+4. Child's sibling
+5. Child's friend
+6. Neighbor or a parent of the child's friend
+7. Your friend or acquaintance
+8. Babysitter, housekeeper, etc.
+9. Nursery school, after-school program, etc.
+10. Tutorial school (juku), lesson program, etc.
+11. Extracurricular team, club, etc.
+12. Child spends time by himself or herself (even though he or she needs care).
+13. Child spends time by himself or herself (as he or she does not need care).
+14. Other (Specify:     )
+
+For your first through third children, including those who are in high school or older, which person/place did you spend the most time with during weekday days when school was closed? Choose one of the above fourteen options for each child. Enter 0 if the child was of pre-kindergarten age, did not experience school closure, or had already graduated from junior high school.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+First child --> _ _
+
+Second child --> _ _
+
+Third child --> _ _
 
 
 .. _are-you-receiving_s:

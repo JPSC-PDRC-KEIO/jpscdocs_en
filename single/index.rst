@@ -30,3 +30,4 @@ Contents:
    attitude_s
    family_marriage_s
    future_s
+   covid19_s

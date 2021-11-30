@@ -64,7 +64,7 @@ Do you try to save a fixed amount from your household income?
 Do you think that you and your husband are strict or loose with money?
 ========================================================================
 
-|echoice|
+|schoice|
 
 .. csv-table::
    :header-rows: 1
@@ -246,6 +246,24 @@ If you are or your husband is a company employee or self-employed, how much was 
 
 | (2)\  My take-home pay in September —-> \ __ __ __ ten thousand yen
 |  0. None
+
+How did take-home income change during the national state of emergency in April or May (whichever month your income was lower, if no difference, May), compared to September? (Take-home income is gross income minus taxes, social insurance contributions, and other withholdings and excludes bonuses and special and temporary pay.)
+====================================================================================================================================================================================================================================================================================================================================================
+
+(If you answered 1 or 2, please provide the amount of the difference.)
+
+| (1)\ Your spouse
+|  1. More than the take-home income in September by _ _ _ thousand yen
+|  2. Less than the take-home income in September by _ _ _ thousand yen
+|  3. No change
+|  4. No income
+
+| (2)\ You
+|  1. More than your take-home income in September by _ _ _ thousand yen
+|  2. Less than your take-home income in September by _ _ _ thousand yen
+|  3. No change
+|  4. No income
+
 
 What household expenses do your parent(s) and your husband's parent(s) pay for
 =================================================================================

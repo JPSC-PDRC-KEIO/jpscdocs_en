@@ -682,8 +682,21 @@ When did you start at the company or organization where you work now?
 
  In the month: __ __
 
- .. jump::
-    Please go to :numref:`Q{number} <husbands-occupation>`.
+How did each of the following items change this year compared with around October last year (when you responded to the previous survey)? Circle one number per item.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+.. csv-table::
+
+	"","Increased a lot", "Increased a little", "No change",	"Decreased a little",	"Decreased a lot", "Not applicable"
+   "1. Amount of work / quota",	"1", "2", "3", "4",	"5", "6"
+   "2. Discretion in work",	"1", "2", "3", "4",	"5", "6"
+   "3. Work performed late at night and/or early in the morning",	"1", "2", "3", "4",	"5", "6"
+   "4. Conferences and/or business negotiations conducted online (via the Internet) and/or over the telephone",	"1", "2", "3", "4",	"5", "6"
+   "5. Satisfaction with and/or attachment to your current employer",	"1", "2", "3", "4",	"5", "6"
+   "6. Desire a career change e.g. work for a different company, etc.",	"1", "2", "3", "4",	"5", "6"
+
+.. jump::
+   Please go to :numref:`Q{number} <husbands-occupation>`.
 
 [If you answered "3.Student", "4.Housewife and not working from home", or "5. Unemployed" to Q3.1, please answer following questions.]
 

@@ -4,21 +4,22 @@ Your daily life
 
 [Please answer the following questions about your daily living schedule]
 
-How many hours do you spend in total per workday and per day off for each of 6 activities listed below?
-===================================================================================================================================
+How many days per week do you currently work for a wage or salary? Also, how many of those days do you mainly work from home or remotely? Enter 0 if you do not work in the indicated manner or do not work at all (because of unemployment, etc.). Enter 2.0 to indicate two days per week. Count each day of work that is performed every other week as 0.5 days.
+===================================================================================================================================================================================================================================================================================================================================================================================
 
-(Please enter the time in hours and in units of 10 minutes.)
+Working for a wage or salary: _ . _ days. Of those days, working from home or remotely: _ ._ days.
 
-If you do two or more activities on weekdays or days off, choose the most important of the two.
 
+This question concerns time spent on your activities of daily life. Approximately how much time do you spend on a weekday or non-working day on each of the following six activities of daily life, such as work and housework. The smallest unit of time is 10 minutes. If you simultaneously perform multiple activities, consider only the main activity. Please also fill in the blanks concerning a weekday on which you work from home or remotely. If you work from home or remotely on most weekdays, please enter values for a weekday on which you work from home or remotely, but leave the section for a normal weekday blank.
+===========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 .. list-table:: Your daily living schedule
    :header-rows: 1
    :widths: 5, 8, 8
 
    * -
-     - Workday
-     - Day off
+     - Workday (working from home or remotely)
+     - Day off (Note: If you don’t work, answer about your husband’s day off)
    * - 1. For commuting
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
@@ -38,6 +39,27 @@ If you do two or more activities on weekdays or days off, choose the most import
      - _____ hours and ______ 0 minutes
      - _____ hours and ______ 0 minutes
 
+
+(If you have days on which you work from home or remotely)
+
+.. list-table::
+   :header-rows: 1
+   :widths: 5, 8
+
+   * -
+     - Workday (working from home or remotely)
+   * - 1. For commuting
+     - _____ hours and ______ 0 minutes
+   * - 2. For work
+     - _____ hours and ______ 0 minutes
+   * - 3. For schoolwork (studies)
+     - _____ hours and ______ 0 minutes
+   * - 4. For housekeeping and child care
+     - _____ hours and ______ 0 minutes
+   * - 5. For hobby, leisure, social interaction, etc.
+     - _____ hours and ______ 0 minutes
+   * - 6. For other activities such as sleeping, meals, taking a bath, etc.
+     - _____ hours and ______ 0 minutes
 
 
 How many days off do you have a week?

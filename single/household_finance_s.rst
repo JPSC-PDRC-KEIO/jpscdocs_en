@@ -110,6 +110,16 @@ If you are a company employee or self-employed, how much was your take-home pay 
 | 0. None
 
 
+How did take-home income change during the national state of emergency in April or May (whichever month your income was lower, if no difference, May), compared to September? (Take-home income is gross income minus taxes, social insurance contributions, and other withholdings and excludes bonuses and special and temporary pay.)
+====================================================================================================================================================================================================================================================================================================================================================
+
+(If you answered 1 or 2, please provide the amount of the difference.)
+
+|  1. More than your take-home income in September by _ _ _ thousand yen
+|  2. Less than your take-home income in September by _ _ _ thousand yen
+|  3. No change
+|  4. No income
+
 What household expenses do your parent(s) pay for, even in partly for your household among the following items?
 ======================================================================================================================
 
