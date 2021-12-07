@@ -158,7 +158,7 @@ How many hours does your husband work per week in general?
 7. 49 to 54 hours
 8. 55 to 59 hours
 9. 60 to 64 hours
-10. More than 64 hours
+10. More than 65 hours
 
 How many hours does your husband work overtime per week?
 ======================================================================
