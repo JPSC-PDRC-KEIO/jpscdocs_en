@@ -304,6 +304,21 @@ Which of the following events happened to you in the past year (October  |syear 
 14. Other special event(s) (Please specify: _______________ )
 15. No special event
 
+Do you plan to do any of the following, or have been notified of any of the following, for the coming year (October 2021 to September 2022)? (Circle as many as apply to you.)
+==============================================================================================================================================================================================================================================
+
+1. Start a new job.
+2. Transfer.
+3. Change your workplace or job.
+4. Leave your current job of your own volition or at your own convenience.
+5. Leave your current job due to workplace issues beyond your control (restructuring, bankruptcy, etc.).
+6. Retire.
+7. Finish an employment contract (for a reason other than retirement).
+8. Be hospitalized for surgery or long-term treatment.
+9. Get married.
+10. Get divorced.
+11. Have a child.
+12. Move residence.
 
 Did you move house in the past year? (Including because of getting married.)
 ===========================================================================================
@@ -331,3 +346,15 @@ What event(s) did other members of your household have in the past year (October
 13. Become a grandmother
 14. Other special event(s) (Please specify: _______________ )
 15. No special event
+
+Does your husband plan to do any of the following, or has he been notified of any of the following, for the coming year (October 2021 to September 2022)?
+===============================================================================================================================================================================
+
+1. Start a new job.
+2. Transfer.
+3. Change your workplace or job.
+4. Leave your current job of your own volition or at your own convenience.
+5. Leave your current job due to workplace issues beyond your control (restructuring, bankruptcy, etc.).
+6. Retire.
+7. Finish an employment contract (for a reason other than retirement).
+8. Be hospitalized for surgery or long-term treatment.

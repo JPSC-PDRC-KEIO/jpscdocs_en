@@ -108,3 +108,26 @@ Please select any of the following that describes your compensation for non-busi
 6. No compensation at all for non-business days
 7. Other (Specify:_____________)
 
+This question refers to status and intentions regarding COVID-19 vaccination. Please circle the applicable number. Please enter your status as of the end of September. (Please choose one.)
+===================================================================================================================================================================================================================
+
+1. I have already received two doses.
+2. I have received one dose, but have not yet received my second dose.
+3. I have not yet been vaccinated. I would like to get the vaccine as soon as possible (including if you have already made a vaccination appointment).
+4. I have not yet been vaccinated I would like to get the vaccine at some point.
+5. I have not yet been vaccinated. I have not decided whether I would get the vaccine.
+6. I have not yet been vaccinated, and I will not be vaccinated.
+
+This question refers to about the status and intentions regarding COVID-19 vaccination for family members over the age of 18. Please circle the applicable number. Please enter your status as of the end of September. (Please choose one.) If you are the only one in your family to whom this applies, please answer for yourself.
+===============================================================================================================================================================================================================================================================================================================================================
+
+1. Everyone including myself has already been vaccinated with two doses.
+2. Everyone, including myself, has received one dose, but some have not yet received their second dose.
+3. At least one person has not been vaccinated even once.
+
+What do you think of COVID-19 vaccination for children aged 12 to 15 years old?
+==================================================================================================
+
+1. They should be vaccinated.
+2. They should not be vaccinated.
+3. I can’t say either way.

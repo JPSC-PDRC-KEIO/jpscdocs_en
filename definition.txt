@@ -7,8 +7,8 @@
 
 
 .. JPSC specific
-.. |syear| replace:: 2020
-.. |syear prev| replace:: 2019
+.. |syear| replace:: 2021
+.. |syear prev| replace:: 2020
 .. |mchoice| replace:: Pleas select all that apply.
 .. Circle only one answer
 .. |schoice| replace:: |space|

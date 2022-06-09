@@ -193,16 +193,13 @@ Second child --> _ _
 
 Third child --> _ _
 
-The following sub-questions concern the situation surrounding your children on weekdays during the national state of emergency.
-==============================================================================================================================================================================================================
 
-Did your children of junior high school age or younger experience school closure (including closure of a kindergarten or nursery school)?  Circle only one number.
+In the past year (i.e., from October |syear prev|  to September |syear| ), have any of your children in junior high school or below taken a leave of absence (including extended long holidays) or been suspended from their school or kindergarten? (Circle one that applies)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. All children of junior high school age or younger experienced school closure.
-2. Some experienced school closure while others (including those of pre-kindergarten age) did not.
-3. No children experienced school closure. (Go to Question 9.)
-4. All children were of pre-kindergarten age. (Go to Question 9.)
+1. Yes, they took a leave or received a suspension
+2. No, they did not take a leave or receive a suspension (Go to Question 9.)
+3. All children were of pre-kindergarten age. (Go to Question 9.)
 
 Who looked after your children of junior high school age or younger during the day (during the normal school hours) on weekdays when school was closed? Circle all that apply.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

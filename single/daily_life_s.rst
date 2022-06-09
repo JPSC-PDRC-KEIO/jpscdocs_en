@@ -122,3 +122,37 @@ Did you take any trips overnight or for longer in the past year (October  |syear
  1. No
  2. Yes
  3. I have not worked in the past year
+
+
+Within the next year (assuming you have already been vaccinated, for those who wish to receive the COVID-19 vaccine), how much would you like to do the following activities?
+===========================================================================================================================================================================================
+
+.. list-table::
+   :header-rows: 1
+   :widths: 5, 5, 5, 5, 5
+
+   * -
+     - I don’t want to do it
+     - I don’t really want to do it
+     - I would rather do it than not
+     - I definitely want to do it
+   * - 1) Actively go out to eat and go shopping.
+     - 1
+     - 2
+     - 3
+     - 4
+   * - 2) Travel or visit your hometown within your prefecture or region.
+     - 1
+     - 2
+     - 3
+     - 4
+   * - 3) Travel or visit your hometown outside your prefecture or region
+     - 1
+     - 2
+     - 3
+     - 4
+   * - 4) Travel abroad
+     - 1
+     - 2
+     - 3
+     - 4

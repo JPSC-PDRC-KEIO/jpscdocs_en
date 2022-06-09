@@ -282,6 +282,54 @@ Please provide your thoughts on the following questions.
      -  \    3
      -  \    4
      -  \    5
+   * - Saving plans often don't work.
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+   * - If there is something I want, I can’t resist purchasing it.
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+   * - I want to save as much as I can in case of an emergency.
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+   * - I am worried that I am saving less money than those around me.
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+   * - I'm worried that I have less savings than I used to.
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+   * - I think it would be better to have never had 100,000 yen than to unexpectedly lose 100,000 yen.
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+   * - I was at risk of losing 10,000 yen for an unexpected reason, and I’m happy to say that I did not end up losing it after all.
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
+   * - I was supposed to receive 10,000 yen for an unexpected reason, and I’m sad to say that I did not receive it after all.
+     -  \    1
+     -  \    2
+     -  \    3
+     -  \    4
+     -  \    5
 
 
 As a married couple, do you openly tell each other your incomes?

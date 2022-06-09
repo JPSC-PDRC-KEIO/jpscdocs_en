@@ -31,3 +31,5 @@ Contents:
    family_marriage_s
    future_s
    covid19_s
+   about_your_progress_s
+   about_this_survey_s

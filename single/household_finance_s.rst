@@ -69,6 +69,29 @@ What was the total amount of tax (income, resident, and other taxes) and social 
    | 0. not apply"
 
 
+This question refers to expected earnings for the current year (January to December 2021). What do you expect to be the total amount for each person? Please write the amount of income including tax, and approximate amounts are fine. Please also enter approximate amounts for taxes (income tax, residents’ tax, etc.) and social insurance premiums (health insurance premiums, public pension insurance premiums, employment insurance premiums, etc.).
+=======================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+ (If you do not expect the person in question to pay any taxes or receive any income, please write “0”).
+
+.. csv-table::
+   :header-rows: 1
+   :widths: 8, 8, 8
+
+   "This year", "You", "Other household member(s)"
+   "| Income (including tax)
+   | (Total amount of employment 
+   | and business income, 
+   | property income, 
+   | social security benefits, 
+   | support and other benefits, etc.) ", "| __ __ __ ten thousand yen
+   | 0. Not applicable", "| __ __ __ ten thousand yen
+   | 0. Not applicable"
+   "Taxes and social insurance", "| __ __ __ ten thousand yen
+   | 0. Not applicable", "| __ __ __ ten thousand yen
+   | 0. Not applicable"
+
+
 What kind of health insurance do you have?
 ================================================
 
