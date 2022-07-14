@@ -51,17 +51,17 @@ Did you ever consider stopping your participation in the survey?
 2. No.
 
 
-How many times have you been surveyed? (Circle as many as apply to you.)
-----------------------------------------------------------------------------------
+When did you feel that you wanted to quit doing the survey? (Circle as many as pertain to you.)
+----------------------------------------------------------------------------------------------------------------
 
 |mchoice|
 
-1. This was the first time I was asked to participate.
-2. This was the second time.
-3. This was the third time.
-4. Between the fourth and ninth time.
-5. Tenth time or greater.
-6. Don’t remember.
+1. The first survey.
+2. The second survey.
+3. The third survey.
+4. Sometime between the fourth and ninth survey.
+5. The tenth or more survey.
+6. I don't remember.
 
 Why?
 ----------------
